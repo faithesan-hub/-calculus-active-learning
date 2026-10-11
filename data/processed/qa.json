@@ -1,0 +1,140 @@
+{
+  "checks": {
+    "Students randomized": {
+      "got": 1019,
+      "expected": 1019,
+      "ok": true,
+      "note": "Original README: 1,019."
+    },
+    "Randomized to active learning": {
+      "got": 516,
+      "expected": 516,
+      "ok": true,
+      "note": ""
+    },
+    "Randomized to lecture": {
+      "got": 503,
+      "expected": 503,
+      "ok": true,
+      "note": ""
+    },
+    "Active students still in assigned section at drop/add": {
+      "got": 417,
+      "expected": 417,
+      "ok": true,
+      "note": ""
+    },
+    "Lecture students still in assigned section at drop/add": {
+      "got": 394,
+      "expected": 394,
+      "ok": true,
+      "note": ""
+    },
+    "Active stayers with an end-of-term learning score": {
+      "got": 376,
+      "expected": 373,
+      "ok": false,
+      "note": "Original README says 373. The file has 376. The 3-student gap is small and is noted as an open question in docs/LIMITATIONS.md; all analyses use what is in the file."
+    },
+    "Lecture stayers with an end-of-term learning score": {
+      "got": 310,
+      "expected": 310,
+      "ok": true,
+      "note": "Original README: 310."
+    },
+    "Course sections": {
+      "got": 32,
+      "expected": 32,
+      "ok": true,
+      "note": ""
+    },
+    "Time slots (randomization blocks)": {
+      "got": 16,
+      "expected": 16,
+      "ok": true,
+      "note": ""
+    },
+    "Time slots with exactly one active and one lecture section": {
+      "got": 16,
+      "expected": 16,
+      "ok": true,
+      "note": ""
+    },
+    "Instructors": {
+      "got": 19,
+      "expected": 19,
+      "ok": true,
+      "note": ""
+    },
+    "Instructors who taught in both arms": {
+      "got": 0,
+      "expected": 0,
+      "ok": true,
+      "note": "Each instructor taught only one style, so instructor and teaching style cannot be fully separated. Analyses account for this by clustering on section."
+    },
+    "Stayers with no course grade": {
+      "got": 0,
+      "expected": 0,
+      "ok": true,
+      "note": ""
+    },
+    "Learning scores all within 0 to 100": {
+      "got": true,
+      "expected": true,
+      "ok": true,
+      "note": ""
+    },
+    "Prior-preparation scores all within 0 to 100": {
+      "got": true,
+      "expected": true,
+      "ok": true,
+      "note": ""
+    }
+  },
+  "spot_checks": [
+    {
+      "row": 1,
+      "raw_Treatment": "CN",
+      "raw_Grade": "DR",
+      "raw_LearningMeasure": null,
+      "clean_arm": "Lecture",
+      "clean_pass": 0
+    },
+    {
+      "row": 2,
+      "raw_Treatment": "TR",
+      "raw_Grade": "A",
+      "raw_LearningMeasure": 83.75,
+      "clean_arm": "Active (MPC)",
+      "clean_pass": 1
+    },
+    {
+      "row": 3,
+      "raw_Treatment": "TR",
+      "raw_Grade": null,
+      "raw_LearningMeasure": null,
+      "clean_arm": "Active (MPC)",
+      "clean_pass": null
+    },
+    {
+      "row": 500,
+      "raw_Treatment": "CN",
+      "raw_Grade": "A",
+      "raw_LearningMeasure": 60.5,
+      "clean_arm": "Lecture",
+      "clean_pass": 1
+    },
+    {
+      "row": 1019,
+      "raw_Treatment": "TR",
+      "raw_Grade": "D",
+      "raw_LearningMeasure": 33.5,
+      "clean_arm": "Active (MPC)",
+      "clean_pass": 0
+    }
+  ],
+  "missing_lm_by_arm": {
+    "Active (MPC)": 0.0983,
+    "Lecture": 0.2132
+  }
+}

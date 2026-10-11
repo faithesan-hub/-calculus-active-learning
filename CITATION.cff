@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Active Learning in First-Semester Calculus: An Open Re-analysis of a Randomized Trial"
+version: "0.1.0"
+date-released: "2026-10-10"
+authors:
+  - family-names: "Esan"
+    given-names: "Faith Oluwafunmitan"
+    orcid: "https://orcid.org/0009-0001-3694-157X"
+    affiliation: "Independent Researcher, Laramie, Wyoming, USA"
+license: MIT
+repository-code: "https://github.com/faithesan-hub/calculus-active-learning"
+keywords:
+  - active learning
+  - cooperative learning
+  - calculus
+  - randomized trial
+  - mathematics education
+  - open science
+references:
+  - type: dataset
+    title: "Establishing a new standard of care for calculus using trials with randomized student allocation"
+    authors:
+      - family-names: Kramer
+        given-names: Laird
+      - family-names: Fuller
+        given-names: Edgar
+      - family-names: Watson
+        given-names: Charity
+      - family-names: Castillo
+        given-names: Adam
+      - family-names: Duran Oliva
+        given-names: Pablo
+      - family-names: Potvin
+        given-names: Geoff
+    year: 2023
+    doi: "10.5061/dryad.kkwh70s95"

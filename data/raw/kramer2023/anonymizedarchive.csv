@@ -1,0 +1,1020 @@
+Row,studyID,Grade,Gender,MajorGrp,RaEth,RE,Cohort,Section,MBS,SecPair,TrialStatus,Treatment,TIDw,LearningMeasure,REWhite,REBlack,REHispanic,REAAPI
+1,11881317,DR,M,Other,Hispanic or Latino/Latina,3,No Cohort,2,NA,2,Completer,CN,C2,NA,1,0,1,0
+2,11911601,A,F,BIO,Hispanic or Latino/Latina,3,No Cohort,22,60.76307451,6,Completer,TR,T4,83.75,1,0,1,0
+3,11986713,NA,NA,Other,Hispanic or Latino/Latina,3,NA,32,50.70063694,16,Departer,TR,T7,NA,0,0,0,0
+4,11986258,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,NA,0,0,0,0
+5,11881919,DR,M,ECS,Hispanic or Latino/Latina,3,Transfer,1,50.42938587,1,Completer,CN,C1,NA,1,0,1,0
+6,11917639,B-,M,BIO,Hispanic or Latino/Latina,3,No Cohort,22,12.5,6,Completer,TR,T4,19.25,1,0,1,0
+7,11919682,B,F,BIO,Hispanic or Latino/Latina,3,Transfer,22,NA,6,Completer,TR,T4,26,0,1,1,0
+8,11884613,A,M,ECS,Hispanic or Latino/Latina,3,No Cohort,2,67.32805806,2,Completer,CN,C2,85,1,0,1,0
+9,11982823,A-,F,BIO,Hispanic or Latino/Latina,3,Transfer,32,62.91065847,16,Completer,TR,T7,44.5,1,0,1,0
+10,11918885,C+,F,BIO,Hispanic or Latino/Latina,3,Transfer,6,62.9593224,6,Completer,CN,C5,33.75,1,0,1,0
+11,11888807,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,NA,0,0,0,0
+12,11916719,DR,F,BIO,Hispanic or Latino/Latina,3,Transfer,20,42.82357292,4,Completer,TR,T3,NA,1,0,1,0
+13,11915452,B-,F,OSM,White,1,Transfer,6,47.42458685,6,Completer,CN,C5,NA,1,0,0,0
+14,11918150,DR,F,OSM,Hispanic or Latino/Latina,3,Transfer,24,49.37665354,8,Completer,TR,T4,NA,1,0,1,0
+15,11981333,B,M,OSM,White,1,No Cohort,13,NA,13,Completer,CN,C9,38,1,0,0,0
+16,11915133,C,M,Other,Hispanic or Latino/Latina,3,FTiC,20,62.06745688,4,Completer,TR,T3,45.75,1,0,1,0
+17,11984136,B,M,BIO,Hispanic or Latino/Latina,3,Transfer,31,50.39730883,15,Completer,TR,T4,48,1,0,1,0
+18,11986436,NA,NA,Other,Hispanic or Latino/Latina,3,NA,31,NA,15,Departer,TR,T4,NA,1,0,1,0
+19,11917838,A-,F,BIO,Hispanic or Latino/Latina,3,Transfer,21,62.67748988,5,Completer,TR,T2,65.25,1,0,1,0
+20,11916757,C,F,BIO,Hispanic or Latino/Latina,3,Transfer,20,36.78182361,4,Completer,TR,T3,43.25,1,0,1,1
+21,11919146,DR,M,ECS,Hispanic or Latino/Latina,3,Transfer,4,47.75925525,4,Completer,CN,C1,NA,1,0,1,0
+22,11986653,F,F,BIO,Black or African American,2,No Cohort,16,NA,16,Completer,CN,C12,NA,0,1,0,0
+23,11911324,NA,NA,Other,Hispanic or Latino/Latina,3,NA,5,73.57982054,5,Departer,CN,C4,NA,1,0,1,0
+24,11886953,C+,M,OSM,Hispanic or Latino/Latina,3,FTiC,2,74.80643736,2,Completer,CN,C2,38.46153846,1,0,1,0
+25,11887419,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,NA,0,0,0,0
+26,11883536,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,18,39.11099206,2,Completer,TR,T2,31.53846154,1,0,1,0
+27,11888878,B,F,Other,Hispanic or Latino/Latina,3,FTiC,18,64.77915078,2,Completer,TR,T2,54.61538462,1,0,1,0
+28,11885769,OF,F,BIO,Black or African American,2,No Cohort,19,75.27603377,3,Completer,TR,T3,NA,0,1,0,0
+29,11984579,D,F,BIO,NonResident,4,Transfer,14,72.43576336,14,Completer,CN,C10,39,0,1,0,0
+30,11984261,B+,M,BIO,White,1,FTiC,27,58.00160416,11,Completer,TR,T1,89,1,0,0,0
+31,11911789,F,M,ECS,Hispanic or Latino/Latina,3,Transfer,6,NA,6,Completer,CN,C5,NA,1,0,1,0
+32,11919390,B+,F,BIO,Hispanic or Latino/Latina,3,Transfer,21,59.96247384,5,Completer,TR,T2,64.25,1,0,1,0
+33,11983321,A,M,ECS,AAPI,4,FTiC,30,71.68516371,14,Completer,TR,T6,78,0,0,0,1
+34,11912244,C,M,BIO,Hispanic or Latino/Latina,3,FTiC,6,58.82276045,6,Completer,CN,C5,30,1,0,1,0
+35,11911170,A,M,BIO,Hispanic or Latino/Latina,3,No Cohort,22,62.79005167,6,Completer,TR,T4,71.5,1,0,1,0
+36,11919079,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,NA,0,0,0,0
+37,11989783,NA,NA,Other,Hispanic or Latino/Latina,3,NA,9,62.37280797,9,Departer,CN,C7,NA,1,0,1,0
+38,11982342,C,F,OSM,White,1,Transfer,28,45.46810834,12,Completer,TR,T5,48.5,1,0,0,0
+39,11914908,C+,F,BIO,White,1,Transfer,7,39.63881071,7,Completer,CN,C6,56.5,1,0,0,0
+40,11986387,B,M,ECS,Hispanic or Latino/Latina,3,Transfer,32,68.39254058,16,Completer,TR,T7,59,1,0,1,0
+41,11985873,DR,M,Other,Hispanic or Latino/Latina,3,Transfer,13,50.04343501,13,Completer,CN,C9,NA,1,0,1,0
+42,11981615,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,CN,NA,NA,0,0,0,0
+43,11988820,NA,NA,Other,Hispanic or Latino/Latina,3,NA,28,51.26695894,12,Departer,TR,T5,NA,1,0,1,1
+44,11916011,NA,NA,Other,Hispanic or Latino/Latina,3,NA,8,73.52240745,8,Switcher-SameDT,CN,C7,67,1,0,1,0
+45,11887737,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,2,55.17356664,2,Completer,CN,C2,NA,1,0,1,0
+46,11989043,A,M,BIO,Hispanic or Latino/Latina,3,Transfer,11,52.52994774,11,Completer,CN,C8,67.5,1,0,1,0
+47,11917223,NA,NA,Other,Hispanic or Latino/Latina,3,NA,7,44.77024248,7,Departer,CN,C6,NA,1,0,1,0
+48,11989861,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,62,0,0,0,0
+49,11885965,NA,NA,Other,AAPI,4,NA,18,53.73553781,2,Switcher-DiffDT,TR,T2,NA,0,0,0,1
+50,11919788,NA,NA,Other,Hispanic or Latino/Latina,3,NA,21,44.18395993,5,Switcher-DiffDT,TR,T2,NA,1,0,1,0
+51,11918575,NA,NA,Other,Hispanic or Latino/Latina,3,NA,24,75.55087498,8,Switcher-SameDT,TR,T4,55.5,1,0,1,0
+52,11914516,B+,M,BIO,Black or African American,2,No Cohort,24,51.56459335,8,Completer,TR,T4,36,0,1,0,0
+53,11986791,C,M,BIO,Hispanic or Latino/Latina,3,Transfer,28,47.97900896,12,Completer,TR,T5,43.5,1,0,1,0
+54,11917285,C+,M,ECS,Hispanic or Latino/Latina,3,FTiC,21,64.83532462,5,Completer,TR,T2,52.5,1,0,1,0
+55,11985728,NA,NA,Other,Hispanic or Latino/Latina,3,NA,29,47.40806973,13,Departer,TR,T2,NA,1,0,1,0
+56,11984047,C,F,BIO,Hispanic or Latino/Latina,3,Transfer,15,41.75272,15,Completer,CN,C11,NA,1,0,1,0
+57,11887296,DR,M,OSM,Hispanic or Latino/Latina,3,Transfer,1,55.17901716,1,Completer,CN,C1,NA,1,0,1,0
+58,11989518,NA,NA,Other,White,1,NA,15,57.06702419,15,Switcher-DiffDT,CN,C11,NA,1,0,0,0
+59,11912069,C+,F,ECS,Hispanic or Latino/Latina,3,Transfer,23,46.3367502,7,Completer,TR,T1,55.25,1,0,1,0
+60,11916968,D,F,OSM,Hispanic or Latino/Latina,3,No Cohort,4,NA,4,Completer,CN,C1,18,1,0,1,0
+61,11984931,C,F,OSM,Hispanic or Latino/Latina,3,No Cohort,30,NA,14,Completer,TR,T6,47.5,1,0,1,0
+62,11914215,A,M,Other,Hispanic or Latino/Latina,3,No Cohort,24,80.94104063,8,Completer,TR,T4,88,0,0,1,0
+63,11916057,DR,F,BIO,Black or African American,2,FTiC,6,59.77738617,6,Completer,CN,C5,NA,1,1,0,0
+64,11916683,B+,M,ECS,AAPI,4,Transfer,24,47.92110312,8,Completer,TR,T4,77.75,1,0,0,1
+65,11989062,DR,M,BIO,Hispanic or Latino/Latina,3,FTiC,11,60.84772672,11,Completer,CN,C8,NA,1,0,1,0
+66,11913186,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,22,56.39135249,6,Completer,TR,T4,56,1,0,1,0
+67,11985857,B,M,ECS,Hispanic or Latino/Latina,3,FTiC,13,53.08291226,13,Completer,CN,C9,42,1,0,1,1
+68,11981165,B+,F,BIO,Hispanic or Latino/Latina,3,Transfer,14,41.94882116,14,Completer,CN,C10,56,1,0,1,0
+69,11885486,NA,NA,Other,Hispanic or Latino/Latina,3,NA,1,51.04839525,1,Switcher-DiffDT,CN,C1,45.76923077,1,0,1,0
+70,11918114,B+,M,BIO,Hispanic or Latino/Latina,3,FTiC,20,57.00154482,4,Completer,TR,T3,54.25,1,0,1,1
+71,11915386,OF,F,OSM,Black or African American,2,No Cohort,8,NA,8,Completer,CN,C7,NA,0,1,0,0
+72,11918517,NA,NA,Other,Hispanic or Latino/Latina,3,NA,6,72.318647,6,Departer,CN,C5,NA,1,0,1,0
+73,11888449,B,F,Other,Hispanic or Latino/Latina,3,FTiC,3,59.56163827,3,Completer,CN,C3,61.15384615,1,0,1,0
+74,11986180,C,M,OSM,Hispanic or Latino/Latina,3,FTiC,9,58.23536943,9,Completer,CN,C7,47,0,0,1,1
+75,11916955,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,20,57.0803565,4,Completer,TR,T3,NA,1,0,1,0
+76,11888695,C+,M,OSM,Hispanic or Latino/Latina,3,Transfer,17,60.39546799,1,Completer,TR,T1,76.53846154,1,0,1,0
+77,11889268,C,M,BIO,AAPI,4,Transfer,17,53.82838998,1,Completer,TR,T1,60.38461538,1,0,0,1
+78,11885169,F,F,BIO,Hispanic or Latino/Latina,3,Transfer,1,65.88006062,1,Completer,CN,C1,24.23076923,1,0,1,0
+79,11985306,D,F,BIO,Hispanic or Latino/Latina,3,Transfer,27,65.88006062,11,Completer,TR,T1,46,1,0,1,0
+80,11982367,DR,F,BIO,Hispanic or Latino/Latina,3,No Cohort,10,69.7553583,10,Completer,CN,C7,NA,1,0,1,0
+81,11988554,D,M,ECS,Black or African American,2,No Cohort,28,52.60885094,12,Completer,TR,T5,14.5,0,1,0,0
+82,11887438,C,F,ECS,Hispanic or Latino/Latina,3,No Cohort,18,47.88135593,2,Completer,TR,T2,31.15384615,1,0,1,1
+83,11884957,D,F,BIO,AAPI,4,Transfer,18,56.64260736,2,Completer,TR,T2,40,0,0,0,1
+84,11983545,NA,NA,Other,AAPI,4,NA,16,56.64260736,16,Departer,CN,C12,NA,0,0,0,1
+85,11917460,F,F,BIO,Hispanic or Latino/Latina,3,Transfer,6,49.65832908,6,Completer,CN,C5,NA,1,0,1,0
+86,11985201,B-,F,BIO,Hispanic or Latino/Latina,3,Transfer,28,49.65832908,12,Completer,TR,T5,63,1,0,1,0
+87,11881653,B,M,Other,Black or African American,2,FTiC,1,76.43068485,1,Completer,CN,C1,76.53846154,0,1,0,0
+88,11981083,DR,F,BIO,Hispanic or Latino/Latina,3,No Cohort,13,NA,13,Completer,CN,C9,NA,1,0,1,0
+89,11889107,C,F,Other,Hispanic or Latino/Latina,3,Transfer,19,48.62524356,3,Completer,TR,T3,55.76923077,1,0,1,0
+90,11887600,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,18,56.21211301,2,Completer,TR,T2,41.92307692,1,0,1,0
+91,11887667,DR,F,BIO,Hispanic or Latino/Latina,3,Transfer,19,46.73250971,3,Completer,TR,T3,NA,1,0,1,0
+92,11887561,NA,NA,Other,Hispanic or Latino/Latina,3,NA,17,48.48948185,1,Switcher-DiffDT,TR,T1,NA,1,0,1,0
+93,11912079,D,F,BIO,Hispanic or Latino/Latina,3,FTiC,23,48.48948185,7,Completer,TR,T1,44.5,1,0,1,0
+94,11888844,C,F,BIO,Black or African American,2,No Cohort,1,46.19390188,1,Completer,CN,C1,26.53846154,0,1,0,0
+95,11915673,DR,F,BIO,Hispanic or Latino/Latina,3,Transfer,6,38.36689038,6,Completer,CN,C5,NA,1,0,1,0
+96,11889721,D,M,BIO,Black or African American,2,Transfer,17,59.58697801,1,Completer,TR,T1,53.46153846,0,1,0,0
+97,11914213,C,M,BIO,Hispanic or Latino/Latina,3,Transfer,22,43.25182832,6,Completer,TR,T4,42.5,1,0,1,0
+98,11984111,B,F,BIO,Hispanic or Latino/Latina,3,Transfer,11,69.90690626,11,Completer,CN,C8,66.5,1,0,1,0
+99,11981265,NA,NA,Other,White,1,NA,31,69.15090947,15,Switcher-DiffDT,TR,T4,NA,1,0,0,0
+100,11918379,NA,NA,Other,Hispanic or Latino/Latina,3,NA,4,62.62269697,4,Switcher-DiffDT,CN,C1,NA,0,0,1,1
+101,11913914,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,64.75,0,0,0,0
+102,11989786,B-,M,ECS,Hispanic or Latino/Latina,3,FTiC,29,49.84340076,13,Completer,TR,T2,39,1,0,1,0
+103,11917297,A,M,Other,Hispanic or Latino/Latina,3,Transfer,24,68.49967525,8,Completer,TR,T4,72.75,1,0,1,0
+104,11988007,F,M,ECS,Hispanic or Latino/Latina,3,Transfer,9,52.57631522,9,Completer,CN,C7,7,1,0,1,0
+105,11989020,NA,NA,Other,Hispanic or Latino/Latina,3,NA,31,50.30590154,15,Switcher-SameDT,TR,T4,36,1,0,1,0
+106,11913884,B-,M,Other,Hispanic or Latino/Latina,3,Transfer,24,69.73712321,8,Completer,TR,T4,57.75,0,1,1,0
+107,11919875,B+,M,BIO,AAPI,4,FTiC,22,66.74215015,6,Completer,TR,T4,43,0,0,0,1
+108,11911922,C+,M,BIO,Black or African American,2,No Cohort,22,43.32932141,6,Completer,TR,T4,38.25,0,1,0,0
+109,11984152,NA,NA,Other,Hispanic or Latino/Latina,3,NA,31,52.16818407,15,Departer,TR,T4,NA,1,0,1,1
+110,11983516,F,F,OSM,Hispanic or Latino/Latina,3,Transfer,25,30.13684419,9,Completer,TR,T3,NA,1,0,1,1
+111,11988438,C,M,ECS,Black or African American,2,No Cohort,32,59.74614977,16,Completer,TR,T7,39,0,1,0,0
+112,11989537,NA,NA,Other,Hispanic or Latino/Latina,3,NA,16,56.48769575,16,Switcher-DiffDT,CN,C12,54.5,0,0,1,0
+113,11885818,A,F,BIO,AAPI,4,No Cohort,3,74.23487548,3,Completer,CN,C3,NA,1,0,0,1
+114,11919073,DR,F,BIO,Hispanic or Latino/Latina,3,Transfer,5,67.52543841,5,Completer,CN,C4,NA,1,0,1,0
+115,11913129,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,24,79.19463087,8,Completer,TR,T4,90,1,0,1,0
+116,11888671,C,F,OSM,Hispanic or Latino/Latina,3,No Cohort,17,58.27379664,1,Completer,TR,T1,64.61538462,1,0,1,0
+117,11886360,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,19,63.07282538,3,Completer,TR,T3,69.61538462,1,0,1,0
+118,11982382,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,26,62.3510971,10,Completer,TR,T4,74.5,1,0,1,0
+119,11886140,NA,NA,Other,White,1,NA,1,60.29241783,1,Switcher-DiffDT,CN,C1,NA,1,0,0,0
+120,11989690,F,F,BIO,Black or African American,2,Transfer,30,44.42059307,14,Completer,TR,T6,23,0,1,0,0
+121,11887660,C+,F,BIO,AAPI,4,FTiC,2,68.53701183,2,Completer,CN,C2,65.38461538,0,0,0,1
+122,11917510,B-,F,BIO,Hispanic or Latino/Latina,3,Transfer,22,42.33013981,6,Completer,TR,T4,26.25,1,0,1,0
+123,11915638,C,F,BIO,Hispanic or Latino/Latina,3,Transfer,7,62.33672512,7,Completer,CN,C6,40.25,1,0,1,0
+124,11984636,DR,F,BIO,Black or African American,2,No Cohort,13,NA,13,Completer,CN,C9,NA,0,1,0,0
+125,11911443,F,M,BIO,Hispanic or Latino/Latina,3,Transfer,8,91.66486252,8,Completer,CN,C7,NA,1,0,1,0
+126,11989729,A,M,BIO,Hispanic or Latino/Latina,3,Transfer,31,91.66486252,15,Completer,TR,T4,47,1,0,1,0
+127,11912809,A-,M,ECS,Hispanic or Latino/Latina,3,No Cohort,24,47.2661374,8,Completer,TR,T4,45,1,0,1,0
+128,11912049,D,F,OSM,Hispanic or Latino/Latina,3,Transfer,8,59.17209133,8,Completer,CN,C7,16.25,1,0,1,0
+129,11913575,NA,NA,Other,Hispanic or Latino/Latina,3,NA,22,53.67684203,6,Departer,TR,T4,NA,1,0,1,0
+130,11982505,C,M,BIO,Hispanic or Latino/Latina,3,No Cohort,16,51.15825936,16,Completer,CN,C12,35.5,1,0,1,0
+131,11913652,C,M,Other,Hispanic or Latino/Latina,3,Transfer,20,57.49171114,4,Completer,TR,T3,57.5,1,0,1,0
+132,11912899,C,F,BIO,Black or African American,2,FTiC,6,47.25942119,6,Completer,CN,C5,24,0,1,0,0
+133,11916321,NA,NA,Other,Hispanic or Latino/Latina,3,NA,5,72.16127381,5,Switcher-SameDT,CN,C4,NA,1,0,1,0
+134,11912404,NA,NA,Other,Hispanic or Latino/Latina,3,NA,8,67.95166703,8,Switcher-SameDT,CN,C7,34.75,1,0,1,0
+135,11911639,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,25,0,0,0,0
+136,11988889,NA,NA,Other,Black or African American,2,NA,15,36.84950688,15,Departer,CN,C11,NA,0,0,0,0
+137,11982323,DR,F,OSM,Hispanic or Latino/Latina,3,No Cohort,30,45.60510933,14,Departer,TR,T6,NA,1,0,1,0
+138,11889288,DR,M,OSM,Hispanic or Latino/Latina,3,No Cohort,17,54.63664574,1,Completer,TR,T1,NA,1,0,1,0
+139,11984445,C,M,BIO,Hispanic or Latino/Latina,3,Transfer,29,54.63664574,13,Completer,TR,T2,66,1,0,1,0
+140,11918456,C+,M,BIO,Hispanic or Latino/Latina,3,Transfer,21,38.80694311,5,Completer,TR,T2,33,1,0,1,0
+141,11886458,NA,NA,Other,Hispanic or Latino/Latina,3,NA,19,83.79158548,3,Departer,TR,T3,NA,1,0,1,0
+142,11917208,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,21,83.79158548,5,Completer,TR,T2,48.75,1,0,1,0
+143,11917041,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,CN,NA,NA,0,0,0,0
+144,11911270,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,4,72.1664569,4,Completer,CN,C1,27,0,0,1,0
+145,11913802,A,M,Other,Hispanic or Latino/Latina,3,FTiC,22,50.30300417,6,Completer,TR,T4,89.75,1,0,1,0
+146,11915395,NA,NA,Other,Hispanic or Latino/Latina,3,NA,8,37.0539938,8,Switcher-DiffDT,CN,C7,NA,1,0,1,0
+147,11983873,C+,F,BIO,Hispanic or Latino/Latina,3,Transfer,11,47.47780905,11,Completer,CN,C8,53,1,0,1,0
+148,11884770,B+,M,Other,Hispanic or Latino/Latina,3,FTiC,2,72.55538717,2,Completer,CN,C2,75.38461538,1,0,1,0
+149,11881669,A-,M,Other,Black or African American,2,FTiC,3,68.89749668,3,Completer,CN,C3,71.92307692,0,1,0,0
+150,11883679,A-,F,Other,Black or African American,2,FTiC,3,62.58257877,3,Completer,CN,C3,68.84615385,0,1,0,0
+151,11884486,B+,M,ECS,AAPI,4,FTiC,18,80.87872532,2,Completer,TR,T2,67.30769231,0,0,0,1
+152,11881860,C,F,BIO,Hispanic or Latino/Latina,3,No Cohort,3,56.22231865,3,Completer,CN,C3,27.69230769,1,0,1,0
+153,11911313,DR,F,Other,Hispanic or Latino/Latina,3,Transfer,7,55.7435482,7,Completer,CN,C6,NA,1,0,1,0
+154,11985765,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,59.5,0,0,0,0
+155,11885311,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,NA,0,0,0,0
+156,11918071,F,M,BIO,Hispanic or Latino/Latina,3,No Cohort,4,59.3220339,4,Completer,CN,C1,NA,1,0,1,0
+157,11885740,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,19,77.4392004,3,Completer,TR,T3,88.84615385,1,0,1,0
+158,11918678,D,F,BIO,Hispanic or Latino/Latina,3,No Cohort,6,59.49287168,6,Completer,CN,C5,23.5,1,0,1,0
+159,11919854,DR,M,Other,Hispanic or Latino/Latina,3,No Cohort,7,52.39048856,7,Completer,CN,C6,NA,1,0,1,0
+160,11983442,C,M,Other,Hispanic or Latino/Latina,3,FTiC,16,62.93545574,16,Completer,CN,C12,19.5,1,0,1,0
+161,11889973,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,NA,0,0,0,0
+162,11911883,B+,M,BIO,Hispanic or Latino/Latina,3,FTiC,24,67.11501132,8,Completer,TR,T4,37.5,1,0,1,0
+163,11918762,D,F,BIO,Hispanic or Latino/Latina,3,FTiC,6,73.13271271,6,Completer,CN,C5,29.75,1,0,1,0
+164,11983620,A,M,BIO,NotReported/Other,NA,No Cohort,13,72.05176407,13,Completer,CN,C9,NA,1,0,0,0
+165,11981819,D,M,OSM,Hispanic or Latino/Latina,3,No Cohort,13,70.82701884,13,Completer,CN,C9,12.5,1,0,1,0
+166,11911687,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,93.5,0,0,0,0
+167,11915030,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,5,61.33181785,5,Completer,CN,C4,60.25,1,0,1,0
+168,11917421,C,M,BIO,Hispanic or Latino/Latina,3,FTiC,5,70.73152161,5,Completer,CN,C4,40.25,1,0,1,0
+169,11889255,DR,F,OSM,Hispanic or Latino/Latina,3,No Cohort,2,36.92222342,2,Completer,CN,C2,NA,1,0,1,0
+170,11887157,A-,F,Other,AAPI,4,FTiC,3,75.89665873,3,Completer,CN,C3,NA,0,0,0,1
+171,11984115,D,M,BIO,White,1,Transfer,28,64.07231002,12,Completer,TR,T5,NA,1,0,0,0
+172,11886058,DR,F,BIO,Hispanic or Latino/Latina,3,Transfer,19,58.45182573,3,Completer,TR,T3,33.84615385,1,0,1,0
+173,11911733,C,F,BIO,Hispanic or Latino/Latina,3,Transfer,4,58.45182573,4,Completer,CN,C1,40.5,1,0,1,0
+174,11912225,DR,M,OSM,Hispanic or Latino/Latina,3,FTiC,22,55.14983249,6,Completer,TR,T4,NA,1,0,1,0
+175,11914480,NA,NA,Other,AAPI,4,NA,4,63.58317341,4,Switcher-DiffDT,CN,C1,16.75,1,0,0,1
+176,11986691,B,M,Other,Hispanic or Latino/Latina,3,FTiC,13,57.9779173,13,Completer,CN,C9,53.5,1,0,1,0
+177,11881847,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,TR,NA,NA,0,0,0,0
+178,11988081,DR,F,BIO,Hispanic or Latino/Latina,3,No Cohort,25,61.57176878,9,Completer,TR,T3,NA,1,0,1,0
+179,11888598,D,F,OSM,Hispanic or Latino/Latina,3,FTiC,19,50.12915926,3,Completer,TR,T3,51.15384615,1,0,1,0
+180,11888415,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,3,86.95199177,3,Completer,CN,C3,NA,1,0,1,0
+181,11913011,C,F,BIO,Hispanic or Latino/Latina,3,Transfer,8,56.95360276,8,Completer,CN,C7,14.25,1,0,1,0
+182,11984327,F,F,BIO,Hispanic or Latino/Latina,3,Transfer,25,53.46502688,9,Completer,TR,T3,NA,1,0,1,0
+183,11981527,F,M,BIO,Hispanic or Latino/Latina,3,Transfer,14,65.57841078,14,Completer,CN,C10,NA,1,0,1,0
+184,11887184,C,M,ECS,Black or African American,2,No Cohort,1,47.82397548,1,Completer,CN,C1,44.23076923,0,1,0,0
+185,11986213,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,NA,0,0,0,0
+186,11917935,C,F,OSM,Hispanic or Latino/Latina,3,FTiC,21,54.65964855,5,Completer,TR,T2,45.5,1,0,1,0
+187,11987349,NA,NA,Other,Hispanic or Latino/Latina,3,NA,28,53.50424557,12,Switcher-DiffDT,TR,T5,49,1,0,1,0
+188,11917064,F,M,BIO,Hispanic or Latino/Latina,3,FTiC,8,62.66975756,8,Completer,CN,C7,NA,1,0,1,0
+189,11986139,C+,M,BIO,Hispanic or Latino/Latina,3,FTiC,26,62.66975756,10,Completer,TR,T4,63.5,1,0,1,0
+190,11883287,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,19,50.69233961,3,Completer,TR,T3,64.23076923,0,0,1,0
+191,11917413,NA,NA,Other,Hispanic or Latino/Latina,3,NA,23,56.38010465,7,Switcher-SameDT,TR,T1,NA,1,1,1,0
+192,11888400,NA,NA,Other,White,1,NA,17,51.27318425,1,Switcher-DiffDT,TR,T1,NA,1,0,0,0
+193,11916523,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,50.75,0,0,0,0
+194,11988973,NA,NA,Other,Hispanic or Latino/Latina,3,NA,26,61.25876538,10,Departer,TR,T4,NA,1,0,1,0
+195,11889710,B-,M,BIO,Hispanic or Latino/Latina,3,FTiC,17,64.89197163,1,Completer,TR,T1,65.76923077,1,0,1,0
+196,11911012,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,4,57.08913258,4,Completer,CN,C1,42.25,1,0,1,0
+197,11983256,F,M,BIO,Black or African American,2,FTiC,11,54.17126366,11,Completer,CN,C8,NA,0,1,0,0
+198,11889427,C,F,OSM,Hispanic or Latino/Latina,3,No Cohort,18,44.24329543,2,Completer,TR,T2,36.53846154,1,0,1,0
+199,11981710,A,M,BIO,Hispanic or Latino/Latina,3,No Cohort,15,44.73422334,15,Completer,CN,C11,58,1,0,1,0
+200,11981680,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,9.5,0,0,0,0
+201,11919466,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,4,63.30195655,4,Completer,CN,C1,27.5,1,0,1,0
+202,11881803,F,F,Other,Hispanic or Latino/Latina,3,Transfer,1,51.60207679,1,Completer,CN,C1,NA,1,0,1,0
+203,11989541,OF,M,Other,Black or African American,2,FTiC,32,59.03019095,16,Completer,TR,T7,NA,1,1,0,0
+204,11982268,D,F,BIO,Hispanic or Latino/Latina,3,No Cohort,15,38.24365273,15,Completer,CN,C11,18,1,0,1,0
+205,11911177,A,F,Other,Hispanic or Latino/Latina,3,FTiC,20,66.8470809,4,Completer,TR,T3,80.75,1,0,1,0
+206,11883721,A-,M,BIO,Hispanic or Latino/Latina,3,No Cohort,19,62.65569137,3,Completer,TR,T3,85.38461538,1,0,1,0
+207,11988803,DR,M,BIO,AAPI,4,FTiC,12,70.87863565,12,Completer,CN,C9,NA,0,0,0,1
+208,11881548,F,F,OSM,Hispanic or Latino/Latina,3,FTiC,2,61.59610941,2,Departer,CN,C2,53.46153846,1,0,1,1
+209,11988084,C,M,BIO,Hispanic or Latino/Latina,3,Transfer,13,20.83333333,13,Completer,CN,C9,24,1,0,1,1
+210,11983464,DR,F,BIO,Hispanic or Latino/Latina,3,Transfer,12,43.90025039,12,Completer,CN,C9,NA,1,0,1,0
+211,11986472,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,31,61.09327355,15,Completer,TR,T4,75,1,0,1,0
+212,11987897,C,M,BIO,Hispanic or Latino/Latina,3,Transfer,28,62.31509141,12,Completer,TR,T5,41.5,1,0,1,0
+213,11881863,B-,M,OSM,Hispanic or Latino/Latina,3,FTiC,19,61.30123917,3,Completer,TR,T3,71.92307692,1,0,1,0
+214,11883977,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,TR,NA,NA,0,0,0,0
+215,11989391,F,F,Other,Hispanic or Latino/Latina,3,FTiC,26,62.56797641,10,Completer,TR,T4,31.5,0,0,1,0
+216,11986991,C+,M,BIO,Hispanic or Latino/Latina,3,Transfer,27,64.72396766,11,Completer,TR,T1,69.5,1,0,1,1
+217,11984915,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,27,57.95290394,11,Completer,TR,T1,78,1,0,1,0
+218,11981389,A-,M,OSM,Hispanic or Latino/Latina,3,FTiC,27,62.05766915,11,Completer,TR,T1,89.5,1,0,1,0
+219,11884459,C,F,BIO,Hispanic or Latino/Latina,3,Transfer,18,54.59334632,2,Completer,TR,T2,31.92307692,1,0,1,0
+220,11882805,C+,F,Other,Black or African American,2,No Cohort,2,37.6391698,2,Completer,CN,C2,66.53846154,0,1,0,0
+221,11889949,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,71.53846154,0,0,0,0
+222,11985666,NA,NA,Other,Hispanic or Latino/Latina,3,NA,16,65.38097818,16,Switcher-SameDT,CN,C12,NA,1,0,1,0
+223,11887382,B,F,BIO,AAPI,4,FTiC,19,61.57060169,3,Completer,TR,T3,59.61538462,0,0,0,1
+224,11986155,B+,F,Other,Hispanic or Latino/Latina,3,No Cohort,11,80.36909694,11,Completer,CN,C8,NA,0,0,1,0
+225,11987937,NA,NA,Other,Hispanic or Latino/Latina,3,NA,12,50.46139665,12,Switcher-DiffDT,CN,C9,NA,1,0,1,0
+226,11984295,B-,M,BIO,Hispanic or Latino/Latina,3,FTiC,15,57.28909678,15,Completer,CN,C11,50.5,1,0,1,0
+227,11989197,B+,F,BIO,Hispanic or Latino/Latina,3,No Cohort,16,47.80908321,16,Completer,CN,C12,38,1,0,1,0
+228,11914532,D,F,BIO,Black or African American,2,Transfer,20,70.09453706,4,Completer,TR,T3,43,0,1,0,0
+229,11911028,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,24,58.57484377,8,Completer,TR,T4,18.25,1,0,1,0
+230,11916125,D,F,BIO,Hispanic or Latino/Latina,3,FTiC,6,63.19910515,6,Completer,CN,C5,23.25,1,0,1,0
+231,11982239,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,TR,NA,NA,0,0,0,0
+232,11918221,NA,NA,Other,Hispanic or Latino/Latina,3,NA,6,NA,6,Departer,CN,C5,NA,1,0,1,0
+233,11886750,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,3,65.55617149,3,Completer,CN,C3,NA,1,0,1,0
+234,11883096,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,CN,NA,NA,0,0,0,0
+235,11987901,C,M,ECS,Hispanic or Latino/Latina,3,FTiC,25,70.22714152,9,Completer,TR,T3,82,1,0,1,0
+236,11912773,B-,M,ECS,Hispanic or Latino/Latina,3,No Cohort,5,65.01903657,5,Completer,CN,C4,60.25,1,0,1,0
+237,11887870,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,17,81.02763946,1,Completer,TR,T1,63.84615385,1,0,1,0
+238,11989128,C+,M,Other,Hispanic or Latino/Latina,3,FTiC,25,73.3925092,9,Completer,TR,T3,83,1,0,1,0
+239,11882890,C,M,Other,AAPI,4,FTiC,18,51.03918597,2,Completer,TR,T2,53.84615385,1,0,0,1
+240,11884846,B+,F,ECS,Hispanic or Latino/Latina,3,FTiC,18,72.32767453,2,Completer,TR,T2,73.07692308,0,1,1,0
+241,11887380,DR,F,BIO,Hispanic or Latino/Latina,3,No Cohort,3,65.46535345,3,Completer,CN,C3,NA,0,1,1,0
+242,11982727,C,F,BIO,Hispanic or Latino/Latina,3,Transfer,27,65.46535345,11,Completer,TR,T1,65.5,0,1,1,0
+243,11911939,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,22,53.92806885,6,Completer,TR,T4,81.75,1,0,1,0
+244,11987806,NA,NA,Other,Hispanic or Latino/Latina,3,NA,25,73.7785345,9,Departer,TR,T3,NA,1,0,1,0
+245,11986115,A,F,BIO,White,1,No Cohort,27,77.23533232,11,Completer,TR,T1,97.5,1,0,0,0
+246,11915096,C,F,BIO,AAPI,4,FTiC,6,51.57185899,6,Completer,CN,C5,25,1,0,0,1
+247,11912146,NA,NA,Other,Hispanic or Latino/Latina,3,NA,23,60.72399008,7,Switcher-DiffDT,TR,T1,NA,1,0,1,0
+248,11981751,NA,NA,Other,Hispanic or Latino/Latina,3,NA,29,45.33621739,13,Switcher-DiffDT,TR,T2,NA,1,0,1,1
+249,11983899,B,F,BIO,Hispanic or Latino/Latina,3,Transfer,31,42.12871288,15,Completer,TR,T4,56.5,1,0,1,0
+250,11913681,NA,NA,Other,Hispanic or Latino/Latina,3,NA,23,NA,7,Switcher-DiffDT,TR,T1,NA,0,0,1,1
+251,11984138,NA,NA,Other,Hispanic or Latino/Latina,3,NA,15,34.61021952,15,Departer,CN,C11,NA,0,0,0,0
+252,11886514,F,F,Other,Hispanic or Latino/Latina,3,FTiC,1,60.2472837,1,Completer,CN,C1,32.69230769,1,0,1,0
+253,11887559,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,3,55.43723389,3,Completer,CN,C3,35.76923077,1,0,1,1
+254,11888099,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,47.30769231,0,0,0,0
+255,11917343,B+,F,OSM,Hispanic or Latino/Latina,3,Transfer,23,45.66095111,7,Completer,TR,T1,63.25,1,0,1,0
+256,11881208,B+,M,OSM,White,1,FTiC,3,57.56313275,3,Completer,CN,C3,66.92307692,1,0,0,0
+257,11984928,C,F,Other,AAPI,4,No Cohort,28,59.99900772,12,Completer,TR,T5,50.5,0,0,0,1
+258,11918559,A-,F,OSM,Hispanic or Latino/Latina,3,FTiC,6,58.14615357,6,Completer,CN,C5,57.75,1,0,1,0
+259,11882077,D,F,BIO,Hispanic or Latino/Latina,3,FTiC,3,49.07357292,3,Completer,CN,C3,24.23076923,1,0,1,0
+260,11913999,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,22,55.01822184,6,Completer,TR,T4,44,1,0,1,0
+261,11884037,DR,F,OSM,Hispanic or Latino/Latina,3,FTiC,2,57.33925092,2,Completer,CN,C2,NA,1,0,1,0
+262,11984176,F,F,OSM,Hispanic or Latino/Latina,3,FTiC,12,57.33925092,12,Completer,CN,C9,NA,1,0,1,0
+263,11914098,A,M,BIO,Black or African American,2,No Cohort,6,70.15990906,6,Completer,CN,C5,66,1,1,0,0
+264,11915753,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,8,56.49256795,8,Completer,CN,C7,9,1,0,1,0
+265,11882871,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,TR,NA,NA,0,0,0,0
+266,11882820,C,M,ECS,White,1,Transfer,18,43.88395757,2,Completer,TR,T2,45,1,0,0,0
+267,11916656,C,F,Other,Hispanic or Latino/Latina,3,FTiC,21,73.53867001,5,Completer,TR,T2,35,1,0,1,0
+268,11887612,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,NA,0,0,0,0
+269,11916504,A-,F,Other,Hispanic or Latino/Latina,3,FTiC,22,66.75579206,6,Completer,TR,T4,62.25,1,0,1,0
+270,11917615,OF,F,Other,Hispanic or Latino/Latina,3,FTiC,20,59.77543446,4,Completer,TR,T3,42.75,1,0,1,0
+271,11985821,NA,NA,Other,Hispanic or Latino/Latina,3,NA,26,66.87898089,10,Departer,TR,T4,NA,0,0,0,0
+272,11915111,C,M,ECS,Hispanic or Latino/Latina,3,FTiC,6,49.04131241,6,Completer,CN,C5,46.25,1,1,1,0
+273,11882209,NA,NA,Other,Hispanic or Latino/Latina,3,NA,1,70.44585987,1,Departer,CN,C1,NA,1,0,1,0
+274,11881556,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,19,77.20728117,3,Completer,TR,T3,90.76923077,1,0,1,0
+275,11912902,A-,M,BIO,Hispanic or Latino/Latina,3,FTiC,23,72.23064155,7,Completer,TR,T1,83.25,1,0,1,0
+276,11984334,C+,M,BIO,Hispanic or Latino/Latina,3,FTiC,26,64.44964849,10,Completer,TR,T4,33.5,1,0,1,0
+277,11885735,C+,M,Other,Hispanic or Latino/Latina,3,FTiC,17,62.30560367,1,Completer,TR,T1,72.69230769,1,0,1,0
+278,11911143,NA,NA,Other,Hispanic or Latino/Latina,3,NA,7,63.46141633,7,Switcher-SameDT,CN,C6,48.5,1,0,1,0
+279,11916417,A,F,BIO,AAPI,4,No Cohort,22,58.75063681,6,Completer,TR,T4,66.75,0,0,0,1
+280,11914393,B-,M,BIO,Hispanic or Latino/Latina,3,FTiC,21,64.35646244,5,Completer,TR,T2,31.75,1,0,1,0
+281,11916465,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,7,61.36242712,7,Completer,CN,C6,58.5,1,0,1,0
+282,11886318,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,3,61.27634048,3,Completer,CN,C3,47.30769231,1,0,1,0
+283,11881740,NA,NA,Other,Hispanic or Latino/Latina,3,NA,1,80.98434004,1,Switcher-SameDT,CN,C1,79.61538462,1,0,1,0
+284,11887263,B,F,Other,Hispanic or Latino/Latina,3,FTiC,2,67.11478076,2,Completer,CN,C2,52.69230769,1,0,1,0
+285,11913480,A-,M,OSM,Hispanic or Latino/Latina,3,No Cohort,5,66.67388324,5,Completer,CN,C4,60.5,1,0,1,0
+286,11913352,F,F,OSM,Hispanic or Latino/Latina,3,FTiC,20,63.74141809,4,Completer,TR,T3,NA,1,0,1,0
+287,11916076,B,M,OSM,Hispanic or Latino/Latina,3,FTiC,20,58.46052537,4,Completer,TR,T3,79,1,0,1,0
+288,11981800,F,F,Other,Black or African American,2,FTiC,10,64.87869269,10,Completer,CN,C7,13,0,1,0,0
+289,11912861,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,73,0,0,0,0
+290,11882936,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,18,79.30287941,2,Completer,TR,T2,63.07692308,1,0,1,0
+291,11981853,F,F,BIO,Hispanic or Latino/Latina,3,No Cohort,25,49.92552838,9,Completer,TR,T3,7,1,0,1,0
+292,11986254,NA,NA,Other,Hispanic or Latino/Latina,3,NA,9,66.34011691,9,Departer,CN,C7,NA,1,0,1,0
+293,11914083,C,F,BIO,Black or African American,2,FTiC,4,68.50517942,4,Completer,CN,C1,10.75,0,1,0,0
+294,11911711,C,M,BIO,Hispanic or Latino/Latina,3,FTiC,5,59.14791378,5,Completer,CN,C4,42.25,1,0,1,0
+295,11881071,C,F,BIO,Black or African American,2,FTiC,3,48.97901854,3,Completer,CN,C3,12.69230769,0,1,0,0
+296,11915385,DR,M,BIO,AAPI,4,FTiC,6,55.55268116,6,Completer,CN,C5,NA,0,1,0,1
+297,11914048,C,F,BIO,Hispanic or Latino/Latina,3,Transfer,22,43.17611108,6,Completer,TR,T4,26.25,1,0,1,0
+298,11982922,C,F,BIO,Hispanic or Latino/Latina,3,Transfer,12,64.51612903,12,Completer,CN,C9,41,1,0,1,0
+299,11981992,B-,M,BIO,Hispanic or Latino/Latina,3,FTiC,13,54.46423803,13,Completer,CN,C9,39.5,1,0,1,0
+300,11911346,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,CN,NA,NA,0,0,0,0
+301,11985891,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,29,67.5511245,13,Completer,TR,T2,54.5,1,0,1,0
+302,11883592,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,1,67.03770864,1,Completer,CN,C1,NA,1,0,1,0
+303,11985880,C,F,BIO,Hispanic or Latino/Latina,3,No Cohort,11,32.78223719,11,Completer,CN,C8,43,1,0,1,0
+304,11882184,OF,M,BIO,Hispanic or Latino/Latina,3,FTiC,1,72.85230992,1,Completer,CN,C1,38.07692308,1,0,1,0
+305,11914722,D,M,BIO,Hispanic or Latino/Latina,3,FTiC,4,72.85230992,4,Completer,CN,C1,19.75,1,0,1,0
+306,11981735,C,M,Other,Hispanic or Latino/Latina,3,No Cohort,13,40.19691163,13,Completer,CN,C9,27,1,0,1,0
+307,11914737,C,M,BIO,Hispanic or Latino/Latina,3,FTiC,21,55.94816546,5,Completer,TR,T2,51,1,0,1,0
+308,11887962,NA,NA,Other,AAPI,4,NA,3,60.03055728,3,Switcher-DiffDT,CN,C3,NA,0,0,0,1
+309,11981529,B+,M,OSM,White,1,No Cohort,27,63.63152052,11,Completer,TR,T1,77,1,0,0,0
+310,11881812,C,M,BIO,Hispanic or Latino/Latina,3,FTiC,18,74.46056145,2,Completer,TR,T2,57.30769231,1,0,1,0
+311,11882711,OF,M,Other,Hispanic or Latino/Latina,3,Transfer,19,37.57667605,3,Completer,TR,T3,NA,1,0,1,0
+312,11883345,F,F,BIO,Hispanic or Latino/Latina,3,FTiC,18,56.2205196,2,Completer,TR,T2,29.23076923,1,0,1,0
+313,11883435,NA,NA,Other,Hispanic or Latino/Latina,3,NA,18,69.85902715,2,Switcher-DiffDT,TR,T2,46.53846154,1,0,1,0
+314,11884876,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,2,82.22304347,2,Completer,CN,C2,75.38461538,1,0,1,0
+315,11919063,A-,M,BIO,Hispanic or Latino/Latina,3,FTiC,6,65.79832531,6,Completer,CN,C5,65.25,1,0,1,0
+316,11887193,A,F,Other,Hispanic or Latino/Latina,3,FTiC,1,76.72715255,1,Completer,CN,C1,88.07692308,1,0,1,0
+317,11882364,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,17,81.93821881,1,Completer,TR,T1,92.69230769,1,0,1,0
+318,11987248,B-,F,ECS,Hispanic or Latino/Latina,3,FTiC,28,63.82602047,12,Completer,TR,T5,66,1,0,1,0
+319,11883724,A-,M,ECS,Hispanic or Latino/Latina,3,FTiC,17,75.54990028,1,Completer,TR,T1,82.30769231,1,0,1,0
+320,11913769,F,M,BIO,Black or African American,2,FTiC,23,53.32280203,7,Completer,TR,T1,24,0,1,0,0
+321,11989615,DR,F,BIO,Hispanic or Latino/Latina,3,Transfer,31,36.54809054,15,Completer,TR,T4,NA,1,0,1,0
+322,11886484,C+,F,Other,Hispanic or Latino/Latina,3,FTiC,3,68.44646835,3,Completer,CN,C3,NA,1,1,1,0
+323,11981644,F,F,BIO,Hispanic or Latino/Latina,3,Transfer,10,45.41148388,10,Completer,CN,C7,5.5,0,1,1,0
+324,11981911,F,F,BIO,NonResident,4,Transfer,10,NA,10,Completer,CN,C7,NA,0,1,0,0
+325,11986016,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,31,49.27987928,15,Completer,TR,T4,41,1,0,1,0
+326,11913494,D,M,BIO,Hispanic or Latino/Latina,3,No Cohort,8,43.62808742,8,Completer,CN,C7,4.25,1,0,1,0
+327,11987997,C,M,BIO,Hispanic or Latino/Latina,3,No Cohort,31,43.62808742,15,Completer,TR,T4,27.5,1,0,1,0
+328,11986649,F,M,BIO,Hispanic or Latino/Latina,3,Transfer,11,49.57261105,11,Completer,CN,C8,NA,1,0,1,0
+329,11989387,C,M,Other,Hispanic or Latino/Latina,3,FTiC,13,56.46633984,13,Completer,CN,C9,17,1,0,1,0
+330,11985462,B+,F,OSM,Hispanic or Latino/Latina,3,FTiC,28,66.25039473,12,Completer,TR,T5,76,1,0,1,0
+331,11885300,C,M,Other,Hispanic or Latino/Latina,3,FTiC,19,59.93483071,3,Completer,TR,T3,64.23076923,1,0,1,0
+332,11988832,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,41.5,0,0,0,0
+333,11988904,NA,NA,Other,Hispanic or Latino/Latina,3,NA,27,80.71011041,11,Departer,TR,T1,12.5,1,0,1,0
+334,11911069,B,F,Other,Hispanic or Latino/Latina,3,FTiC,22,64.11528836,6,Completer,TR,T4,25.25,1,0,1,0
+335,11981407,F,F,BIO,Hispanic or Latino/Latina,3,Transfer,25,46.00003231,9,Completer,TR,T3,NA,1,0,1,0
+336,11884732,B,F,Other,NonResident,4,FTiC,18,79.00700007,2,Completer,TR,T2,68.46153846,1,0,1,0
+337,11983461,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,NA,0,0,0,0
+338,11882195,C,M,Other,Hispanic or Latino/Latina,3,No Cohort,17,67.11895597,1,Completer,TR,T1,59.61538462,1,0,1,0
+339,11883463,D,M,BIO,Hispanic or Latino/Latina,3,Transfer,3,49.49967158,3,Completer,CN,C3,NA,1,0,1,0
+340,11913749,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,20,73.17062498,4,Completer,TR,T3,74.25,1,0,1,0
+341,11988651,C,F,OSM,Hispanic or Latino/Latina,3,FTiC,28,59.40211947,12,Completer,TR,T5,49.5,1,0,1,0
+342,11882313,A,F,OSM,Hispanic or Latino/Latina,3,FTiC,18,80.11941354,2,Completer,TR,T2,77.69230769,1,0,1,0
+343,11988237,DR,F,BIO,NotReported/Other,NA,Transfer,NA,NA,NA,Departer,TR,NA,NA,0,0,0,0
+344,11989552,B,F,BIO,NonResident,4,Transfer,16,64.25633254,16,Completer,CN,C12,28,0,1,0,0
+345,11914968,A-,M,BIO,Black or African American,2,No Cohort,22,43.76443314,6,Completer,TR,T4,56.25,0,1,0,0
+346,11984622,A-,F,OSM,Hispanic or Latino/Latina,3,FTiC,27,85.55208823,11,Completer,TR,T1,79,1,0,1,0
+347,11984262,F,F,BIO,NotReported/Other,NA,Transfer,NA,NA,NA,Departer,TR,NA,NA,0,0,0,0
+348,11984834,B,M,OSM,Black or African American,2,FTiC,26,58.95447303,10,Completer,TR,T4,54.5,0,1,0,0
+349,11919261,C+,F,BIO,Black or African American,2,No Cohort,24,49.4592997,8,Completer,TR,T4,35.5,0,1,0,0
+350,11912593,NA,NA,Other,Hispanic or Latino/Latina,3,NA,23,43.77300281,7,Switcher-DiffDT,TR,T1,NA,1,0,1,0
+351,11983941,F,M,BIO,Hispanic or Latino/Latina,3,FTiC,30,67.11725121,14,Completer,TR,T6,NA,1,0,1,0
+352,11986253,A-,F,OSM,Hispanic or Latino/Latina,3,FTiC,11,78.6474483,11,Completer,CN,C8,78,1,0,1,0
+353,11984180,B+,M,BIO,Hispanic or Latino/Latina,3,FTiC,31,72.63684477,15,Completer,TR,T4,65.5,1,0,1,0
+354,11887276,D,F,Other,Hispanic or Latino/Latina,3,No Cohort,19,36.04682695,3,Completer,TR,T3,40,1,0,1,0
+355,11987543,DR,F,Other,Hispanic or Latino/Latina,3,FTiC,9,56.74343292,9,Completer,CN,C7,NA,1,0,1,0
+356,11985056,A,F,BIO,Hispanic or Latino/Latina,3,Transfer,9,52.0167917,9,Completer,CN,C7,64,1,0,1,0
+357,11882434,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,19,86.44416394,3,Completer,TR,T3,83.46153846,1,0,1,0
+358,11985620,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,CN,NA,NA,0,0,0,0
+359,11918462,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,20,72.46743523,4,Completer,TR,T3,95.25,1,0,1,0
+360,11983541,DR,M,BIO,Hispanic or Latino/Latina,3,FTiC,12,46.73360035,12,Completer,CN,C9,NA,1,0,1,0
+361,11886528,F,M,BIO,Hispanic or Latino/Latina,3,FTiC,18,66.61299343,2,Completer,TR,T2,41.15384615,1,0,1,0
+362,11884244,NA,NA,Other,Hispanic or Latino/Latina,3,NA,19,61.44187053,3,Switcher-DiffDT,TR,T3,NA,1,0,1,0
+363,11916792,F,M,Other,AAPI,4,FTiC,4,60.03824782,4,Completer,CN,C1,18.75,1,0,0,1
+364,11981302,F,F,BIO,Hispanic or Latino/Latina,3,Transfer,26,46.16577624,10,Completer,TR,T4,NA,0,1,1,0
+365,11989264,DR,M,Other,Hispanic or Latino/Latina,3,FTiC,30,65.46871617,14,Departer,TR,T6,NA,0,1,1,1
+366,11911841,B,M,BIO,Hispanic or Latino/Latina,3,FTiC,20,69.98074049,4,Completer,TR,T3,63.5,1,0,1,0
+367,11911517,C,M,Other,Hispanic or Latino/Latina,3,FTiC,4,66.58879207,4,Completer,CN,C1,20.75,1,0,1,0
+368,11919191,B,F,BIO,Hispanic or Latino/Latina,3,Transfer,24,64.77592553,8,Completer,TR,T4,64.75,1,0,1,0
+369,11982882,A-,F,BIO,Hispanic or Latino/Latina,3,Transfer,32,64.77592553,16,Completer,TR,T7,68.5,1,0,1,0
+370,11984225,A,F,BIO,Hispanic or Latino/Latina,3,No Cohort,29,45.76271186,13,Completer,TR,T2,85,1,0,1,0
+371,11918009,B-,F,BIO,Hispanic or Latino/Latina,3,Transfer,6,54.16666667,6,Completer,CN,C5,35.75,1,0,1,0
+372,11881851,NA,NA,Other,Hispanic or Latino/Latina,3,NA,3,74.14012739,3,Departer,CN,C3,NA,1,0,1,0
+373,11912791,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,CN,NA,NA,0,0,0,0
+374,11987592,B,M,BIO,Hispanic or Latino/Latina,3,No Cohort,26,67.55399403,10,Completer,TR,T4,71.5,1,0,1,0
+375,11984463,D,F,Other,Hispanic or Latino/Latina,3,FTiC,26,53.10308762,10,Completer,TR,T4,36.5,1,0,1,0
+376,11984345,NA,NA,Other,Hispanic or Latino/Latina,3,NA,30,61.91996825,14,Switcher-DiffDT,TR,T6,74,1,0,1,0
+377,11881915,F,F,Other,Hispanic or Latino/Latina,3,FTiC,19,54.68265137,3,Completer,TR,T3,15.76923077,1,0,1,0
+378,11886026,NA,NA,Other,Hispanic or Latino/Latina,3,NA,18,45.78191528,2,Switcher-DiffDT,TR,T2,NA,1,0,1,0
+379,11919253,C,M,ECS,Hispanic or Latino/Latina,3,FTiC,21,52.37876164,5,Completer,TR,T2,46.5,1,0,1,0
+380,11917117,NA,NA,Other,Hispanic or Latino/Latina,3,NA,23,46.01374756,7,Switcher-SameDT,TR,T1,46.5,1,0,1,0
+381,11981622,C+,F,BIO,Hispanic or Latino/Latina,3,Transfer,26,74.45334488,10,Completer,TR,T4,50.5,1,0,1,0
+382,11918394,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,7,68.0521868,7,Completer,CN,C6,69.5,1,0,1,0
+383,11914073,C,M,OSM,Hispanic or Latino/Latina,3,FTiC,23,42.03380963,7,Completer,TR,T1,34.5,1,0,1,0
+384,11915752,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,NA,0,0,0,0
+385,11983061,C,M,ECS,NonResident,4,No Cohort,28,61.27081026,12,Completer,TR,T5,60,0,0,0,0
+386,11889842,F,F,OSM,NonResident,4,FTiC,1,63.65876391,1,Departer,CN,C1,NA,1,0,1,0
+387,11983655,A,F,BIO,AAPI,4,FTiC,26,81.56743884,10,Completer,TR,T4,78.5,1,0,0,1
+388,11987327,A-,F,ECS,Hispanic or Latino/Latina,3,FTiC,25,77.09213399,9,Completer,TR,T3,84,1,0,1,0
+389,11912954,A-,M,BIO,Hispanic or Latino/Latina,3,FTiC,6,59.96878834,6,Completer,CN,C5,65.5,1,0,1,0
+390,11881516,NA,NA,Other,Hispanic or Latino/Latina,3,NA,2,69.58193043,2,Switcher-DiffDT,CN,C2,82.30769231,1,0,1,0
+391,11989705,C,M,Other,Hispanic or Latino/Latina,3,FTiC,28,68.99560034,12,Completer,TR,T5,NA,1,0,1,0
+392,11983990,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,26,84.42010499,10,Completer,TR,T4,91,1,0,1,0
+393,11989160,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,30,70.87799256,14,Completer,TR,T6,75,1,0,1,0
+394,11885517,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,2,66.1833312,2,Completer,CN,C2,NA,1,0,1,0
+395,11983125,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,58,0,0,0,0
+396,11917651,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,4,78.7183373,4,Completer,CN,C1,49.25,1,0,1,0
+397,11981467,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,95.5,0,0,0,0
+398,11982351,F,F,Other,Hispanic or Latino/Latina,3,FTiC,10,62.87099946,10,Completer,CN,C7,8.5,1,1,1,0
+399,11984281,D,F,BIO,Black or African American,2,FTiC,13,52.10201502,13,Completer,CN,C9,24.5,0,1,0,0
+400,11885158,OF,M,ECS,Hispanic or Latino/Latina,3,FTiC,1,60.64777596,1,Completer,CN,C1,NA,1,0,1,0
+401,11889166,NA,NA,Other,Hispanic or Latino/Latina,3,NA,19,76.01882559,3,Switcher-SameDT,TR,T3,29.23076923,1,1,1,0
+402,11888686,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,78.46153846,0,0,0,0
+403,11982853,B,F,ECS,Hispanic or Latino/Latina,3,FTiC,13,76.33690393,13,Completer,CN,C9,45.5,1,0,1,0
+404,11989005,DR,F,Other,Hispanic or Latino/Latina,3,FTiC,10,77.03306614,10,Completer,CN,C7,19,1,0,1,0
+405,11989216,OF,M,BIO,Hispanic or Latino/Latina,3,FTiC,12,68.29379619,12,Completer,CN,C9,12,1,0,1,0
+406,11912036,C,F,OSM,Hispanic or Latino/Latina,3,FTiC,21,73.75281825,5,Completer,TR,T2,33.25,1,0,1,0
+407,11917967,B-,F,OSM,Hispanic or Latino/Latina,3,FTiC,21,60.47893696,5,Completer,TR,T2,54,1,0,1,0
+408,11985436,D,F,Other,Hispanic or Latino/Latina,3,FTiC,13,64.5245407,13,Completer,CN,C9,9,1,0,1,0
+409,11911308,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,22,71.47880374,6,Completer,TR,T4,89,1,0,1,0
+410,11989592,C,F,BIO,Hispanic or Latino/Latina,3,No Cohort,14,67.51313883,14,Completer,CN,C10,55,1,0,1,0
+411,11883947,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,85.38461538,0,0,0,0
+412,11882898,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,69.61538462,0,0,0,0
+413,11981093,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,30,70.30470929,14,Completer,TR,T6,91,1,0,1,0
+414,11987126,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,11,76.22862091,11,Completer,CN,C8,NA,1,0,1,0
+415,11889529,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,20.76923077,0,0,0,0
+416,11982783,B-,F,BIO,Hispanic or Latino/Latina,3,No Cohort,28,74.04179359,12,Completer,TR,T5,53,1,0,1,0
+417,11888411,B+,M,Other,Hispanic or Latino/Latina,3,FTiC,2,69.0986505,2,Completer,CN,C2,90,1,0,1,0
+418,11987744,C,M,BIO,Hispanic or Latino/Latina,3,FTiC,13,57.56884814,13,Completer,CN,C9,34,1,0,1,0
+419,11981979,DR,F,Other,Hispanic or Latino/Latina,3,Transfer,15,48.02116692,15,Completer,CN,C11,NA,1,0,1,0
+420,11887765,C+,F,Other,Hispanic or Latino/Latina,3,FTiC,2,79.06813866,2,Completer,CN,C2,54.23076923,1,0,1,0
+421,11985406,B,F,BIO,Black or African American,2,FTiC,12,68.17714287,12,Completer,CN,C9,56.5,0,1,0,0
+422,11885716,B+,M,Other,Hispanic or Latino/Latina,3,FTiC,2,71.1142042,2,Completer,CN,C2,63.46153846,1,0,1,0
+423,11984978,NA,NA,Other,NonResident,4,NA,30,74.49714762,14,Switcher-SameDT,TR,T6,41,1,0,1,0
+424,11882959,C+,M,Other,Hispanic or Latino/Latina,3,FTiC,2,76.12706954,2,Completer,CN,C2,53.07692308,1,0,1,0
+425,11883488,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,NA,0,0,0,0
+426,11887092,D,M,BIO,Hispanic or Latino/Latina,3,FTiC,3,55.10482067,3,Completer,CN,C3,27.30769231,1,0,1,0
+427,11916015,F,M,BIO,Hispanic or Latino/Latina,3,FTiC,6,55.10482067,6,Completer,CN,C5,22,1,0,1,0
+428,11884455,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,1,74.81898592,1,Completer,CN,C1,73.46153846,1,0,1,0
+429,11982423,NA,NA,Other,Hispanic or Latino/Latina,3,NA,12,43.10826715,12,Switcher-DiffDT,CN,C9,86,1,0,1,0
+430,11915286,D,F,Other,Hispanic or Latino/Latina,3,FTiC,7,60.64218446,7,Completer,CN,C6,24.25,1,0,1,0
+431,11913362,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,20,65.98605398,4,Completer,TR,T3,91.5,1,0,1,0
+432,11988274,DR,F,Other,Hispanic or Latino/Latina,3,FTiC,10,59.23250407,10,Completer,CN,C7,NA,1,0,1,0
+433,11916296,B-,M,Other,Black or African American,2,FTiC,22,71.04832389,6,Completer,TR,T4,40.25,0,1,0,0
+434,11983522,C,F,Other,Hispanic or Latino/Latina,3,FTiC,11,80.51526304,11,Completer,CN,C8,58,1,0,1,0
+435,11981912,C,M,BIO,Hispanic or Latino/Latina,3,FTiC,29,47.99469582,13,Completer,TR,T2,60.5,1,0,1,0
+436,11912180,DR,M,BIO,Hispanic or Latino/Latina,3,FTiC,22,53.67684203,6,Completer,TR,T4,NA,1,0,1,0
+437,11889769,F,M,Other,Hispanic or Latino/Latina,3,FTiC,17,55.95006134,1,Completer,TR,T1,NA,1,0,1,0
+438,11915040,NA,NA,Other,Hispanic or Latino/Latina,3,NA,20,NA,4,Departer,TR,T3,NA,1,0,1,0
+439,11911020,B,F,BIO,White,1,FTiC,4,67.27917298,4,Completer,CN,C1,41.75,1,0,0,0
+440,11886949,NA,NA,Other,Hispanic or Latino/Latina,3,NA,17,75.96882442,1,Switcher-SameDT,TR,T1,60.38461538,1,0,1,0
+441,11911888,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,22,70.73681172,6,Completer,TR,T4,86,1,0,1,0
+442,11919034,NA,NA,Other,Black or African American,2,NA,20,45.69125713,4,Switcher-SameDT,TR,T3,24.5,0,1,0,0
+443,11987872,C,F,BIO,Black or African American,2,No Cohort,30,60.72743018,14,Completer,TR,T6,51,0,1,0,0
+444,11917545,B-,M,OSM,Black or African American,2,FTiC,7,60.1483005,7,Completer,CN,C6,60.75,0,1,0,0
+445,11912043,B,M,BIO,Hispanic or Latino/Latina,3,No Cohort,20,61.43314936,4,Completer,TR,T3,64,1,0,1,0
+446,11915323,A,M,OSM,Hispanic or Latino/Latina,3,FTiC,8,69.01296903,8,Completer,CN,C7,40,1,0,1,0
+447,11987652,NA,NA,Other,Hispanic or Latino/Latina,3,NA,12,70.91136249,12,Switcher-DiffDT,CN,C9,73,1,0,1,0
+448,11912327,B-,M,Other,Hispanic or Latino/Latina,3,FTiC,21,63.38312766,5,Completer,TR,T2,44.25,1,0,1,0
+449,11889853,NA,NA,Other,Hispanic or Latino/Latina,3,NA,3,77.66471819,3,Departer,CN,C3,NA,1,0,1,0
+450,11917913,A,F,OSM,Hispanic or Latino/Latina,3,No Cohort,6,77.66471819,6,Completer,CN,C5,63.25,1,0,1,0
+451,11918822,C+,M,Other,Hispanic or Latino/Latina,3,FTiC,4,53.00930937,4,Completer,CN,C1,36,1,0,1,0
+452,11881039,D,F,BIO,Hispanic or Latino/Latina,3,FTiC,3,48.04656491,3,Completer,CN,C3,13.46153846,1,0,1,0
+453,11882463,A,F,Other,Hispanic or Latino/Latina,3,FTiC,17,78.34712066,1,Completer,TR,T1,86.53846154,1,0,1,0
+454,11887399,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,3,60.86950639,3,Completer,CN,C3,49.23076923,1,0,1,0
+455,11918620,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,37.25,0,0,0,0
+456,11915553,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,62.75,0,0,0,0
+457,11881904,A-,F,OSM,Hispanic or Latino/Latina,3,No Cohort,17,78.68225446,1,Completer,TR,T1,80,1,0,1,0
+458,11885283,DR,M,ECS,Hispanic or Latino/Latina,3,FTiC,1,63.27352602,1,Completer,CN,C1,NA,1,0,1,0
+459,11985960,DR,M,Other,NonResident,4,No Cohort,11,55.7039641,11,Completer,CN,C8,35.5,0,1,0,0
+460,11915902,C,M,BIO,Hispanic or Latino/Latina,3,FTiC,4,71.58836689,4,Completer,CN,C1,21.25,1,0,1,0
+461,11988148,F,M,BIO,Hispanic or Latino/Latina,3,FTiC,15,65.51201559,15,Completer,CN,C11,17.5,1,0,1,0
+462,11889833,C,M,Other,Black or African American,2,FTiC,19,77.47708739,3,Completer,TR,T3,60.76923077,0,1,0,0
+463,11918014,C+,F,BIO,White,1,FTiC,22,64.74299993,6,Completer,TR,T4,19,1,0,0,0
+464,11888552,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,CN,NA,NA,0,0,0,0
+465,11989375,NA,NA,Other,Hispanic or Latino/Latina,3,NA,28,56.40831349,12,Switcher-SameDT,TR,T5,23,1,0,1,0
+466,11913779,B-,M,BIO,Hispanic or Latino/Latina,3,FTiC,5,79.33174569,5,Completer,CN,C4,53.75,1,0,1,0
+467,11916912,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,45.75,0,0,0,0
+468,11916120,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,21,65.54974668,5,Completer,TR,T2,51.75,1,0,1,0
+469,11882388,A-,M,Other,Hispanic or Latino/Latina,3,FTiC,3,74.27293065,3,Completer,CN,C3,67.30769231,0,0,1,0
+470,11912549,B,F,Other,Black or African American,2,FTiC,23,68.79015746,7,Completer,TR,T1,68.25,0,1,0,0
+471,11885607,NA,NA,Other,Black or African American,2,NA,1,NA,1,Departer,CN,C1,NA,0,1,0,0
+472,11912022,C+,F,BIO,AAPI,4,No Cohort,5,62.83015804,5,Completer,CN,C4,59.5,0,0,0,1
+473,11988117,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,16,72.05022732,16,Completer,CN,C12,53.5,1,0,1,0
+474,11982843,D,F,BIO,Hispanic or Latino/Latina,3,FTiC,28,69.50638666,12,Completer,TR,T5,40,1,0,1,0
+475,11915560,D,F,BIO,Hispanic or Latino/Latina,3,FTiC,20,52.87670491,4,Completer,TR,T3,51.5,1,0,1,0
+476,11919517,NA,NA,Other,Black or African American,2,NA,6,44.3307478,6,Switcher-DiffDT,CN,C5,NA,0,1,0,0
+477,11882291,NA,NA,Other,Black or African American,2,NA,19,66.76769864,3,Departer,TR,T3,NA,0,1,0,0
+478,11986631,A,F,BIO,Hispanic or Latino/Latina,3,Transfer,25,76.92882348,9,Completer,TR,T3,89,1,0,1,0
+479,11914126,A-,F,ECS,White,1,FTiC,24,74.95850473,8,Completer,TR,T4,56.25,1,0,0,0
+480,11886778,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,CN,NA,NA,0,0,0,0
+481,11917137,NA,NA,Other,Hispanic or Latino/Latina,3,NA,8,65.77181208,8,Switcher-SameDT,CN,C7,27.5,1,0,1,0
+482,11982663,D,F,Other,NonResident,4,No Cohort,11,74.02035073,11,Completer,CN,C8,57,0,0,0,0
+483,11882311,A-,F,OSM,Hispanic or Latino/Latina,3,FTiC,17,74.41845522,1,Completer,TR,T1,69.23076923,1,0,1,0
+484,11888256,DR,F,OSM,Hispanic or Latino/Latina,3,No Cohort,18,69.46669553,2,Departer,TR,T2,NA,1,0,1,0
+485,11914000,A,F,OSM,Hispanic or Latino/Latina,3,No Cohort,22,69.46669553,6,Completer,TR,T4,85.25,1,0,1,0
+486,11986052,C,M,Other,Hispanic or Latino/Latina,3,No Cohort,13,58.82908176,13,Completer,CN,C9,54,0,1,1,0
+487,11881437,B-,M,Other,NonResident,4,FTiC,17,81.47506675,1,Completer,TR,T1,63.07692308,1,0,1,0
+488,11885144,NA,NA,Other,Hispanic or Latino/Latina,3,NA,19,81.39568449,3,Switcher-SameDT,TR,T3,NA,1,0,1,0
+489,11984288,A,F,BIO,AAPI,4,FTiC,29,60.68418018,13,Completer,TR,T2,80.5,0,0,0,1
+490,11885414,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,1,66.11011481,1,Completer,CN,C1,63.46153846,1,0,1,0
+491,11912299,A,F,BIO,AAPI,4,FTiC,22,68.79549943,6,Completer,TR,T4,72.5,0,0,0,1
+492,11886874,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,19,65.46720889,3,Completer,TR,T3,87.30769231,1,0,1,0
+493,11881795,A,M,ECS,NonResident,4,No Cohort,2,78.35029227,2,Completer,CN,C2,74.61538462,1,0,1,0
+494,11988160,D,F,BIO,Hispanic or Latino/Latina,3,No Cohort,26,66.24810565,10,Completer,TR,T4,42.5,0,0,1,0
+495,11986280,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,25,70.0293719,9,Completer,TR,T3,81.5,1,0,1,0
+496,11916895,F,F,BIO,NonResident,4,FTiC,20,71.1409396,4,Completer,TR,T3,NA,0,0,0,0
+497,11983870,B,F,BIO,Hispanic or Latino/Latina,3,No Cohort,30,68.42933439,14,Completer,TR,T6,75,1,0,1,0
+498,11915813,C,M,ECS,Hispanic or Latino/Latina,3,No Cohort,7,56.69336797,7,Completer,CN,C6,62.25,1,0,1,0
+499,11917166,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,84,0,0,0,0
+500,11984509,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,10,74.43768676,10,Completer,CN,C7,60.5,1,0,1,0
+501,11915253,C,M,BIO,Hispanic or Latino/Latina,3,No Cohort,5,61.16042433,5,Completer,CN,C4,43,1,0,1,0
+502,11989893,F,F,BIO,Black or African American,2,FTiC,10,54.75932742,10,Completer,CN,C7,NA,0,1,0,0
+503,11981808,D,F,BIO,Hispanic or Latino/Latina,3,FTiC,12,53.06176816,12,Completer,CN,C9,21,1,0,1,0
+504,11985168,C,M,OSM,Hispanic or Latino/Latina,3,FTiC,29,54.28141893,13,Completer,TR,T2,37.5,1,0,1,0
+505,11886245,B,F,Other,Black or African American,2,FTiC,17,80.98602698,1,Completer,TR,T1,73.84615385,0,1,0,0
+506,11917931,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,TR,NA,NA,0,0,0,0
+507,11917370,OF,M,OSM,White,1,FTiC,4,42.70269826,4,Completer,CN,C1,17.25,1,0,0,0
+508,11987237,C,M,OSM,White,1,FTiC,14,42.70269826,14,Completer,CN,C10,35,1,0,0,0
+509,11888821,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,3,80.88106956,3,Completer,CN,C3,NA,1,0,1,0
+510,11984522,C+,F,Other,Hispanic or Latino/Latina,3,FTiC,11,53.63703369,11,Completer,CN,C8,48.5,1,0,1,0
+511,11886633,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,3,65.07253648,3,Completer,CN,C3,32.69230769,1,0,1,0
+512,11889953,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,17,86.67065646,1,Completer,TR,T1,72.30769231,1,0,1,0
+513,11885331,B,F,BIO,Black or African American,2,FTiC,19,67.70192489,3,Completer,TR,T3,76.53846154,0,1,0,0
+514,11889087,NA,NA,Other,Black or African American,2,NA,19,53.69262827,3,Switcher-DiffDT,TR,T3,NA,0,1,0,0
+515,11881169,F,M,ECS,Hispanic or Latino/Latina,3,No Cohort,2,55.60366602,2,Completer,CN,C2,NA,1,0,1,0
+516,11918772,OF,F,Other,Hispanic or Latino/Latina,3,FTiC,24,61.46266758,8,Completer,TR,T4,24.25,1,0,1,0
+517,11915858,NA,NA,Other,Hispanic or Latino/Latina,3,NA,5,67.6433121,5,Departer,CN,C4,NA,1,0,1,0
+518,11982825,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,12,59.0555993,12,Completer,CN,C9,20,1,0,1,0
+519,11913574,OF,M,Other,Hispanic or Latino/Latina,3,FTiC,4,53.94860255,4,Completer,CN,C1,23,1,0,1,0
+520,11911631,C,M,Other,Hispanic or Latino/Latina,3,FTiC,8,60.81174147,8,Completer,CN,C7,20.75,1,0,1,0
+521,11918853,DR,F,Other,Hispanic or Latino/Latina,3,No Cohort,21,70.68200257,5,Completer,TR,T2,NA,1,0,1,0
+522,11989096,A-,F,BIO,Hispanic or Latino/Latina,3,Transfer,32,66.15783878,16,Completer,TR,T7,80,1,0,1,0
+523,11989139,B,F,BIO,White,1,Transfer,13,60.55808543,13,Completer,CN,C9,61.5,1,0,0,0
+524,11982658,NA,NA,Other,Hispanic or Latino/Latina,3,NA,11,77.96610169,11,Departer,CN,C8,NA,1,0,1,0
+525,11915203,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,23,55.42622192,7,Completer,TR,T1,79.75,1,0,1,0
+526,11885584,A-,M,Other,Hispanic or Latino/Latina,3,FTiC,17,90.53781367,1,Completer,TR,T1,86.15384615,1,0,1,0
+527,11889909,A,M,ECS,White,1,FTiC,2,84.66162334,2,Completer,CN,C2,87.69230769,1,0,0,0
+528,11886884,C,F,OSM,Hispanic or Latino/Latina,3,FTiC,2,72.81183738,2,Completer,CN,C2,35,1,0,1,0
+529,11989997,D,M,Other,Hispanic or Latino/Latina,3,FTiC,29,58.13396833,13,Completer,TR,T2,48,1,0,1,0
+530,11882751,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,90.38461538,0,0,0,0
+531,11917928,NA,NA,Other,Hispanic or Latino/Latina,3,NA,6,72.4395551,6,Departer,CN,C5,NA,1,0,1,0
+532,11913771,NA,NA,Other,Hispanic or Latino/Latina,3,NA,6,65.2155636,6,Departer,CN,C5,NA,1,0,1,0
+533,11982537,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,32,60.83842285,16,Completer,TR,T7,NA,1,0,1,0
+534,11987969,NA,NA,Other,Hispanic or Latino/Latina,3,NA,10,NA,10,Switcher-DiffDT,CN,C7,NA,0,1,1,0
+535,11911581,B-,F,Other,Hispanic or Latino/Latina,3,FTiC,21,68.02110027,5,Completer,TR,T2,57.25,1,0,1,0
+536,11889616,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,18,72.88142135,2,Completer,TR,T2,82.30769231,1,0,1,0
+537,11882504,C,M,BIO,White,1,No Cohort,1,50,1,Completer,CN,C1,41.15384615,1,0,0,0
+538,11985225,B+,M,ECS,Hispanic or Latino/Latina,3,No Cohort,29,63.54791978,13,Completer,TR,T2,69,1,0,1,0
+539,11886415,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,18,71.57136965,2,Completer,TR,T2,40.76923077,1,0,1,0
+540,11889750,B,M,BIO,Hispanic or Latino/Latina,3,FTiC,17,63.03101539,1,Completer,TR,T1,68.84615385,1,0,1,0
+541,11986119,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,11,83.30224233,11,Completer,CN,C8,NA,1,0,1,0
+542,11987164,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,28,73.29425814,12,Completer,TR,T5,70,1,0,1,0
+543,11984118,F,M,ECS,Hispanic or Latino/Latina,3,FTiC,10,62.87390217,10,Completer,CN,C7,21.5,1,0,1,0
+544,11989350,NA,NA,Other,AAPI,4,NA,15,65.32938238,15,Switcher-SameDT,CN,C11,56.5,0,0,0,1
+545,11886475,OF,M,ECS,Black or African American,2,FTiC,3,63.81517416,3,Completer,CN,C3,NA,0,1,0,0
+546,11988490,B,F,Other,Hispanic or Latino/Latina,3,FTiC,25,73.75901669,9,Completer,TR,T3,78,1,0,1,0
+547,11989088,B,M,Other,Hispanic or Latino/Latina,3,No Cohort,30,70.04412679,14,Completer,TR,T6,80.5,1,0,1,0
+548,11982977,B,F,BIO,NotReported/Other,NA,No Cohort,12,70.03047507,12,Completer,CN,C9,55,0,0,0,0
+549,11886337,C,M,Other,Hispanic or Latino/Latina,3,No Cohort,2,53.21759608,2,Completer,CN,C2,38.84615385,1,0,1,0
+550,11888842,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,2,72.31321458,2,Completer,CN,C2,NA,1,0,1,0
+551,11915423,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,23,59.76989103,7,Completer,TR,T1,73.5,1,0,1,0
+552,11917181,B,M,Other,NonResident,4,No Cohort,7,61.33009645,7,Completer,CN,C6,57.75,0,0,0,0
+553,11911085,B,F,Other,White,1,FTiC,6,58.37247556,6,Completer,CN,C5,52,1,0,0,0
+554,11984517,DR,F,Other,Hispanic or Latino/Latina,3,No Cohort,10,71.94197878,10,Completer,CN,C7,NA,1,0,1,0
+555,11913782,B+,F,Other,NonResident,4,FTiC,23,73.33519953,7,Completer,TR,T1,73.5,1,0,1,0
+556,11918858,C+,M,BIO,Hispanic or Latino/Latina,3,FTiC,5,69.70294203,5,Completer,CN,C4,56.25,1,0,1,0
+557,11919327,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,5,64.88188652,5,Completer,CN,C4,69.25,1,0,1,0
+558,11913955,B+,M,Other,White,1,FTiC,6,80.0303004,6,Completer,CN,C5,66.5,1,0,0,0
+559,11983387,C,F,Other,Hispanic or Latino/Latina,3,FTiC,11,44.55134275,11,Completer,CN,C8,NA,1,0,1,0
+560,11987939,C,M,BIO,NonResident,4,FTiC,31,52.6737389,15,Completer,TR,T4,62,0,0,0,0
+561,11984937,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,14,0,0,0,0
+562,11986202,F,M,BIO,NonResident,4,FTiC,14,64.62437757,14,Completer,CN,C10,14,0,0,0,1
+563,11884973,A,F,OSM,Hispanic or Latino/Latina,3,FTiC,17,77.73762853,1,Completer,TR,T1,90,1,0,1,0
+564,11888703,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,3,77.97545815,3,Completer,CN,C3,51.53846154,1,0,1,0
+565,11913087,B-,M,Other,Hispanic or Latino/Latina,3,FTiC,4,74.54507805,4,Completer,CN,C1,58.25,1,0,1,0
+566,11889938,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,17,64.99321665,1,Completer,TR,T1,69.61538462,1,0,1,0
+567,11911001,C,M,ECS,Hispanic or Latino/Latina,3,FTiC,5,69.80374762,5,Completer,CN,C4,36.25,1,0,1,0
+568,11987501,A-,M,BIO,Hispanic or Latino/Latina,3,FTiC,27,64.63640212,11,Completer,TR,T1,89.5,1,0,1,0
+569,11919663,B,F,ECS,Hispanic or Latino/Latina,3,FTiC,21,67.38182868,5,Completer,TR,T2,54.75,1,0,1,0
+570,11882298,NA,NA,Other,Hispanic or Latino/Latina,3,NA,3,79.36305732,3,Departer,CN,C3,NA,1,0,1,0
+571,11888067,B,F,Other,Black or African American,2,FTiC,19,66.95912426,3,Completer,TR,T3,79.61538462,0,1,0,1
+572,11987841,F,F,Other,NonResident,4,FTiC,25,62.4081163,9,Completer,TR,T3,34.5,1,0,1,0
+573,11988935,OF,M,Other,Hispanic or Latino/Latina,3,FTiC,30,74.8017397,14,Completer,TR,T6,NA,1,0,1,0
+574,11916780,OF,M,Other,AAPI,4,FTiC,7,66.1747958,7,Completer,CN,C6,39.75,0,0,0,1
+575,11989257,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,12,65.43484196,12,Completer,CN,C9,14.5,1,0,1,0
+576,11917742,NA,NA,Other,Hispanic or Latino/Latina,3,NA,7,69.59167548,7,Switcher-DiffDT,CN,C6,NA,1,1,1,0
+577,11981203,A,F,ECS,Hispanic or Latino/Latina,3,FTiC,13,70.2712143,13,Completer,CN,C9,47.5,1,0,1,0
+578,11985952,C,F,ECS,Hispanic or Latino/Latina,3,FTiC,13,72.58231371,13,Completer,CN,C9,44,1,0,1,0
+579,11987018,NA,NA,Other,Hispanic or Latino/Latina,3,NA,13,63.82165605,13,Departer,CN,C9,NA,1,0,1,0
+580,11981861,B+,M,BIO,Hispanic or Latino/Latina,3,FTiC,29,70.35937902,13,Completer,TR,T2,51,1,0,1,0
+581,11918052,OF,M,OSM,Hispanic or Latino/Latina,3,FTiC,5,70.68828144,5,Completer,CN,C4,NA,1,1,1,0
+582,11881837,A,M,ECS,AAPI,4,FTiC,18,73.46855437,2,Completer,TR,T2,87.30769231,0,1,0,1
+583,11987199,NA,NA,Other,White,1,NA,9,70.09815645,9,Departer,CN,C7,NA,1,0,0,0
+584,11985692,NA,NA,Other,Hispanic or Latino/Latina,3,NA,13,69.8089172,13,Departer,CN,C9,NA,1,0,1,0
+585,11981309,F,F,BIO,Hispanic or Latino/Latina,3,FTiC,11,61.37634263,11,Completer,CN,C8,NA,1,0,1,0
+586,11984382,DR,M,BIO,Black or African American,2,No Cohort,11,47.10814844,11,Completer,CN,C8,NA,0,1,0,0
+587,11981314,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,27,73.30970941,11,Completer,TR,T1,71,1,0,1,0
+588,11886669,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,19,72.82925367,3,Completer,TR,T3,82.30769231,1,0,1,0
+589,11989758,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,25,74.97492357,9,Completer,TR,T3,84,1,0,1,0
+590,11988741,NA,NA,Other,Hispanic or Latino/Latina,3,NA,14,69.55414013,14,Departer,CN,C10,NA,0,0,0,0
+591,11985013,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,26,65.96295196,10,Completer,TR,T4,67.5,1,0,1,0
+592,11982309,A,F,Other,AAPI,4,FTiC,10,71.7714272,10,Completer,CN,C7,80,1,0,0,1
+593,11989741,D,F,Other,Hispanic or Latino/Latina,3,FTiC,13,48.64447434,13,Completer,CN,C9,11,1,0,1,0
+594,11889963,B-,M,ECS,Hispanic or Latino/Latina,3,FTiC,17,81.03152813,1,Completer,TR,T1,76.53846154,1,0,1,0
+595,11988074,DR,M,BIO,NotReported/Other,NA,Transfer,NA,NA,NA,Departer,CN,NA,NA,0,0,0,0
+596,11883686,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,1,73.42257977,1,Completer,CN,C1,NA,1,0,1,0
+597,11916785,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,21,66.16276551,5,Completer,TR,T2,66.25,1,0,1,0
+598,11881478,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,19,82.12186901,3,Completer,TR,T3,86.53846154,1,1,1,0
+599,11919501,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,22,69.30380332,6,Completer,TR,T4,79.75,1,0,1,0
+600,11919671,A,F,OSM,Black or African American,2,FTiC,22,57.20537705,6,Completer,TR,T4,69.5,0,1,0,0
+601,11889029,A-,F,Other,Hispanic or Latino/Latina,3,FTiC,2,76.48852772,2,Completer,CN,C2,59.61538462,1,0,1,0
+602,11988809,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,11,55.94171517,11,Completer,CN,C8,46,1,0,1,0
+603,11886218,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,3,78.35621262,3,Completer,CN,C3,41.53846154,1,0,1,0
+604,11889838,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,18,71.26482097,2,Completer,TR,T2,59.61538462,1,0,1,0
+605,11889142,B,F,BIO,White,1,FTiC,3,75.56214546,3,Completer,CN,C3,74.61538462,1,0,0,0
+606,11889124,OF,M,ECS,AAPI,4,FTiC,17,70.33200815,1,Completer,TR,T1,48.46153846,1,1,0,1
+607,11986075,B,F,BIO,White,1,FTiC,27,78.79577791,11,Completer,TR,T1,78,1,0,0,0
+608,11883210,A-,M,ECS,Hispanic or Latino/Latina,3,FTiC,18,67.95978394,2,Completer,TR,T2,80.76923077,1,0,1,0
+609,11887130,B,M,ECS,Hispanic or Latino/Latina,3,FTiC,2,66.87212745,2,Completer,CN,C2,81.53846154,1,0,1,0
+610,11986775,B-,M,BIO,White,1,FTiC,31,58.41530345,15,Completer,TR,T4,NA,1,0,0,0
+611,11888685,OF,F,Other,Hispanic or Latino/Latina,3,FTiC,1,70.90879973,1,Completer,CN,C1,29.23076923,1,0,1,0
+612,11983344,D,M,Other,Hispanic or Latino/Latina,3,FTiC,32,68.12835519,16,Completer,TR,T7,NA,1,0,1,0
+613,11912398,B,F,OSM,White,1,FTiC,24,72.67299426,8,Completer,TR,T4,42.75,1,0,0,0
+614,11886579,B,M,BIO,Hispanic or Latino/Latina,3,FTiC,3,74.05935046,3,Completer,CN,C3,57.69230769,1,0,1,0
+615,11918429,B-,M,Other,Hispanic or Latino/Latina,3,FTiC,23,59.19556397,7,Completer,TR,T1,46,1,0,1,0
+616,11914974,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,6,73.92100109,6,Completer,CN,C5,82,1,0,1,0
+617,11887893,OF,F,Other,Hispanic or Latino/Latina,3,No Cohort,3,77.39170665,3,Completer,CN,C3,NA,0,0,0,0
+618,11882051,A,F,Other,Hispanic or Latino/Latina,3,FTiC,19,69.374844,3,Completer,TR,T3,92.69230769,1,0,1,0
+619,11913244,A-,F,Other,AAPI,4,FTiC,23,80.34501636,7,Completer,TR,T1,81.25,1,0,0,1
+620,11914413,A-,M,BIO,Hispanic or Latino/Latina,3,FTiC,5,61.17323987,5,Completer,CN,C4,68.5,1,0,1,0
+621,11881953,A,F,Other,Hispanic or Latino/Latina,3,FTiC,19,84.51462596,3,Completer,TR,T3,87.69230769,1,0,1,0
+622,11886018,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,1,77.25018834,1,Completer,CN,C1,57.30769231,1,0,1,0
+623,11919114,A,M,OSM,Hispanic or Latino/Latina,3,No Cohort,21,54.1924098,5,Completer,TR,T2,77,1,0,1,0
+624,11918922,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,47.5,0,0,0,0
+625,11884367,B+,M,Other,Hispanic or Latino/Latina,3,FTiC,2,70.34282305,2,Completer,CN,C2,66.92307692,1,0,1,0
+626,11888539,DR,M,Other,Hispanic or Latino/Latina,3,FTiC,19,77.06993039,3,Completer,TR,T3,NA,1,0,1,0
+627,11887155,B-,M,Other,Hispanic or Latino/Latina,3,FTiC,1,80.31630637,1,Completer,CN,C1,61.15384615,1,0,1,0
+628,11882880,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,1,79.42410858,1,Completer,CN,C1,59.61538462,1,0,1,0
+629,11981290,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,10,70.71219954,10,Completer,CN,C7,48.5,0,1,1,0
+630,11984251,A,F,ECS,White,1,FTiC,27,86.82091279,11,Completer,TR,T1,94.5,1,0,0,0
+631,11987817,B-,F,Other,Hispanic or Latino/Latina,3,No Cohort,31,61.96678421,15,Completer,TR,T4,42.5,1,0,1,0
+632,11986501,B,M,ECS,Black or African American,2,FTiC,26,52.10734394,10,Completer,TR,T4,75.5,0,1,0,0
+633,11889099,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,TR,NA,NA,0,0,0,0
+634,11983755,DR,M,BIO,Hispanic or Latino/Latina,3,FTiC,16,68.74866988,16,Completer,CN,C12,NA,1,0,1,0
+635,11983879,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,27,76.4509579,11,Completer,TR,T1,62.5,1,0,1,0
+636,11887613,OF,M,BIO,Hispanic or Latino/Latina,3,FTiC,2,71.1350882,2,Completer,CN,C2,38.46153846,1,0,1,0
+637,11884810,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,17,83.10205838,1,Completer,TR,T1,84.61538462,1,0,1,0
+638,11984399,D,M,BIO,Hispanic or Latino/Latina,3,FTiC,11,50.28872712,11,Completer,CN,C8,40.5,1,0,1,0
+639,11881538,C,F,ECS,Hispanic or Latino/Latina,3,FTiC,17,74.14721985,1,Completer,TR,T1,41.15384615,0,0,1,0
+640,11918547,B,F,BIO,White,1,FTiC,21,72.95045182,5,Completer,TR,T2,58.75,1,0,0,0
+641,11887151,A-,F,Other,Hispanic or Latino/Latina,3,FTiC,1,80.74302624,1,Completer,CN,C1,75,1,0,1,0
+642,11881852,C+,M,ECS,Hispanic or Latino/Latina,3,FTiC,1,72.50623636,1,Completer,CN,C1,35,1,0,1,0
+643,11887537,NA,NA,Other,White,1,NA,2,70.12587359,2,Departer,CN,C2,NA,1,0,0,0
+644,11912467,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,56.75,0,0,0,0
+645,11913964,NA,NA,Other,Hispanic or Latino/Latina,3,NA,7,NA,7,Switcher-DiffDT,CN,C6,51.75,1,0,1,0
+646,11914907,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,23,84.56419506,7,Completer,TR,T1,57.5,1,0,1,0
+647,11986924,D,M,OSM,Black or African American,2,FTiC,12,55.09541155,12,Completer,CN,C9,7.5,0,1,0,0
+648,11916229,B+,F,Other,White,1,FTiC,6,69.12605048,6,Completer,CN,C5,36.75,1,0,0,0
+649,11984904,DR,M,BIO,Hispanic or Latino/Latina,3,FTiC,25,58.81527835,9,Departer,TR,T3,NA,1,0,1,0
+650,11911462,C+,M,Other,White,1,FTiC,21,64.82920403,5,Completer,TR,T2,34.25,1,0,0,0
+651,11987515,A-,M,ECS,Hispanic or Latino/Latina,3,FTiC,28,61.67303977,12,Completer,TR,T5,77.5,1,1,1,1
+652,11885226,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,1,73.13582303,1,Completer,CN,C1,56.92307692,1,0,1,0
+653,11883042,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,18,69.18119059,2,Completer,TR,T2,75.38461538,1,0,1,0
+654,11918965,NA,NA,Other,Hispanic or Latino/Latina,3,NA,5,66.87898089,5,Departer,CN,C4,NA,1,0,1,0
+655,11912143,A,F,Other,Hispanic or Latino/Latina,3,FTiC,23,73.45050835,7,Completer,TR,T1,91.75,1,0,1,0
+656,11913416,A,M,BIO,White,1,FTiC,5,80.80415756,5,Completer,CN,C4,75.75,1,0,0,0
+657,11885710,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,1,85.47270597,1,Completer,CN,C1,69.61538462,1,0,1,0
+658,11982651,C,F,BIO,Black or African American,2,FTiC,32,68.05054035,16,Completer,TR,T7,42,0,1,0,0
+659,11988584,DR,F,BIO,White,1,FTiC,32,57.77280662,16,Completer,TR,T7,NA,1,0,0,0
+660,11886367,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,1,74.30818152,1,Completer,CN,C1,NA,1,0,1,0
+661,11988789,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,28,74.30818152,12,Completer,TR,T5,64,1,0,1,0
+662,11913961,NA,NA,Other,White,1,NA,20,78.57333482,4,Switcher-DiffDT,TR,T3,61.75,1,0,0,0
+663,11881101,C,M,ECS,Hispanic or Latino/Latina,3,FTiC,17,70.22705074,1,Completer,TR,T1,72.30769231,1,0,1,0
+664,11881881,C,M,ECS,Black or African American,2,FTiC,1,71.07358648,1,Completer,CN,C1,21.53846154,0,1,0,0
+665,11885973,A,F,OSM,Hispanic or Latino/Latina,3,FTiC,1,83.90560727,1,Completer,CN,C1,83.07692308,1,0,1,0
+666,11911895,B,M,BIO,Hispanic or Latino/Latina,3,FTiC,20,71.68228801,4,Completer,TR,T3,68.5,1,0,1,0
+667,11982428,A,M,Other,NonResident,4,No Cohort,31,64.38612277,15,Completer,TR,T4,98,1,0,0,0
+668,11884120,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,82.30769231,0,0,0,0
+669,11917726,C,M,BIO,Black or African American,2,FTiC,23,64.29646034,7,Completer,TR,T1,55.25,0,1,0,0
+670,11917611,B+,M,Other,Hispanic or Latino/Latina,3,FTiC,7,60.68269779,7,Completer,CN,C6,79,1,0,1,0
+671,11981730,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,27,48.96021686,11,Departer,TR,T1,NA,0,0,1,0
+672,11914308,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,20,71.69797601,4,Completer,TR,T3,46.5,1,0,1,0
+673,11982655,A-,F,BIO,White,1,FTiC,27,62.77985005,11,Completer,TR,T1,94,1,0,0,0
+674,11988165,B,M,OSM,Hispanic or Latino/Latina,3,FTiC,25,52.81123523,9,Completer,TR,T3,83,1,0,1,0
+675,11883611,OF,M,BIO,Hispanic or Latino/Latina,3,FTiC,19,69.20460575,3,Completer,TR,T3,60,1,0,1,0
+676,11985784,F,M,BIO,Hispanic or Latino/Latina,3,FTiC,10,54.57331498,10,Completer,CN,C7,20.5,1,0,1,0
+677,11885028,A,F,OSM,Hispanic or Latino/Latina,3,FTiC,17,78.00354301,1,Completer,TR,T1,83.84615385,0,1,1,0
+678,11883856,B-,M,Other,Hispanic or Latino/Latina,3,FTiC,18,70.15457248,2,Completer,TR,T2,74.61538462,1,0,1,0
+679,11986149,A,M,Other,Hispanic or Latino/Latina,3,FTiC,31,60.98841258,15,Completer,TR,T4,81.5,1,0,1,0
+680,11988509,NA,NA,Other,Hispanic or Latino/Latina,3,NA,12,54.0875602,12,Switcher-DiffDT,CN,C9,51.5,1,0,1,0
+681,11988785,A,F,BIO,NotReported/Other,NA,No Cohort,32,58.17496411,16,Completer,TR,T7,92,0,0,0,0
+682,11889573,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,17,80.59272395,1,Completer,TR,T1,NA,1,0,1,0
+683,11888736,B+,M,BIO,Hispanic or Latino/Latina,3,No Cohort,17,72.90178249,1,Completer,TR,T1,78.07692308,1,0,1,0
+684,11885073,B+,F,OSM,Hispanic or Latino/Latina,3,FTiC,3,70.20466328,3,Completer,CN,C3,60.76923077,1,0,1,0
+685,11916989,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,NA,0,0,0,0
+686,11915474,C,F,OSM,Hispanic or Latino/Latina,3,FTiC,21,63.58665522,5,Completer,TR,T2,38,0,0,1,1
+687,11981130,OF,F,BIO,Hispanic or Latino/Latina,3,FTiC,10,67.80968811,10,Completer,CN,C7,15.5,1,0,1,0
+688,11983010,A,M,OSM,Hispanic or Latino/Latina,3,FTiC,28,73.34165001,12,Completer,TR,T5,81.5,1,0,1,0
+689,11912592,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,22,69.42898551,6,Completer,TR,T4,56.25,0,1,1,0
+690,11915626,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,7,66.89577397,7,Completer,CN,C6,87.5,1,0,1,0
+691,11984347,A-,F,BIO,White,1,FTiC,25,66.77736516,9,Completer,TR,T3,87,1,0,0,0
+692,11919739,NA,NA,Other,White,1,NA,5,68.75737572,5,Departer,CN,C4,NA,1,0,0,0
+693,11985117,C,F,BIO,White,1,FTiC,28,68.75737572,12,Completer,TR,T5,54,1,0,0,0
+694,11981173,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,26,52.9352162,10,Completer,TR,T4,71.5,1,0,1,0
+695,11981855,F,F,BIO,Hispanic or Latino/Latina,3,FTiC,27,67.67708289,11,Completer,TR,T1,NA,1,0,1,0
+696,11983770,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,CN,NA,NA,0,0,0,0
+697,11984720,B,M,BIO,White,1,FTiC,13,69.78260736,13,Completer,CN,C9,51,1,0,0,0
+698,11988327,C,M,Other,Hispanic or Latino/Latina,3,FTiC,12,56.83914803,12,Completer,CN,C9,32,1,0,1,0
+699,11985150,NA,NA,Other,Hispanic or Latino/Latina,3,NA,30,69.76530407,14,Switcher-DiffDT,TR,T6,14,1,0,1,0
+700,11987230,B,M,OSM,Hispanic or Latino/Latina,3,FTiC,29,57.43267561,13,Completer,TR,T2,63.5,1,0,1,0
+701,11981482,D,M,BIO,Hispanic or Latino/Latina,3,FTiC,12,47.76970357,12,Completer,CN,C9,13,1,0,1,0
+702,11882090,C,M,Other,NonResident,4,No Cohort,19,53.72014144,3,Completer,TR,T3,80.76923077,1,0,1,0
+703,11889757,NA,NA,Other,Hispanic or Latino/Latina,3,NA,17,83.47309576,1,Switcher-DiffDT,TR,T1,NA,1,0,1,0
+704,11884378,NA,NA,Other,Hispanic or Latino/Latina,3,NA,2,68.67796588,2,Departer,CN,C2,NA,1,0,1,0
+705,11915255,C+,F,Other,NonResident,4,FTiC,5,72.85106426,5,Completer,CN,C4,47.25,1,0,1,0
+706,11984808,NA,NA,Other,Hispanic or Latino/Latina,3,NA,10,87.64639408,10,Switcher-SameDT,CN,C7,94.5,1,0,1,1
+707,11985827,NA,NA,Other,Hispanic or Latino/Latina,3,NA,10,84.23679264,10,Switcher-SameDT,CN,C7,87,1,0,1,1
+708,11919724,B,F,Other,Hispanic or Latino/Latina,3,FTiC,21,60.64923383,5,Completer,TR,T2,73.75,0,1,1,0
+709,11989363,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,TR,NA,NA,0,0,0,0
+710,11888333,OF,F,BIO,White,1,FTiC,18,40.97739505,2,Completer,TR,T2,27.30769231,1,0,0,0
+711,11915846,NA,NA,Other,Hispanic or Latino/Latina,3,NA,4,62.86016541,4,Switcher-DiffDT,CN,C1,51.75,1,0,1,0
+712,11911217,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,4,65.47743811,4,Completer,CN,C1,25,1,0,1,0
+713,11917782,C,F,Other,Hispanic or Latino/Latina,3,FTiC,5,59.14972152,5,Completer,CN,C4,35.5,1,0,1,0
+714,11987043,OF,F,OSM,Hispanic or Latino/Latina,3,FTiC,30,73.5018138,14,Completer,TR,T6,57.5,1,0,1,0
+715,11887180,OF,M,ECS,Hispanic or Latino/Latina,3,FTiC,19,67.50889048,3,Completer,TR,T3,36.92307692,1,0,1,0
+716,11989570,F,M,ECS,Hispanic or Latino/Latina,3,FTiC,9,67.50889048,9,Completer,CN,C7,17,1,0,1,0
+717,11915540,C+,M,Other,Hispanic or Latino/Latina,3,FTiC,4,71.58862889,4,Completer,CN,C1,19.5,1,0,1,0
+718,11983883,C,M,ECS,Hispanic or Latino/Latina,3,No Cohort,26,49.81565343,10,Completer,TR,T4,42.5,1,0,1,0
+719,11989800,NA,NA,Other,Hispanic or Latino/Latina,3,NA,9,69.68152866,9,Departer,CN,C7,NA,1,0,1,0
+720,11883121,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,18,72.50011836,2,Completer,TR,T2,83.07692308,1,0,1,0
+721,11982591,NA,NA,Other,White,1,NA,26,59.02943043,10,Switcher-DiffDT,TR,T4,NA,1,0,0,0
+722,11918192,NA,NA,Other,Hispanic or Latino/Latina,3,NA,20,73.96915905,4,Switcher-SameDT,TR,T3,30,1,0,1,0
+723,11987860,OF,M,Other,Hispanic or Latino/Latina,3,No Cohort,16,68.10349939,16,Completer,CN,C12,NA,1,0,1,0
+724,11982293,C,M,OSM,Hispanic or Latino/Latina,3,FTiC,12,59.51357106,12,Completer,CN,C9,53,1,0,1,0
+725,11886623,A,M,OSM,Hispanic or Latino/Latina,3,FTiC,2,78.39794461,2,Completer,CN,C2,76.92307692,1,0,1,0
+726,11883090,B+,M,OSM,Hispanic or Latino/Latina,3,FTiC,19,66.21440649,3,Completer,TR,T3,79.61538462,1,0,1,0
+727,11985869,F,M,OSM,Hispanic or Latino/Latina,3,FTiC,9,43.30922333,9,Completer,CN,C7,25.5,1,0,1,0
+728,11889903,OF,M,Other,Black or African American,2,FTiC,17,72.87835392,1,Completer,TR,T1,60.38461538,0,1,0,0
+729,11883420,A,M,Other,NonResident,4,No Cohort,3,73.78942051,3,Completer,CN,C3,86.92307692,0,0,1,0
+730,11882159,C,M,ECS,Hispanic or Latino/Latina,3,FTiC,18,46.87193439,2,Completer,TR,T2,63.84615385,1,0,1,0
+731,11915143,DR,M,OSM,Hispanic or Latino/Latina,3,FTiC,6,70.2838364,6,Completer,CN,C5,NA,1,0,1,0
+732,11985014,B-,F,Other,Hispanic or Latino/Latina,3,FTiC,12,61.55694494,12,Completer,CN,C9,37,1,0,1,0
+733,11984370,F,F,OSM,Black or African American,2,FTiC,10,66.22247074,10,Completer,CN,C7,24,0,1,0,0
+734,11915244,F,F,BIO,Hispanic or Latino/Latina,3,No Cohort,6,NA,6,Completer,CN,C5,NA,1,0,1,0
+735,11982409,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,NA,0,0,0,0
+736,11983151,B,F,Other,Hispanic or Latino/Latina,3,FTiC,25,74.10560622,9,Completer,TR,T3,69,1,0,1,0
+737,11988135,B-,M,BIO,Hispanic or Latino/Latina,3,No Cohort,15,43.68130833,15,Completer,CN,C11,32.5,1,0,1,0
+738,11981924,F,M,Other,Black or African American,2,FTiC,9,72.53462919,9,Completer,CN,C7,16,0,1,0,0
+739,11912539,NA,NA,Other,Hispanic or Latino/Latina,3,NA,21,70.44778123,5,Switcher-DiffDT,TR,T2,42.25,1,0,1,0
+740,11887986,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,70.38461538,0,0,0,0
+741,11988522,NA,NA,Other,Hispanic or Latino/Latina,3,NA,16,64.79774109,16,Switcher-SameDT,CN,C12,84,1,0,1,0
+742,11982654,DR,M,Other,Hispanic or Latino/Latina,3,FTiC,12,64.24324619,12,Completer,CN,C9,NA,1,0,1,0
+743,11989337,NA,NA,Other,AAPI,4,NA,26,54.92262758,10,Switcher-DiffDT,TR,T4,NA,0,0,0,1
+744,11981241,F,M,Other,NotReported/Other,NA,FTiC,10,55.28126196,10,Completer,CN,C7,35.5,0,0,0,0
+745,11982415,C+,F,Other,Hispanic or Latino/Latina,3,FTiC,9,67.1752969,9,Completer,CN,C7,49,1,0,1,0
+746,11986605,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,12,74.98535542,12,Completer,CN,C9,NA,1,0,1,0
+747,11982747,B,M,ECS,Hispanic or Latino/Latina,3,FTiC,26,61.15518428,10,Completer,TR,T4,79,1,0,1,0
+748,11983928,NA,NA,Other,Hispanic or Latino/Latina,3,NA,12,52.46279905,12,Switcher-SameDT,CN,C9,83,1,0,1,0
+749,11983399,NA,NA,Other,AAPI,4,NA,32,68.15286624,16,Departer,TR,T7,NA,1,0,0,1
+750,11915786,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,6,65.89848202,6,Completer,CN,C5,74.25,1,0,1,0
+751,11985222,D,M,Other,Hispanic or Latino/Latina,3,FTiC,27,61.21401081,11,Completer,TR,T1,38.5,1,0,1,0
+752,11911970,B+,F,BIO,Hispanic or Latino/Latina,3,No Cohort,6,71.08298641,6,Completer,CN,C5,37.75,1,0,1,0
+753,11884147,A-,M,Other,Hispanic or Latino/Latina,3,FTiC,2,72.01629566,2,Completer,CN,C2,71.92307692,1,0,1,0
+754,11889625,A-,M,BIO,AAPI,4,FTiC,3,72.64053349,3,Completer,CN,C3,45.76923077,0,0,0,1
+755,11988317,C+,M,ECS,Hispanic or Latino/Latina,3,FTiC,25,61.07328771,9,Completer,TR,T3,64.5,0,0,1,0
+756,11912442,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,23,69.58477148,7,Completer,TR,T1,72.25,1,0,1,0
+757,11917207,A,F,BIO,NonResident,4,No Cohort,22,75.06279105,6,Completer,TR,T4,96.75,1,0,0,0
+758,11989772,B,F,BIO,Black or African American,2,Transfer,29,76.25027062,13,Completer,TR,T2,63,0,1,0,0
+759,11986447,NA,NA,Other,Hispanic or Latino/Latina,3,NA,29,75.33341239,13,Switcher-DiffDT,TR,T2,70,1,0,1,0
+760,11916628,NA,NA,Other,NonResident,4,NA,4,70.31847134,4,Departer,CN,C1,NA,1,0,1,0
+761,11984519,D,M,Other,Black or African American,2,No Cohort,27,57.60665928,11,Completer,TR,T1,57,0,1,0,0
+762,11987360,NA,NA,Other,White,1,NA,28,64.93423729,12,Switcher-SameDT,TR,T5,63,1,0,0,0
+763,11913105,C,F,ECS,Hispanic or Latino/Latina,3,No Cohort,23,52.54609211,7,Completer,TR,T1,44,1,0,1,0
+764,11911949,B+,M,BIO,White,1,FTiC,5,65.21387935,5,Completer,CN,C4,49.25,1,0,0,0
+765,11981823,D,M,ECS,NonResident,4,No Cohort,27,36.84768458,11,Completer,TR,T1,42,0,0,0,0
+766,11888309,C+,F,BIO,Hispanic or Latino/Latina,3,Transfer,18,NA,2,Completer,TR,T2,25.38461538,1,0,1,0
+767,11985458,D,F,Other,White,1,FTiC,12,69.89469555,12,Completer,CN,C9,18,1,0,0,0
+768,11915475,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,5,66.28918609,5,Completer,CN,C4,85.25,1,0,1,0
+769,11985211,A,F,Other,Hispanic or Latino/Latina,3,No Cohort,10,65.9731061,10,Completer,CN,C7,81,1,0,1,0
+770,11982707,A,F,BIO,White,1,No Cohort,32,NA,16,Completer,TR,T7,63.5,1,0,0,0
+771,11989044,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,27,76.00611156,11,Completer,TR,T1,66,1,0,1,0
+772,11915957,NA,NA,Other,Hispanic or Latino/Latina,3,NA,20,NA,4,Departer,TR,T3,NA,0,0,0,0
+773,11917298,NA,NA,Other,AAPI,4,NA,8,49.47679873,8,Switcher-SameDT,CN,C7,13.5,0,1,0,1
+774,11912263,C,M,BIO,Hispanic or Latino/Latina,3,FTiC,21,69.34960325,5,Completer,TR,T2,59.25,1,0,1,0
+775,11913025,D,M,BIO,Hispanic or Latino/Latina,3,FTiC,4,77.79913024,4,Completer,CN,C1,9,0,1,1,0
+776,11882011,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,18,75.60162132,2,Completer,TR,T2,49.23076923,1,0,1,0
+777,11887013,NA,NA,Other,Hispanic or Latino/Latina,3,NA,1,73.711675,1,Switcher-DiffDT,CN,C1,68.07692308,1,0,1,0
+778,11983230,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,26,71.79194769,10,Completer,TR,T4,59,1,0,1,0
+779,11981097,NA,NA,Other,Black or African American,2,NA,16,47.73566006,16,Switcher-DiffDT,CN,C12,NA,0,1,0,0
+780,11886341,DR,M,ECS,White,1,FTiC,17,72.02382479,1,Completer,TR,T1,NA,1,0,0,0
+781,11916401,D,M,BIO,White,1,No Cohort,20,46.06628028,4,Completer,TR,T3,47.5,1,0,0,0
+782,11985654,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,67.5,0,0,0,0
+783,11984405,B,F,ECS,Black or African American,2,FTiC,12,74.75718543,12,Completer,CN,C9,36,0,1,0,0
+784,11888680,C,M,BIO,Hispanic or Latino/Latina,3,Transfer,3,51.76445118,3,Completer,CN,C3,23.84615385,1,0,1,0
+785,11988189,A,M,Other,Black or African American,2,FTiC,14,72.88259653,14,Completer,CN,C10,70.5,0,1,0,0
+786,11984297,NA,NA,Other,Hispanic or Latino/Latina,3,NA,12,68.17515487,12,Departer,CN,C9,NA,1,0,1,0
+787,11987102,B,M,ECS,Hispanic or Latino/Latina,3,FTiC,25,67.80055517,9,Completer,TR,T3,77,1,0,1,0
+788,11988172,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,83,0,0,0,0
+789,11981879,C,M,BIO,Hispanic or Latino/Latina,3,Transfer,25,NA,9,Completer,TR,T3,53,1,0,1,0
+790,11913418,C,F,BIO,Hispanic or Latino/Latina,3,No Cohort,5,63.26044598,5,Completer,CN,C4,41.75,0,1,1,0
+791,11989441,DR,F,BIO,Hispanic or Latino/Latina,3,No Cohort,28,44.75161748,12,Completer,TR,T5,NA,1,0,1,0
+792,11917965,C,M,ECS,Hispanic or Latino/Latina,3,Transfer,4,68.68008949,4,Completer,CN,C1,16.75,1,0,1,0
+793,11918247,B+,F,Other,Black or African American,2,No Cohort,22,42.08927583,6,Completer,TR,T4,55.25,0,1,0,0
+794,11981084,B-,F,BIO,White,1,Transfer,28,54.27581728,12,Completer,TR,T5,65,1,0,0,0
+795,11982048,NA,NA,Other,Hispanic or Latino/Latina,3,NA,27,77.19745223,11,Switcher-DiffDT,TR,T1,NA,1,0,1,0
+796,11912249,NA,NA,Other,Hispanic or Latino/Latina,3,NA,22,NA,6,Departer,TR,T4,NA,0,0,0,0
+797,11985876,A-,M,ECS,White,1,FTiC,9,74.13321611,9,Completer,CN,C7,60,1,0,0,0
+798,11986189,B-,M,Other,White,1,No Cohort,11,68.21495402,11,Completer,CN,C8,35,1,0,0,0
+799,11989755,C,F,BIO,AAPI,4,FTiC,14,71.90255425,14,Completer,CN,C10,42,1,0,0,1
+800,11984778,NA,NA,Other,Hispanic or Latino/Latina,3,NA,12,82.72311265,12,Switcher-DiffDT,CN,C9,55,1,0,1,0
+801,11985865,B+,M,Other,NonResident,4,No Cohort,16,70.25921733,16,Completer,CN,C12,64,0,1,0,0
+802,11986349,A-,M,ECS,Hispanic or Latino/Latina,3,FTiC,13,79.56319301,13,Completer,CN,C9,60,1,0,1,0
+803,11981459,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,29,65.49620004,13,Completer,TR,T2,41.5,1,0,1,0
+804,11987171,NA,NA,Other,Hispanic or Latino/Latina,3,NA,14,69.00030598,14,Switcher-DiffDT,CN,C10,NA,1,0,1,0
+805,11985405,C+,M,ECS,Black or African American,2,FTiC,12,75.25936212,12,Completer,CN,C9,41,0,1,0,0
+806,11985064,A-,M,OSM,Hispanic or Latino/Latina,3,FTiC,10,73.79836308,10,Completer,CN,C7,49.5,1,0,1,0
+807,11982763,B-,M,BIO,Hispanic or Latino/Latina,3,FTiC,11,81.93877959,11,Completer,CN,C8,27.5,1,0,1,0
+808,11983400,C+,M,Other,Hispanic or Latino/Latina,3,FTiC,9,71.90258145,9,Completer,CN,C7,48.5,1,0,1,0
+809,11985512,OF,F,BIO,Hispanic or Latino/Latina,3,FTiC,25,79.8225965,9,Completer,TR,T3,38,1,0,1,0
+810,11985744,C+,M,Other,Hispanic or Latino/Latina,3,FTiC,12,73.58911475,12,Completer,CN,C9,NA,1,0,1,0
+811,11988078,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,NA,0,0,0,0
+812,11985715,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,11,75.32124305,11,Completer,CN,C8,76.5,1,0,1,0
+813,11983470,DR,F,BIO,White,1,FTiC,32,70.85692853,16,Completer,TR,T7,NA,1,0,0,0
+814,11989507,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,32,69.96858034,16,Completer,TR,T7,42.5,1,0,1,0
+815,11982644,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,10,71.21733794,10,Completer,CN,C7,37,1,0,1,0
+816,11989104,B-,F,ECS,White,1,FTiC,9,77.28078292,9,Completer,CN,C7,36,1,0,0,0
+817,11985180,C,M,ECS,Hispanic or Latino/Latina,3,FTiC,13,67.87721245,13,Completer,CN,C9,46,1,0,1,0
+818,11989859,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,14,71.93899486,14,Completer,CN,C10,36,1,0,1,0
+819,11988988,NA,NA,Other,Hispanic or Latino/Latina,3,NA,9,57.64698436,9,Departer,CN,C7,NA,1,0,1,0
+820,11989640,NA,NA,Other,Hispanic or Latino/Latina,3,NA,27,71.97452229,11,Switcher-DiffDT,TR,T1,NA,1,0,1,0
+821,11989626,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,13,70.31244451,13,Completer,CN,C9,94.5,1,0,1,0
+822,11982645,B,M,BIO,Hispanic or Latino/Latina,3,FTiC,14,83.32930447,14,Completer,CN,C10,48,1,0,1,0
+823,11988031,A-,M,ECS,White,1,FTiC,29,80.34713307,13,Completer,TR,T2,62.5,1,0,0,0
+824,11984671,C,F,ECS,Hispanic or Latino/Latina,3,FTiC,28,73.51474731,12,Completer,TR,T5,47.5,1,0,1,0
+825,11985508,OF,F,BIO,Hispanic or Latino/Latina,3,FTiC,10,73.62324215,10,Completer,CN,C7,33,1,0,1,0
+826,11981659,A-,M,OSM,Hispanic or Latino/Latina,3,FTiC,11,72.48756521,11,Completer,CN,C8,68,1,0,1,0
+827,11987638,C,M,ECS,Hispanic or Latino/Latina,3,FTiC,10,73.23871354,10,Completer,CN,C7,38,1,0,1,0
+828,11981399,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,12,83.76057492,12,Completer,CN,C9,52.5,1,0,1,0
+829,11987177,C+,M,BIO,Hispanic or Latino/Latina,3,FTiC,29,70.13275959,13,Completer,TR,T2,49.5,1,0,1,0
+830,11986846,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,9,84.47964169,9,Completer,CN,C7,70.5,1,0,1,0
+831,11987077,A-,F,Other,Hispanic or Latino/Latina,3,FTiC,32,70.11456419,16,Completer,TR,T7,69.5,1,0,1,0
+832,11983319,A,M,Other,Hispanic or Latino/Latina,3,FTiC,26,72.62169687,10,Completer,TR,T4,89,1,0,1,0
+833,11983095,A,F,Other,Hispanic or Latino/Latina,3,FTiC,9,85.62858616,9,Completer,CN,C7,76.5,1,0,1,0
+834,11914975,C,F,BIO,White,1,No Cohort,8,76.9358447,8,Completer,CN,C7,19.5,1,0,0,0
+835,11986324,A,F,OSM,Hispanic or Latino/Latina,3,FTiC,25,82.99169313,9,Completer,TR,T3,88.5,1,0,1,0
+836,11988612,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,13,69.53284895,13,Completer,CN,C9,41.5,1,0,1,0
+837,11988225,B-,M,ECS,White,1,FTiC,28,67.58216968,12,Completer,TR,T5,61.5,1,0,0,0
+838,11982859,A-,M,ECS,Hispanic or Latino/Latina,3,FTiC,10,66.42369007,10,Completer,CN,C7,64,1,1,1,0
+839,11981006,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,CN,NA,NA,0,0,0,0
+840,11985429,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,NA,0,0,0,0
+841,11983821,A,F,BIO,Hispanic or Latino/Latina,3,No Cohort,27,70.56922184,11,Completer,TR,T1,94.5,1,0,1,0
+842,11984312,OF,M,ECS,Hispanic or Latino/Latina,3,FTiC,25,72.57856293,9,Completer,TR,T3,60,1,0,1,0
+843,11988761,B-,M,BIO,Hispanic or Latino/Latina,3,FTiC,26,66.76498208,10,Completer,TR,T4,66.5,1,0,1,0
+844,11985155,C,F,Other,Hispanic or Latino/Latina,3,FTiC,26,70.95828225,10,Completer,TR,T4,55.5,1,0,1,0
+845,11983691,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,29,72.40630296,13,Completer,TR,T2,75,1,0,1,0
+846,11988527,NA,NA,Other,Hispanic or Latino/Latina,3,NA,14,70.85692853,14,Switcher-SameDT,CN,C10,75.5,1,0,1,0
+847,11984451,NA,NA,Other,Hispanic or Latino/Latina,3,NA,29,65.0955414,13,Departer,TR,T2,NA,1,0,1,0
+848,11985943,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,11,84.07316498,11,Completer,CN,C8,69,1,0,1,0
+849,11989019,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,13,68.66866019,13,Completer,CN,C9,41.5,1,0,1,0
+850,11989868,A-,F,OSM,Hispanic or Latino/Latina,3,FTiC,10,79.24652122,10,Completer,CN,C7,50.5,1,0,1,0
+851,11989198,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,27,68.5256143,11,Completer,TR,T1,88.5,1,0,1,0
+852,11985138,C+,F,BIO,Hispanic or Latino/Latina,3,Transfer,14,67.78690344,14,Completer,CN,C10,54,0,0,1,0
+853,11985961,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,10,81.54337671,10,Completer,CN,C7,70.5,0,0,1,0
+854,11985680,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,29,70.61996075,13,Completer,TR,T2,65,1,0,1,0
+855,11985682,A,F,Other,Hispanic or Latino/Latina,3,FTiC,26,80.73697949,10,Completer,TR,T4,74.5,1,0,1,0
+856,11984825,NA,NA,Other,AAPI,4,NA,28,75.79617834,12,Departer,TR,T5,NA,0,1,0,1
+857,11989975,A-,M,Other,NonResident,4,No Cohort,11,77.90126079,11,Completer,CN,C8,56.5,0,0,0,0
+858,11989037,A,M,Other,Hispanic or Latino/Latina,3,FTiC,12,80.21738651,12,Completer,CN,C9,66.5,1,0,1,0
+859,11986383,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,30,60.00940452,14,Completer,TR,T6,73,1,0,1,0
+860,11985427,C+,M,BIO,Hispanic or Latino/Latina,3,FTiC,27,69.22564833,11,Completer,TR,T1,57.5,1,0,1,0
+861,11988888,B,M,Other,White,1,FTiC,29,63.8280621,13,Completer,TR,T2,59,1,0,0,0
+862,11981758,A,M,Other,Hispanic or Latino/Latina,3,FTiC,11,76.68809114,11,Completer,CN,C8,73,0,0,1,0
+863,11986809,A,F,Other,Hispanic or Latino/Latina,3,FTiC,10,73.78465849,10,Completer,CN,C7,62.5,1,0,1,0
+864,11984452,D,M,ECS,Hispanic or Latino/Latina,3,No Cohort,29,65.91323385,13,Completer,TR,T2,NA,1,0,1,0
+865,11989680,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,NA,0,0,0,0
+866,11989811,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,11,71.03382449,11,Completer,CN,C8,33,1,0,1,0
+867,11988630,C,M,Other,Hispanic or Latino/Latina,3,FTiC,11,56.01358324,11,Completer,CN,C8,37.5,1,0,1,0
+868,11915628,A-,M,BIO,Black or African American,2,No Cohort,22,NA,6,Completer,TR,T4,75.25,0,1,0,0
+869,11983205,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,16,76.06160905,16,Completer,CN,C12,69.5,1,0,1,0
+870,11987787,A,F,Other,Hispanic or Latino/Latina,3,FTiC,26,66.04271535,10,Completer,TR,T4,83,1,0,1,0
+871,11983123,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,29,70.51336008,13,Completer,TR,T2,64.5,1,0,1,0
+872,11984069,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,10,76.06839929,10,Completer,CN,C7,63.5,1,0,1,0
+873,11985621,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,9,81.4813847,9,Completer,CN,C7,58,1,0,1,0
+874,11988828,A,F,Other,NonResident,4,FTiC,30,79.42702049,14,Completer,TR,T6,96.5,1,0,1,0
+875,11984750,DR,M,BIO,Hispanic or Latino/Latina,3,FTiC,9,70.10986192,9,Completer,CN,C7,NA,1,0,1,0
+876,11989556,A,F,OSM,Hispanic or Latino/Latina,3,FTiC,13,89.1620391,13,Completer,CN,C9,77.5,1,0,1,0
+877,11988173,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,12,73.72105386,12,Completer,CN,C9,54.5,1,0,1,0
+878,11988873,C+,F,OSM,Hispanic or Latino/Latina,3,FTiC,27,78.94391714,11,Completer,TR,T1,75,1,0,1,0
+879,11983451,A-,F,ECS,Hispanic or Latino/Latina,3,FTiC,26,70.6400124,10,Completer,TR,T4,70.5,1,0,1,0
+880,11986378,C,M,BIO,Hispanic or Latino/Latina,3,FTiC,28,78.07123857,12,Completer,TR,T5,56.5,1,0,1,0
+881,11981139,B,M,BIO,Hispanic or Latino/Latina,3,FTiC,12,68.00411069,12,Completer,CN,C9,50.5,1,0,1,0
+882,11981352,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,TR,NA,46.5,0,0,0,0
+883,11982750,B,M,OSM,Hispanic or Latino/Latina,3,FTiC,29,76.34381253,13,Completer,TR,T2,74,1,0,1,0
+884,11986068,A,F,BIO,AAPI,4,FTiC,11,68.58891097,11,Completer,CN,C8,70.5,0,0,0,1
+885,11986244,A-,M,ECS,Hispanic or Latino/Latina,3,FTiC,9,71.01388891,9,Completer,CN,C7,65.5,1,0,1,0
+886,11989684,B,M,OSM,Hispanic or Latino/Latina,3,FTiC,11,82.76508137,11,Completer,CN,C8,55.5,1,0,1,0
+887,11983630,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,15,70.07575942,15,Completer,CN,C11,58,0,0,1,0
+888,11982406,DR,F,Other,Black or African American,2,FTiC,30,46.3565867,14,Completer,TR,T6,NA,0,1,0,0
+889,11982927,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,29,74.12698588,13,Completer,TR,T2,60.5,1,0,1,0
+890,11983922,C,F,Other,Black or African American,2,FTiC,10,74.41603706,10,Completer,CN,C7,31,0,1,0,0
+891,11986801,OF,M,BIO,Hispanic or Latino/Latina,3,FTiC,25,79.90683731,9,Completer,TR,T3,40.5,1,0,1,0
+892,11987088,A-,M,ECS,Hispanic or Latino/Latina,3,FTiC,28,45.67037562,12,Completer,TR,T5,70,1,0,1,0
+893,11916744,B+,F,BIO,Hispanic or Latino/Latina,3,No Cohort,6,69.17803276,6,Completer,CN,C5,36.5,1,0,1,0
+894,11987021,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Switcher-DiffDT,CN,NA,76,0,0,0,0
+895,11989590,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,26,61.87129701,10,Completer,TR,T4,87.5,1,0,1,0
+896,11982852,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,13,69.92136544,13,Completer,CN,C9,58.5,1,0,1,0
+897,11984317,B+,M,ECS,Hispanic or Latino/Latina,3,FTiC,30,77.7938741,14,Completer,TR,T6,81,1,0,1,0
+898,11983515,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,27,67.6934098,11,Completer,TR,T1,86.5,1,0,1,0
+899,11981769,NA,NA,Other,Hispanic or Latino/Latina,3,NA,26,80.07125098,10,Switcher-DiffDT,TR,T4,70,1,0,1,0
+900,11988334,C,F,BIO,White,1,FTiC,13,80.16608911,13,Completer,CN,C9,32,1,0,0,0
+901,11984546,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,13,71.47724092,13,Completer,CN,C9,37,1,0,1,0
+902,11987746,A,M,BIO,NonResident,4,No Cohort,31,67.62419509,15,Completer,TR,T4,89,1,0,1,0
+903,11988040,NA,NA,Other,Hispanic or Latino/Latina,3,NA,16,68.02547771,16,Switcher-DiffDT,CN,C12,NA,1,0,1,0
+904,11988416,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,10,61.92505815,10,Completer,CN,C7,67,1,0,1,0
+905,11985494,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,30,73.79621075,14,Completer,TR,T6,84.5,1,0,1,0
+906,11985415,A,M,ECS,NonResident,4,FTiC,14,83.12419072,14,Completer,CN,C10,72.5,0,0,1,0
+907,11987282,OF,M,ECS,Hispanic or Latino/Latina,3,FTiC,14,70.75197571,14,Completer,CN,C10,NA,1,0,1,0
+908,11983796,A,F,Other,Hispanic or Latino/Latina,3,FTiC,9,80.40180203,9,Completer,CN,C7,93.5,1,0,1,0
+909,11986525,C,M,ECS,Hispanic or Latino/Latina,3,FTiC,13,73.25354428,13,Completer,CN,C9,44.5,1,0,1,0
+910,11989353,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,29,72.64793967,13,Completer,TR,T2,77.5,1,0,1,0
+911,11987430,NA,NA,Other,Hispanic or Latino/Latina,3,NA,9,76.28536521,9,Switcher-DiffDT,CN,C7,71,1,0,1,0
+912,11983030,A,M,ECS,NonResident,4,FTiC,14,85.48087862,14,Completer,CN,C10,82,0,0,1,0
+913,11986413,A,F,BIO,White,1,FTiC,28,75.68823203,12,Completer,TR,T5,90.5,1,0,0,0
+914,11982107,A,F,BIO,NonResident,4,FTiC,15,82.61463658,15,Completer,CN,C11,76.5,1,0,0,1
+915,11987717,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,10,75.78200951,10,Completer,CN,C7,73,1,1,1,0
+916,11989406,DR,F,Other,AAPI,4,FTiC,25,77.10861258,9,Completer,TR,T3,NA,0,1,0,1
+917,11984992,DR,M,Other,NonResident,4,FTiC,25,72.85019781,9,Completer,TR,T3,NA,1,0,1,0
+918,11983732,A,F,ECS,AAPI,4,FTiC,29,83.75108076,13,Completer,TR,T2,95.5,1,0,0,1
+919,11985923,C+,F,ECS,AAPI,4,FTiC,9,78.69845956,9,Completer,CN,C7,57,0,0,0,1
+920,11984747,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,26,76.21979556,10,Completer,TR,T4,98.5,1,0,1,0
+921,11986708,A,F,BIO,White,1,FTiC,28,75.30115119,12,Completer,TR,T5,80.5,1,0,0,0
+922,11981483,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,10,72.73319861,10,Completer,CN,C7,77,1,0,1,0
+923,11987408,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,25,68.14355863,9,Completer,TR,T3,68,1,0,1,0
+924,11985586,A,M,ECS,NonResident,4,FTiC,10,72.97458749,10,Completer,CN,C7,76,1,0,1,0
+925,11989049,B,M,ECS,Hispanic or Latino/Latina,3,FTiC,9,68.15554449,9,Completer,CN,C7,69,1,0,1,0
+926,11983370,A,F,Other,NonResident,4,FTiC,30,87.90126079,14,Completer,TR,T6,98.5,1,0,0,0
+927,11982089,OF,F,OSM,NonResident,4,No Cohort,27,66.4052384,11,Completer,TR,T1,56.5,0,0,0,0
+928,11987153,B,M,BIO,Hispanic or Latino/Latina,3,FTiC,29,68.05752479,13,Completer,TR,T2,78,1,0,1,0
+929,11982201,B,F,BIO,Hispanic or Latino/Latina,3,FTiC,25,74.85459915,9,Completer,TR,T3,67,1,0,1,0
+930,11914858,F,M,BIO,Hispanic or Latino/Latina,3,No Cohort,8,NA,8,Completer,CN,C7,NA,0,1,1,0
+931,11988096,F,M,BIO,Hispanic or Latino/Latina,3,Transfer,25,NA,9,Completer,TR,T3,NA,0,1,1,0
+932,11984052,A,F,BIO,NonResident,4,FTiC,30,79.92747348,14,Completer,TR,T6,94.5,1,0,1,0
+933,11982175,NA,NA,Other,Hispanic or Latino/Latina,3,NA,26,76.05095541,10,Departer,TR,T4,NA,1,0,1,0
+934,11983145,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,13,68.43929739,13,Completer,CN,C9,37.5,1,0,1,0
+935,11981200,C+,M,BIO,Hispanic or Latino/Latina,3,FTiC,27,65.96401874,11,Completer,TR,T1,85.5,1,0,1,0
+936,11982847,B,F,OSM,Hispanic or Latino/Latina,3,FTiC,29,67.30590761,13,Completer,TR,T2,60.5,1,0,1,0
+937,11982674,A-,F,BIO,Hispanic or Latino/Latina,3,FTiC,26,73.89762308,10,Completer,TR,T4,65.5,1,0,1,0
+938,11981464,NA,NA,Other,Hispanic or Latino/Latina,3,NA,32,71.59235669,16,Departer,TR,T7,NA,0,0,0,0
+939,11983858,NA,NA,Other,Hispanic or Latino/Latina,3,NA,9,69.90842312,9,Switcher-DiffDT,CN,C7,58.5,1,0,1,0
+940,11982624,NA,NA,Other,Hispanic or Latino/Latina,3,NA,16,78.93134561,16,Switcher-SameDT,CN,C12,67,1,0,1,0
+941,11982774,C,M,BIO,NonResident,4,FTiC,27,77.56050542,11,Completer,TR,T1,59.5,1,0,1,0
+942,11989438,A,M,ECS,White,1,FTiC,9,79.00414102,9,Completer,CN,C7,66.5,1,0,0,0
+943,11985050,A,F,ECS,Hispanic or Latino/Latina,3,FTiC,29,82.17990493,13,Completer,TR,T2,90.5,1,0,1,0
+944,11988032,OF,M,BIO,Hispanic or Latino/Latina,3,FTiC,9,71.65875372,9,Completer,CN,C7,NA,0,0,1,0
+945,11987114,OF,F,ECS,Hispanic or Latino/Latina,3,FTiC,11,75.70301565,11,Completer,CN,C8,NA,1,0,1,0
+946,11987620,A,F,BIO,NotReported/Other,NA,FTiC,32,83.86333519,16,Completer,TR,T7,82,0,0,0,0
+947,11989539,A,F,Other,AAPI,4,FTiC,13,71.90725651,13,Completer,CN,C9,NA,0,0,0,1
+948,11984224,DR,F,BIO,White,1,Transfer,31,58.32431262,15,Completer,TR,T4,NA,1,0,0,0
+949,11984200,A,M,BIO,Hispanic or Latino/Latina,3,FTiC,14,77.61585696,14,Completer,CN,C10,80,0,0,1,0
+950,11985303,B+,M,OSM,Hispanic or Latino/Latina,3,FTiC,28,76.553008,12,Completer,TR,T5,77,1,0,1,0
+951,11984584,OF,M,BIO,Hispanic or Latino/Latina,3,FTiC,14,72.74610684,14,Completer,CN,C10,16,1,0,1,0
+952,11986529,A-,F,Other,NonResident,4,FTiC,30,76.61537157,14,Completer,TR,T6,87.5,1,0,1,0
+953,11987692,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,25,81.47346256,9,Completer,TR,T3,91.5,1,0,1,0
+954,11981525,OF,F,Other,AAPI,4,FTiC,25,70.32603801,9,Completer,TR,T3,49,0,0,0,1
+955,11982932,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,13,77.30619336,13,Completer,CN,C9,62,1,0,1,0
+956,11985594,A,M,Other,Hispanic or Latino/Latina,3,FTiC,28,82.3713049,12,Completer,TR,T5,85,0,1,1,0
+957,11986798,C,M,Other,Hispanic or Latino/Latina,3,FTiC,27,74.39101578,11,Completer,TR,T1,68.5,1,0,1,0
+958,11981235,OF,F,Other,Hispanic or Latino/Latina,3,FTiC,27,68.04412243,11,Completer,TR,T1,9,0,1,1,0
+959,11987175,NA,NA,Other,AAPI,4,NA,29,68.02547771,13,Departer,TR,T2,NA,0,0,0,1
+960,11987082,C,F,Other,Hispanic or Latino/Latina,3,FTiC,9,64.46950019,9,Completer,CN,C7,43.5,1,0,1,0
+961,11981722,NA,NA,Other,NotReported/Other,NA,NA,NA,NA,NA,Departer,TR,NA,NA,0,0,0,0
+962,11983346,DR,F,BIO,Hispanic or Latino/Latina,3,FTiC,12,73.90404905,12,Completer,CN,C9,NA,0,1,1,0
+963,11989167,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,9,68.60708263,9,Completer,CN,C7,80,1,0,1,0
+964,11989419,C+,M,Other,NonResident,4,No Cohort,15,70.67267848,15,Completer,CN,C11,NA,0,0,0,0
+965,11983991,B-,F,BIO,Hispanic or Latino/Latina,3,FTiC,26,78.49599343,10,Completer,TR,T4,59.5,1,0,1,0
+966,11985042,C,F,BIO,Hispanic or Latino/Latina,3,Transfer,15,44.78350292,15,Completer,CN,C11,22,1,0,1,0
+967,11986621,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,26,74.6593381,10,Completer,TR,T4,85.5,1,0,1,0
+968,11913016,A-,F,BIO,Black or African American,2,No Cohort,8,NA,8,Completer,CN,C7,30.75,0,1,0,0
+969,11986697,OF,F,Other,Black or African American,2,No Cohort,9,78.04166672,9,Completer,CN,C7,33.5,1,1,0,0
+970,11981964,A,F,BIO,AAPI,4,FTiC,30,83.97165957,14,Completer,TR,T6,85.5,0,0,0,1
+971,11982788,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,14,75.41398171,14,Completer,CN,C10,60.5,1,0,1,0
+972,11982838,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,29,75.39828567,13,Completer,TR,T2,61.5,1,0,1,0
+973,11986066,C,M,BIO,Hispanic or Latino/Latina,3,FTiC,12,80.45828432,12,Completer,CN,C9,67,1,0,1,0
+974,11985459,C+,F,BIO,Hispanic or Latino/Latina,3,FTiC,10,69.38851297,10,Completer,CN,C7,42,1,1,1,0
+975,11987956,NA,NA,Other,Hispanic or Latino/Latina,3,NA,25,76.54543175,9,Departer,TR,T3,NA,1,0,1,0
+976,11985974,OF,M,BIO,AAPI,4,FTiC,32,66.23321975,16,Completer,TR,T7,NA,0,0,0,1
+977,11984328,NA,NA,Other,NonResident,4,NA,26,61.58375962,10,Switcher-SameDT,TR,T4,NA,1,0,1,0
+978,11985439,A-,M,ECS,Hispanic or Latino/Latina,3,FTiC,9,72.2541452,9,Completer,CN,C7,59.5,1,0,1,0
+979,11986232,D,M,Other,NonResident,4,No Cohort,28,74.07960473,12,Completer,TR,T5,29,0,0,0,0
+980,11988531,B,M,OSM,Hispanic or Latino/Latina,3,FTiC,29,74.37524735,13,Completer,TR,T2,62.5,0,0,1,0
+981,11982777,B-,F,Other,Hispanic or Latino/Latina,3,FTiC,30,75.16993642,14,Completer,TR,T6,63,1,0,1,0
+982,11986420,C,F,BIO,Hispanic or Latino/Latina,3,FTiC,30,72.11332174,14,Completer,TR,T6,78.5,1,1,1,0
+983,11982606,B+,M,Other,NonResident,4,FTiC,14,78.33564118,14,Completer,CN,C10,39,1,0,0,0
+984,11985550,A,F,OSM,Hispanic or Latino/Latina,3,FTiC,14,80.48864218,14,Completer,CN,C10,73.5,1,0,1,0
+985,11985829,A,M,ECS,AAPI,4,FTiC,9,79.45127107,9,Completer,CN,C7,77.5,0,0,0,1
+986,11988292,B+,F,BIO,Hispanic or Latino/Latina,3,FTiC,26,78.19297106,10,Completer,TR,T4,57,1,1,1,0
+987,11989999,C+,M,BIO,Hispanic or Latino/Latina,3,FTiC,9,65.48293979,9,Completer,CN,C7,53,1,0,1,0
+988,11984828,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,12,85.99043276,12,Completer,CN,C9,90,1,0,1,0
+989,11988719,A,F,OSM,Hispanic or Latino/Latina,3,FTiC,16,74.65608987,16,Completer,CN,C12,70.5,1,0,1,0
+990,11988571,B-,F,BIO,White,1,No Cohort,14,79.07850846,14,Completer,CN,C10,63.5,1,0,0,0
+991,11989748,OF,M,OSM,Hispanic or Latino/Latina,3,FTiC,28,69.63000527,12,Completer,TR,T5,16,1,0,1,0
+992,11989752,A,M,Other,Black or African American,2,FTiC,29,76.5122183,13,Completer,TR,T2,86.5,1,1,0,0
+993,11981433,A,F,BIO,Hispanic or Latino/Latina,3,FTiC,14,78.84789081,14,Completer,CN,C10,77.5,1,0,1,0
+994,11989075,C+,M,ECS,White,1,FTiC,28,74.42349035,12,Completer,TR,T5,63.5,1,0,0,0
+995,11981870,B-,F,OSM,White,1,FTiC,30,68.42218255,14,Completer,TR,T6,87,1,0,0,0
+996,11989569,B,M,OSM,White,1,FTiC,13,69.65654876,13,Completer,CN,C9,64.5,1,0,0,0
+997,11983227,A,M,ECS,Hispanic or Latino/Latina,3,FTiC,26,67.74540587,10,Completer,TR,T4,72,1,1,1,1
+998,11981485,B+,M,ECS,Hispanic or Latino/Latina,3,FTiC,25,74.03505046,9,Completer,TR,T3,67.5,1,0,1,0
+999,11985433,C,M,ECS,Hispanic or Latino/Latina,3,FTiC,29,67.77349304,13,Completer,TR,T2,57,1,0,1,0
+1000,11988466,C,M,Other,Hispanic or Latino/Latina,3,FTiC,14,77.11951328,14,Completer,CN,C10,52.5,1,0,1,0
+1001,11986690,A,M,BIO,Hispanic or Latino/Latina,3,Transfer,9,72.93786534,9,Completer,CN,C7,71,1,0,1,0
+1002,11988745,OF,M,ECS,Black or African American,2,FTiC,11,71.25180816,11,Completer,CN,C8,NA,0,1,0,0
+1003,11984685,OF,M,BIO,Hispanic or Latino/Latina,3,FTiC,14,79.48129645,14,Completer,CN,C10,NA,1,0,1,0
+1004,11989957,A-,M,ECS,Hispanic or Latino/Latina,3,FTiC,15,75.89645648,15,Completer,CN,C11,66,1,0,1,0
+1005,11987090,NA,NA,Other,Hispanic or Latino/Latina,3,NA,28,66.62420382,12,Departer,TR,T5,NA,1,0,1,0
+1006,11983924,NA,NA,Other,NonResident,4,NA,30,71.21019108,14,Departer,TR,T6,NA,0,0,0,1
+1007,11985288,OF,F,Other,Hispanic or Latino/Latina,3,FTiC,11,84.41070047,11,Completer,CN,C8,40.5,1,0,1,0
+1008,11981298,C,M,Other,Hispanic or Latino/Latina,3,No Cohort,16,41.67568738,16,Completer,CN,C12,40,1,0,1,0
+1009,11989086,A,M,OSM,Hispanic or Latino/Latina,3,No Cohort,30,44.03550552,14,Completer,TR,T6,93.5,1,0,1,0
+1010,11989176,B,F,BIO,Hispanic or Latino/Latina,3,Transfer,11,NA,11,Completer,CN,C8,61,1,0,1,0
+1011,11989767,B-,F,OSM,Hispanic or Latino/Latina,3,No Cohort,29,74.32344663,13,Completer,TR,T2,53,1,0,1,0
+1012,11984174,A,M,Other,Hispanic or Latino/Latina,3,No Cohort,29,85.10482182,13,Completer,TR,T2,84.5,0,0,1,0
+1013,11986411,NA,NA,Other,Hispanic or Latino/Latina,3,NA,12,NA,12,Departer,CN,C9,NA,0,0,0,0
+1014,11985774,B+,M,Other,White,1,FTiC,29,76.55408321,13,Completer,TR,T2,33.5,1,0,0,0
+1015,11982564,A,M,Other,Hispanic or Latino/Latina,3,No Cohort,25,81.1078514,9,Completer,TR,T3,98.5,1,0,1,0
+1016,11985541,A,M,Other,Hispanic or Latino/Latina,3,No Cohort,29,83.07829196,13,Completer,TR,T2,89.5,1,0,1,0
+1017,11983743,C+,F,ECS,White,1,No Cohort,10,47.64453287,10,Completer,CN,C7,51.5,1,0,0,0
+1018,11989504,C+,F,BIO,Hispanic or Latino/Latina,3,No Cohort,25,NA,9,Completer,TR,T3,57,1,0,1,0
+1019,11988505,D,F,BIO,Hispanic or Latino/Latina,3,No Cohort,30,66.31012141,14,Completer,TR,T6,33.5,1,0,1,0

@@ -1,0 +1,28 @@
+QUALITY CHECK REPORT. Plain-language summary: each line compares a count in our cleaned data with what the original authors reported. PASS means it matches. FLAG means it differs and is explained.
+
+[PASS] Students randomized: got 1019, expected 1019. Original README: 1,019.
+[PASS] Randomized to active learning: got 516, expected 516.
+[PASS] Randomized to lecture: got 503, expected 503.
+[PASS] Active students still in assigned section at drop/add: got 417, expected 417.
+[PASS] Lecture students still in assigned section at drop/add: got 394, expected 394.
+[FLAG] Active stayers with an end-of-term learning score: got 376, expected 373. Original README says 373. The file has 376. The 3-student gap is small and is noted as an open question in docs/LIMITATIONS.md; all analyses use what is in the file.
+[PASS] Lecture stayers with an end-of-term learning score: got 310, expected 310. Original README: 310.
+[PASS] Course sections: got 32, expected 32.
+[PASS] Time slots (randomization blocks): got 16, expected 16.
+[PASS] Time slots with exactly one active and one lecture section: got 16, expected 16.
+[PASS] Instructors: got 19, expected 19.
+[PASS] Instructors who taught in both arms: got 0, expected 0. Each instructor taught only one style, so instructor and teaching style cannot be fully separated. Analyses account for this by clustering on section.
+[PASS] Stayers with no course grade: got 0, expected 0.
+[PASS] Learning scores all within 0 to 100: got True, expected True.
+[PASS] Prior-preparation scores all within 0 to 100: got True, expected True.
+
+Missing end-of-term learning scores among stayers, by arm (different rates matter; see LIMITATIONS):
+  Active (MPC): 9.8% missing
+  Lecture: 21.3% missing
+
+SPOT CHECKS. Open data/raw/kramer2023/anonymizedarchive.csv and data/processed/students.csv, find each Row, and compare:
+  Row 1: Treatment=CN -> arm 'Lecture'; Grade=DR -> pass_c_or_better=0; LearningMeasure=None
+  Row 2: Treatment=TR -> arm 'Active (MPC)'; Grade=A -> pass_c_or_better=1; LearningMeasure=83.75
+  Row 3: Treatment=TR -> arm 'Active (MPC)'; Grade=None -> pass_c_or_better=None; LearningMeasure=None
+  Row 500: Treatment=CN -> arm 'Lecture'; Grade=A -> pass_c_or_better=1; LearningMeasure=60.5
+  Row 1019: Treatment=TR -> arm 'Active (MPC)'; Grade=D -> pass_c_or_better=0; LearningMeasure=33.5

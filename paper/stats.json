@@ -1,0 +1,731 @@
+{
+  "flow": {
+    "randomized": 1019,
+    "randomized_active": 516,
+    "randomized_lecture": 503,
+    "stayed_active": 417,
+    "stayed_lecture": 394,
+    "stay_rate_active": 0.80814,
+    "stay_rate_lecture": 0.7833,
+    "stayers": 811,
+    "sections": 32,
+    "slots": 16,
+    "instructors": 19,
+    "instructors_active": 7,
+    "instructors_lecture": 12,
+    "lm_n_active": 376,
+    "lm_n_lecture": 310
+  },
+  "stay_effect": {
+    "est": 0.024839,
+    "p": 0.32534
+  },
+  "balance": {
+    "prior_prep_mean_active": 65.172817,
+    "prior_prep_mean_lecture": 65.876021,
+    "prior_prep_sd_active": 11.689048,
+    "prior_prep_sd_lecture": 11.389048,
+    "prior_prep_p": 0.355644,
+    "stayers_with_score_prior_prep_active": 66.047556,
+    "stayers_with_score_prior_prep_lecture": 66.718686,
+    "stayers_without_score_prior_prep_lecture": 63.303624,
+    "stayers_without_score_prior_prep_active": 59.666533
+  },
+  "lm": {
+    "mean_active": 63.451514,
+    "mean_lecture": 47.700993,
+    "sd_active": 19.753041,
+    "sd_lecture": 21.043731,
+    "raw_diff": 15.750521,
+    "fe": {
+      "est": 15.811788,
+      "se": 1.956913,
+      "lo": 11.820637,
+      "hi": 19.802939,
+      "p": 0.0,
+      "n": 686,
+      "clusters": 32
+    },
+    "fe_adj": {
+      "est": 16.296321,
+      "se": 1.692133,
+      "lo": 12.845193,
+      "hi": 19.747449,
+      "p": 0.0,
+      "n": 686,
+      "clusters": 32
+    },
+    "g": {
+      "g": 0.773275,
+      "lo": 0.617443,
+      "hi": 0.929106,
+      "sd_pooled": 20.346258
+    },
+    "pairs": {
+      "mean_diff": 16.114139,
+      "pairs": 16,
+      "pairs_favoring_active": 14,
+      "p_paired_t": 4.9e-05,
+      "p_exact": 0.000214,
+      "min_diff": -9.39371,
+      "max_diff": 34.578676,
+      "diffs": [
+        18.472527,
+        -9.39371,
+        20.976331,
+        34.578676,
+        -3.577899,
+        12.744906,
+        3.814171,
+        33.977679,
+        14.758462,
+        20.767241,
+        17.16523,
+        18.519704,
+        21.6926,
+        20.993182,
+        16.791667,
+        15.545455
+      ],
+      "by_slot": [
+        {
+          "slot": 1,
+          "mean_active": 71.318681,
+          "mean_lecture": 52.846154,
+          "n_active": 28,
+          "n_lecture": 20
+        },
+        {
+          "slot": 2,
+          "mean_active": 54.94695,
+          "mean_lecture": 64.340659,
+          "n_active": 29,
+          "n_lecture": 21
+        },
+        {
+          "slot": 3,
+          "mean_active": 68.668639,
+          "mean_lecture": 47.692308,
+          "n_active": 26,
+          "n_lecture": 22
+        },
+        {
+          "slot": 4,
+          "mean_active": 61.691176,
+          "mean_lecture": 27.1125,
+          "n_active": 17,
+          "n_lecture": 20
+        },
+        {
+          "slot": 5,
+          "mean_active": 51.130435,
+          "mean_lecture": 54.708333,
+          "n_active": 23,
+          "n_lecture": 18
+        },
+        {
+          "slot": 6,
+          "mean_active": 58.051724,
+          "mean_lecture": 45.306818,
+          "n_active": 29,
+          "n_lecture": 22
+        },
+        {
+          "slot": 7,
+          "mean_active": 61.632353,
+          "mean_lecture": 57.818182,
+          "n_active": 17,
+          "n_lecture": 11
+        },
+        {
+          "slot": 8,
+          "mean_active": 53.321429,
+          "mean_lecture": 19.34375,
+          "n_active": 14,
+          "n_lecture": 8
+        },
+        {
+          "slot": 9,
+          "mean_active": 68.538462,
+          "mean_lecture": 53.78,
+          "n_active": 26,
+          "n_lecture": 25
+        },
+        {
+          "slot": 10,
+          "mean_active": 66.25,
+          "mean_lecture": 45.482759,
+          "n_active": 30,
+          "n_lecture": 29
+        },
+        {
+          "slot": 11,
+          "mean_active": 71.206897,
+          "mean_lecture": 54.041667,
+          "n_active": 29,
+          "n_lecture": 24
+        },
+        {
+          "slot": 12,
+          "mean_active": 58.448276,
+          "mean_lecture": 39.928571,
+          "n_active": 29,
+          "n_lecture": 21
+        },
+        {
+          "slot": 13,
+          "mean_active": 64.676471,
+          "mean_lecture": 42.983871,
+          "n_active": 34,
+          "n_lecture": 31
+        },
+        {
+          "slot": 14,
+          "mean_active": 74.318182,
+          "mean_lecture": 53.325,
+          "n_active": 22,
+          "n_lecture": 20
+        },
+        {
+          "slot": 15,
+          "mean_active": 61.125,
+          "mean_lecture": 44.333333,
+          "n_active": 12,
+          "n_lecture": 9
+        },
+        {
+          "slot": 16,
+          "mean_active": 62.045455,
+          "mean_lecture": 46.5,
+          "n_active": 11,
+          "n_lecture": 9
+        }
+      ]
+    },
+    "lee": {
+      "observed_share_active": 0.901679,
+      "observed_share_lecture": 0.786802,
+      "trim_share": 0.127403,
+      "trimmed_n": 48,
+      "lower": 11.661578,
+      "upper": 20.718684,
+      "lower_g": 0.573156,
+      "upper_g": 1.018304
+    }
+  },
+  "pass": {
+    "rate_active": 0.803357,
+    "rate_lecture": 0.685279,
+    "fe": {
+      "est": 0.117424,
+      "se": 0.026078,
+      "lo": 0.064238,
+      "hi": 0.170611,
+      "p": 8.9e-05,
+      "n": 811,
+      "clusters": 32
+    },
+    "fe_adj": {
+      "est": 0.118954,
+      "se": 0.025095,
+      "lo": 0.067772,
+      "hi": 0.170136,
+      "p": 4.5e-05,
+      "n": 811,
+      "clusters": 32
+    },
+    "pairs": {
+      "mean_diff": 0.115629,
+      "pairs": 16,
+      "pairs_favoring_active": 12,
+      "p_paired_t": 0.006818,
+      "p_exact": 0.00766,
+      "min_diff": -0.108225,
+      "max_diff": 0.366667,
+      "diffs": [
+        0.174107,
+        0.147783,
+        -0.083333,
+        -0.017316,
+        0.058333,
+        0.302151,
+        0.190045,
+        0.366667,
+        -0.108225,
+        0.312144,
+        0.109524,
+        0.226293,
+        0.137302,
+        0.02087,
+        0.116667,
+        -0.102941
+      ],
+      "by_slot": [
+        {
+          "slot": 1,
+          "mean_active": 0.78125,
+          "mean_lecture": 0.607143,
+          "n_active": 32,
+          "n_lecture": 28
+        },
+        {
+          "slot": 2,
+          "mean_active": 0.862069,
+          "mean_lecture": 0.714286,
+          "n_active": 29,
+          "n_lecture": 28
+        },
+        {
+          "slot": 3,
+          "mean_active": 0.666667,
+          "mean_lecture": 0.75,
+          "n_active": 30,
+          "n_lecture": 32
+        },
+        {
+          "slot": 4,
+          "mean_active": 0.619048,
+          "mean_lecture": 0.636364,
+          "n_active": 21,
+          "n_lecture": 22
+        },
+        {
+          "slot": 5,
+          "mean_active": 0.958333,
+          "mean_lecture": 0.9,
+          "n_active": 24,
+          "n_lecture": 20
+        },
+        {
+          "slot": 6,
+          "mean_active": 0.935484,
+          "mean_lecture": 0.633333,
+          "n_active": 31,
+          "n_lecture": 30
+        },
+        {
+          "slot": 7,
+          "mean_active": 0.882353,
+          "mean_lecture": 0.692308,
+          "n_active": 17,
+          "n_lecture": 13
+        },
+        {
+          "slot": 8,
+          "mean_active": 0.866667,
+          "mean_lecture": 0.5,
+          "n_active": 15,
+          "n_lecture": 12
+        },
+        {
+          "slot": 9,
+          "mean_active": 0.606061,
+          "mean_lecture": 0.714286,
+          "n_active": 33,
+          "n_lecture": 28
+        },
+        {
+          "slot": 10,
+          "mean_active": 0.870968,
+          "mean_lecture": 0.558824,
+          "n_active": 31,
+          "n_lecture": 34
+        },
+        {
+          "slot": 11,
+          "mean_active": 0.766667,
+          "mean_lecture": 0.657143,
+          "n_active": 30,
+          "n_lecture": 35
+        },
+        {
+          "slot": 12,
+          "mean_active": 0.8125,
+          "mean_lecture": 0.586207,
+          "n_active": 32,
+          "n_lecture": 29
+        },
+        {
+          "slot": 13,
+          "mean_active": 0.942857,
+          "mean_lecture": 0.805556,
+          "n_active": 35,
+          "n_lecture": 36
+        },
+        {
+          "slot": 14,
+          "mean_active": 0.76,
+          "mean_lecture": 0.73913,
+          "n_active": 25,
+          "n_lecture": 23
+        },
+        {
+          "slot": 15,
+          "mean_active": 0.866667,
+          "mean_lecture": 0.75,
+          "n_active": 15,
+          "n_lecture": 12
+        },
+        {
+          "slot": 16,
+          "mean_active": 0.647059,
+          "mean_lecture": 0.75,
+          "n_active": 17,
+          "n_lecture": 12
+        }
+      ]
+    },
+    "dfw_active": 0.196643,
+    "dfw_lecture": 0.314721,
+    "relative_dfw_reduction": 0.375184
+  },
+  "subgroups": [
+    {
+      "group": "Women",
+      "var": "female",
+      "n": 436,
+      "n_active": 233,
+      "n_lecture": 203,
+      "lm": {
+        "est": 16.738418,
+        "se": 1.738595,
+        "lo": 13.19253,
+        "hi": 20.284306,
+        "p": 0.0,
+        "n": 367,
+        "clusters": 32
+      },
+      "pass": {
+        "est": 0.095427,
+        "se": 0.046444,
+        "lo": 0.000703,
+        "hi": 0.19015,
+        "p": 0.048424,
+        "n": 436,
+        "clusters": 32
+      },
+      "pass_active": 0.7897,
+      "pass_lecture": 0.689655
+    },
+    {
+      "group": "Men",
+      "var": "female",
+      "n": 375,
+      "n_active": 184,
+      "n_lecture": 191,
+      "lm": {
+        "est": 15.382666,
+        "se": 2.591137,
+        "lo": 10.098008,
+        "hi": 20.667324,
+        "p": 1e-06,
+        "n": 319,
+        "clusters": 32
+      },
+      "pass": {
+        "est": 0.140409,
+        "se": 0.027225,
+        "lo": 0.084883,
+        "hi": 0.195934,
+        "p": 1.4e-05,
+        "n": 375,
+        "clusters": 32
+      },
+      "pass_active": 0.820652,
+      "pass_lecture": 0.680628
+    },
+    {
+      "group": "Hispanic or Latino/a",
+      "var": "hispanic",
+      "n": 623,
+      "n_active": 321,
+      "n_lecture": 302,
+      "lm": {
+        "est": 15.379917,
+        "se": 2.015479,
+        "lo": 11.269322,
+        "hi": 19.490513,
+        "p": 0.0,
+        "n": 529,
+        "clusters": 32
+      },
+      "pass": {
+        "est": 0.144693,
+        "se": 0.028047,
+        "lo": 0.087491,
+        "hi": 0.201895,
+        "p": 1.4e-05,
+        "n": 623,
+        "clusters": 32
+      },
+      "pass_active": 0.825545,
+      "pass_lecture": 0.682119
+    },
+    {
+      "group": "Not Hispanic or Latino/a",
+      "var": "hispanic",
+      "n": 188,
+      "n_active": 96,
+      "n_lecture": 92,
+      "lm": {
+        "est": 16.075628,
+        "se": 2.357147,
+        "lo": 11.268195,
+        "hi": 20.883061,
+        "p": 0.0,
+        "n": 157,
+        "clusters": 32
+      },
+      "pass": {
+        "est": 0.028865,
+        "se": 0.059038,
+        "lo": -0.091544,
+        "hi": 0.149273,
+        "p": 0.628342,
+        "n": 188,
+        "clusters": 32
+      },
+      "pass_active": 0.729167,
+      "pass_lecture": 0.695652
+    },
+    {
+      "group": "Black or African American",
+      "var": "black",
+      "n": 104,
+      "n_active": 50,
+      "n_lecture": 54,
+      "lm": {
+        "est": 17.305248,
+        "se": 3.121964,
+        "lo": 10.910195,
+        "hi": 23.700302,
+        "p": 6e-06,
+        "n": 82,
+        "clusters": 29
+      },
+      "pass": {
+        "est": 0.151829,
+        "se": 0.075888,
+        "lo": -0.00338,
+        "hi": 0.307039,
+        "p": 0.054865,
+        "n": 104,
+        "clusters": 30
+      },
+      "pass_active": 0.7,
+      "pass_lecture": 0.518519
+    },
+    {
+      "group": "First time in college",
+      "var": "first_time_college",
+      "n": 572,
+      "n_active": 291,
+      "n_lecture": 281,
+      "lm": {
+        "est": 16.576347,
+        "se": 2.11747,
+        "lo": 12.257739,
+        "hi": 20.894954,
+        "p": 0.0,
+        "n": 505,
+        "clusters": 32
+      },
+      "pass": {
+        "est": 0.107348,
+        "se": 0.027154,
+        "lo": 0.051968,
+        "hi": 0.162729,
+        "p": 0.000416,
+        "n": 572,
+        "clusters": 32
+      },
+      "pass_active": 0.835052,
+      "pass_lecture": 0.725979
+    },
+    {
+      "group": "Transfer or other",
+      "var": "first_time_college",
+      "n": 239,
+      "n_active": 126,
+      "n_lecture": 113,
+      "lm": {
+        "est": 15.732789,
+        "se": 3.240147,
+        "lo": 9.124466,
+        "hi": 22.341112,
+        "p": 3.2e-05,
+        "n": 181,
+        "clusters": 32
+      },
+      "pass": {
+        "est": 0.166868,
+        "se": 0.043827,
+        "lo": 0.077483,
+        "hi": 0.256253,
+        "p": 0.000622,
+        "n": 239,
+        "clusters": 32
+      },
+      "pass_active": 0.730159,
+      "pass_lecture": 0.584071
+    },
+    {
+      "group": "Prior preparation: lower third",
+      "var": "prior_prep_group",
+      "n": 262,
+      "n_active": 135,
+      "n_lecture": 127,
+      "lm": {
+        "est": 17.264139,
+        "se": 2.106422,
+        "lo": 12.968064,
+        "hi": 21.560215,
+        "p": 0.0,
+        "n": 208,
+        "clusters": 32
+      },
+      "pass": {
+        "est": 0.110595,
+        "se": 0.043244,
+        "lo": 0.0224,
+        "hi": 0.198791,
+        "p": 0.015654,
+        "n": 262,
+        "clusters": 32
+      },
+      "pass_active": 0.688889,
+      "pass_lecture": 0.566929
+    },
+    {
+      "group": "Prior preparation: middle third",
+      "var": "prior_prep_group",
+      "n": 256,
+      "n_active": 139,
+      "n_lecture": 117,
+      "lm": {
+        "est": 16.487996,
+        "se": 2.649626,
+        "lo": 11.084048,
+        "hi": 21.891945,
+        "p": 1e-06,
+        "n": 223,
+        "clusters": 32
+      },
+      "pass": {
+        "est": 0.1229,
+        "se": 0.03717,
+        "lo": 0.04709,
+        "hi": 0.198709,
+        "p": 0.002396,
+        "n": 256,
+        "clusters": 32
+      },
+      "pass_active": 0.81295,
+      "pass_lecture": 0.700855
+    },
+    {
+      "group": "Prior preparation: upper third",
+      "var": "prior_prep_group",
+      "n": 272,
+      "n_active": 135,
+      "n_lecture": 137,
+      "lm": {
+        "est": 15.842129,
+        "se": 1.696081,
+        "lo": 12.378269,
+        "hi": 19.305988,
+        "p": 0.0,
+        "n": 244,
+        "clusters": 31
+      },
+      "pass": {
+        "est": 0.073297,
+        "se": 0.029702,
+        "lo": 0.012637,
+        "hi": 0.133957,
+        "p": 0.019523,
+        "n": 272,
+        "clusters": 31
+      },
+      "pass_active": 0.903704,
+      "pass_lecture": 0.824818
+    }
+  ],
+  "interactions": {
+    "female": {
+      "lm": {
+        "diff_in_effect": 0.793745,
+        "se": 3.53685,
+        "p": 0.823902,
+        "n": 686
+      },
+      "pass": {
+        "diff_in_effect": -0.044857,
+        "se": 0.067165,
+        "p": 0.509168,
+        "n": 811
+      }
+    },
+    "hispanic": {
+      "lm": {
+        "diff_in_effect": -1.62039,
+        "se": 2.808013,
+        "p": 0.568067,
+        "n": 686
+      },
+      "pass": {
+        "diff_in_effect": 0.111723,
+        "se": 0.07813,
+        "p": 0.162729,
+        "n": 811
+      }
+    },
+    "black": {
+      "lm": {
+        "diff_in_effect": 3.392471,
+        "se": 4.858242,
+        "p": 0.4902,
+        "n": 686
+      },
+      "pass": {
+        "diff_in_effect": 0.070351,
+        "se": 0.106641,
+        "p": 0.514318,
+        "n": 811
+      }
+    },
+    "first_time_college": {
+      "lm": {
+        "diff_in_effect": 1.427006,
+        "se": 3.400214,
+        "p": 0.677613,
+        "n": 686
+      },
+      "pass": {
+        "diff_in_effect": -0.057561,
+        "se": 0.063751,
+        "p": 0.373538,
+        "n": 811
+      }
+    },
+    "prior_prep_per_sd": {
+      "lm": {
+        "diff_in_effect": -0.500424,
+        "se": 1.3303,
+        "p": 0.70935,
+        "n": 675
+      },
+      "pass": {
+        "diff_in_effect": -0.023871,
+        "se": 0.027807,
+        "p": 0.397219,
+        "n": 790
+      }
+    }
+  },
+  "sample": {
+    "share_hispanic": 0.713445,
+    "share_female_known": 0.539586,
+    "share_black": 0.114818
+  }
+}

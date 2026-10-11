@@ -1,0 +1,23 @@
+{
+  "_comment": "Author block for this project. Every document, citation file, Zenodo record, manuscript author list, and commit reads from here.",
+  "authors": [
+    {
+      "name": "Faith Oluwafunmitan Esan",
+      "family": "Esan",
+      "given": "Faith Oluwafunmitan",
+      "orcid": "0009-0001-3694-157X",
+      "github": "faithesan-hub",
+      "email": "faithesan14@gmail.com",
+      "affiliation": "Independent Researcher, Laramie, Wyoming, USA",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Formal analysis",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "corresponding": true
+    }
+  ],
+  "collaborators": []
+}

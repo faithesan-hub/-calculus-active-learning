@@ -1,0 +1,1020 @@
+row,study_id,arm,active,trial_status,stayed,section,slot,teacher,grade,learning_measure,prior_prep,female,hispanic,black,first_time_college,major_group,pass_c_or_better,dfw,prior_prep_group
+1,11881317,Lecture,0,Completer,1,2,2,C2,DR,,,0,1,0,0,Other,0.0,1.0,
+2,11911601,Active (MPC),1,Completer,1,22,6,T4,A,83.75,60.76307451,1,1,0,0,BIO,1.0,0.0,Lower third
+3,11986713,Active (MPC),1,Departer,0,32,16,T7,,,50.70063694,,0,0,,Other,,,Lower third
+4,11986258,Active (MPC),1,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+5,11881919,Lecture,0,Completer,1,1,1,C1,DR,,50.42938587,0,1,0,0,ECS,0.0,1.0,Lower third
+6,11917639,Active (MPC),1,Completer,1,22,6,T4,B-,19.25,12.5,0,1,0,0,BIO,1.0,0.0,Lower third
+7,11919682,Active (MPC),1,Completer,1,22,6,T4,B,26.0,,1,1,1,0,BIO,1.0,0.0,
+8,11884613,Lecture,0,Completer,1,2,2,C2,A,85.0,67.32805806,0,1,0,0,ECS,1.0,0.0,Middle third
+9,11982823,Active (MPC),1,Completer,1,32,16,T7,A-,44.5,62.91065847,1,1,0,0,BIO,1.0,0.0,Middle third
+10,11918885,Lecture,0,Completer,1,6,6,C5,C+,33.75,62.9593224,1,1,0,0,BIO,1.0,0.0,Middle third
+11,11888807,Active (MPC),1,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+12,11916719,Active (MPC),1,Completer,1,20,4,T3,DR,,42.82357292,1,1,0,0,BIO,0.0,1.0,Lower third
+13,11915452,Lecture,0,Completer,1,6,6,C5,B-,,47.42458685,1,0,0,0,OSM,1.0,0.0,Lower third
+14,11918150,Active (MPC),1,Completer,1,24,8,T4,DR,,49.37665354,1,1,0,0,OSM,0.0,1.0,Lower third
+15,11981333,Lecture,0,Completer,1,13,13,C9,B,38.0,,0,0,0,0,OSM,1.0,0.0,
+16,11915133,Active (MPC),1,Completer,1,20,4,T3,C,45.75,62.06745688,0,1,0,1,Other,1.0,0.0,Middle third
+17,11984136,Active (MPC),1,Completer,1,31,15,T4,B,48.0,50.39730883,0,1,0,0,BIO,1.0,0.0,Lower third
+18,11986436,Active (MPC),1,Departer,0,31,15,T4,,,,,1,0,,Other,,,
+19,11917838,Active (MPC),1,Completer,1,21,5,T2,A-,65.25,62.67748988,1,1,0,0,BIO,1.0,0.0,Middle third
+20,11916757,Active (MPC),1,Completer,1,20,4,T3,C,43.25,36.78182361,1,1,0,0,BIO,1.0,0.0,Lower third
+21,11919146,Lecture,0,Completer,1,4,4,C1,DR,,47.75925525,0,1,0,0,ECS,0.0,1.0,Lower third
+22,11986653,Lecture,0,Completer,1,16,16,C12,F,,,1,0,1,0,BIO,0.0,1.0,
+23,11911324,Lecture,0,Departer,0,5,5,C4,,,73.57982054,,1,0,,Other,,,Upper third
+24,11886953,Lecture,0,Completer,1,2,2,C2,C+,38.46153846,74.80643736,0,1,0,1,OSM,1.0,0.0,Upper third
+25,11887419,Active (MPC),1,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+26,11883536,Active (MPC),1,Completer,1,18,2,T2,C+,31.53846154,39.11099206,1,1,0,1,BIO,1.0,0.0,Lower third
+27,11888878,Active (MPC),1,Completer,1,18,2,T2,B,54.61538462,64.77915078,1,1,0,1,Other,1.0,0.0,Middle third
+28,11885769,Active (MPC),1,Completer,1,19,3,T3,OF,,75.27603377,1,0,1,0,BIO,0.0,1.0,Upper third
+29,11984579,Lecture,0,Completer,1,14,14,C10,D,39.0,72.43576336,1,0,1,0,BIO,0.0,1.0,Upper third
+30,11984261,Active (MPC),1,Completer,1,27,11,T1,B+,89.0,58.00160416,0,0,0,1,BIO,1.0,0.0,Lower third
+31,11911789,Lecture,0,Completer,1,6,6,C5,F,,,0,1,0,0,ECS,0.0,1.0,
+32,11919390,Active (MPC),1,Completer,1,21,5,T2,B+,64.25,59.96247384,1,1,0,0,BIO,1.0,0.0,Lower third
+33,11983321,Active (MPC),1,Completer,1,30,14,T6,A,78.0,71.68516371,0,0,0,1,ECS,1.0,0.0,Upper third
+34,11912244,Lecture,0,Completer,1,6,6,C5,C,30.0,58.82276045,0,1,0,1,BIO,1.0,0.0,Lower third
+35,11911170,Active (MPC),1,Completer,1,22,6,T4,A,71.5,62.79005167,0,1,0,0,BIO,1.0,0.0,Middle third
+36,11919079,Active (MPC),1,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+37,11989783,Lecture,0,Departer,0,9,9,C7,,,62.37280797,,1,0,,Other,,,Middle third
+38,11982342,Active (MPC),1,Completer,1,28,12,T5,C,48.5,45.46810834,1,0,0,0,OSM,1.0,0.0,Lower third
+39,11914908,Lecture,0,Completer,1,7,7,C6,C+,56.5,39.63881071,1,0,0,0,BIO,1.0,0.0,Lower third
+40,11986387,Active (MPC),1,Completer,1,32,16,T7,B,59.0,68.39254058,0,1,0,0,ECS,1.0,0.0,Middle third
+41,11985873,Lecture,0,Completer,1,13,13,C9,DR,,50.04343501,0,1,0,0,Other,0.0,1.0,Lower third
+42,11981615,Lecture,0,Departer,0,,,,,,,,0,0,,Other,,,
+43,11988820,Active (MPC),1,Departer,0,28,12,T5,,,51.26695894,,1,0,,Other,,,Lower third
+44,11916011,Lecture,0,Switcher-SameDT,0,8,8,C7,,67.0,73.52240745,,1,0,,Other,,,Upper third
+45,11887737,Lecture,0,Completer,1,2,2,C2,DR,,55.17356664,1,1,0,1,BIO,0.0,1.0,Lower third
+46,11989043,Lecture,0,Completer,1,11,11,C8,A,67.5,52.52994774,0,1,0,0,BIO,1.0,0.0,Lower third
+47,11917223,Lecture,0,Departer,0,7,7,C6,,,44.77024248,,1,0,,Other,,,Lower third
+48,11989861,Lecture,0,Switcher-DiffDT,0,,,,,62.0,,,0,0,,Other,,,
+49,11885965,Active (MPC),1,Switcher-DiffDT,0,18,2,T2,,,53.73553781,,0,0,,Other,,,Lower third
+50,11919788,Active (MPC),1,Switcher-DiffDT,0,21,5,T2,,,44.18395993,,1,0,,Other,,,Lower third
+51,11918575,Active (MPC),1,Switcher-SameDT,0,24,8,T4,,55.5,75.55087498,,1,0,,Other,,,Upper third
+52,11914516,Active (MPC),1,Completer,1,24,8,T4,B+,36.0,51.56459335,0,0,1,0,BIO,1.0,0.0,Lower third
+53,11986791,Active (MPC),1,Completer,1,28,12,T5,C,43.5,47.97900896,0,1,0,0,BIO,1.0,0.0,Lower third
+54,11917285,Active (MPC),1,Completer,1,21,5,T2,C+,52.5,64.83532462,0,1,0,1,ECS,1.0,0.0,Middle third
+55,11985728,Active (MPC),1,Departer,0,29,13,T2,,,47.40806973,,1,0,,Other,,,Lower third
+56,11984047,Lecture,0,Completer,1,15,15,C11,C,,41.75272,1,1,0,0,BIO,1.0,0.0,Lower third
+57,11887296,Lecture,0,Completer,1,1,1,C1,DR,,55.17901716,0,1,0,0,OSM,0.0,1.0,Lower third
+58,11989518,Lecture,0,Switcher-DiffDT,0,15,15,C11,,,57.06702419,,0,0,,Other,,,Lower third
+59,11912069,Active (MPC),1,Completer,1,23,7,T1,C+,55.25,46.3367502,1,1,0,0,ECS,1.0,0.0,Lower third
+60,11916968,Lecture,0,Completer,1,4,4,C1,D,18.0,,1,1,0,0,OSM,0.0,1.0,
+61,11984931,Active (MPC),1,Completer,1,30,14,T6,C,47.5,,1,1,0,0,OSM,1.0,0.0,
+62,11914215,Active (MPC),1,Completer,1,24,8,T4,A,88.0,80.94104063,0,1,0,0,Other,1.0,0.0,Upper third
+63,11916057,Lecture,0,Completer,1,6,6,C5,DR,,59.77738617,1,0,1,1,BIO,0.0,1.0,Lower third
+64,11916683,Active (MPC),1,Completer,1,24,8,T4,B+,77.75,47.92110312,0,0,0,0,ECS,1.0,0.0,Lower third
+65,11989062,Lecture,0,Completer,1,11,11,C8,DR,,60.84772672,0,1,0,1,BIO,0.0,1.0,Lower third
+66,11913186,Active (MPC),1,Completer,1,22,6,T4,B+,56.0,56.39135249,1,1,0,1,BIO,1.0,0.0,Lower third
+67,11985857,Lecture,0,Completer,1,13,13,C9,B,42.0,53.08291226,0,1,0,1,ECS,1.0,0.0,Lower third
+68,11981165,Lecture,0,Completer,1,14,14,C10,B+,56.0,41.94882116,1,1,0,0,BIO,1.0,0.0,Lower third
+69,11885486,Lecture,0,Switcher-DiffDT,0,1,1,C1,,45.76923077,51.04839525,,1,0,,Other,,,Lower third
+70,11918114,Active (MPC),1,Completer,1,20,4,T3,B+,54.25,57.00154482,0,1,0,1,BIO,1.0,0.0,Lower third
+71,11915386,Lecture,0,Completer,1,8,8,C7,OF,,,1,0,1,0,OSM,0.0,1.0,
+72,11918517,Lecture,0,Departer,0,6,6,C5,,,72.318647,,1,0,,Other,,,Upper third
+73,11888449,Lecture,0,Completer,1,3,3,C3,B,61.15384615,59.56163827,1,1,0,1,Other,1.0,0.0,Lower third
+74,11986180,Lecture,0,Completer,1,9,9,C7,C,47.0,58.23536943,0,1,0,1,OSM,1.0,0.0,Lower third
+75,11916955,Active (MPC),1,Completer,1,20,4,T3,DR,,57.0803565,1,1,0,1,BIO,0.0,1.0,Lower third
+76,11888695,Active (MPC),1,Completer,1,17,1,T1,C+,76.53846154,60.39546799,0,1,0,0,OSM,1.0,0.0,Lower third
+77,11889268,Active (MPC),1,Completer,1,17,1,T1,C,60.38461538,53.82838998,0,0,0,0,BIO,1.0,0.0,Lower third
+78,11885169,Lecture,0,Completer,1,1,1,C1,F,24.23076923,65.88006062,1,1,0,0,BIO,0.0,1.0,Middle third
+79,11985306,Active (MPC),1,Completer,1,27,11,T1,D,46.0,65.88006062,1,1,0,0,BIO,0.0,1.0,Middle third
+80,11982367,Lecture,0,Completer,1,10,10,C7,DR,,69.7553583,1,1,0,0,BIO,0.0,1.0,Middle third
+81,11988554,Active (MPC),1,Completer,1,28,12,T5,D,14.5,52.60885094,0,0,1,0,ECS,0.0,1.0,Lower third
+82,11887438,Active (MPC),1,Completer,1,18,2,T2,C,31.15384615,47.88135593,1,1,0,0,ECS,1.0,0.0,Lower third
+83,11884957,Active (MPC),1,Completer,1,18,2,T2,D,40.0,56.64260736,1,0,0,0,BIO,0.0,1.0,Lower third
+84,11983545,Lecture,0,Departer,0,16,16,C12,,,56.64260736,,0,0,,Other,,,Lower third
+85,11917460,Lecture,0,Completer,1,6,6,C5,F,,49.65832908,1,1,0,0,BIO,0.0,1.0,Lower third
+86,11985201,Active (MPC),1,Completer,1,28,12,T5,B-,63.0,49.65832908,1,1,0,0,BIO,1.0,0.0,Lower third
+87,11881653,Lecture,0,Completer,1,1,1,C1,B,76.53846154,76.43068485,0,0,1,1,Other,1.0,0.0,Upper third
+88,11981083,Lecture,0,Completer,1,13,13,C9,DR,,,1,1,0,0,BIO,0.0,1.0,
+89,11889107,Active (MPC),1,Completer,1,19,3,T3,C,55.76923077,48.62524356,1,1,0,0,Other,1.0,0.0,Lower third
+90,11887600,Active (MPC),1,Completer,1,18,2,T2,B,41.92307692,56.21211301,1,1,0,1,BIO,1.0,0.0,Lower third
+91,11887667,Active (MPC),1,Completer,1,19,3,T3,DR,,46.73250971,1,1,0,0,BIO,0.0,1.0,Lower third
+92,11887561,Active (MPC),1,Switcher-DiffDT,0,17,1,T1,,,48.48948185,,1,0,,Other,,,Lower third
+93,11912079,Active (MPC),1,Completer,1,23,7,T1,D,44.5,48.48948185,1,1,0,1,BIO,0.0,1.0,Lower third
+94,11888844,Lecture,0,Completer,1,1,1,C1,C,26.53846154,46.19390188,1,0,1,0,BIO,1.0,0.0,Lower third
+95,11915673,Lecture,0,Completer,1,6,6,C5,DR,,38.36689038,1,1,0,0,BIO,0.0,1.0,Lower third
+96,11889721,Active (MPC),1,Completer,1,17,1,T1,D,53.46153846,59.58697801,0,0,1,0,BIO,0.0,1.0,Lower third
+97,11914213,Active (MPC),1,Completer,1,22,6,T4,C,42.5,43.25182832,0,1,0,0,BIO,1.0,0.0,Lower third
+98,11984111,Lecture,0,Completer,1,11,11,C8,B,66.5,69.90690626,1,1,0,0,BIO,1.0,0.0,Middle third
+99,11981265,Active (MPC),1,Switcher-DiffDT,0,31,15,T4,,,69.15090947,,0,0,,Other,,,Middle third
+100,11918379,Lecture,0,Switcher-DiffDT,0,4,4,C1,,,62.62269697,,1,0,,Other,,,Middle third
+101,11913914,Lecture,0,Switcher-DiffDT,0,,,,,64.75,,,0,0,,Other,,,
+102,11989786,Active (MPC),1,Completer,1,29,13,T2,B-,39.0,49.84340076,0,1,0,1,ECS,1.0,0.0,Lower third
+103,11917297,Active (MPC),1,Completer,1,24,8,T4,A,72.75,68.49967525,0,1,0,0,Other,1.0,0.0,Middle third
+104,11988007,Lecture,0,Completer,1,9,9,C7,F,7.0,52.57631522,0,1,0,0,ECS,0.0,1.0,Lower third
+105,11989020,Active (MPC),1,Switcher-SameDT,0,31,15,T4,,36.0,50.30590154,,1,0,,Other,,,Lower third
+106,11913884,Active (MPC),1,Completer,1,24,8,T4,B-,57.75,69.73712321,0,1,1,0,Other,1.0,0.0,Middle third
+107,11919875,Active (MPC),1,Completer,1,22,6,T4,B+,43.0,66.74215015,0,0,0,1,BIO,1.0,0.0,Middle third
+108,11911922,Active (MPC),1,Completer,1,22,6,T4,C+,38.25,43.32932141,0,0,1,0,BIO,1.0,0.0,Lower third
+109,11984152,Active (MPC),1,Departer,0,31,15,T4,,,52.16818407,,1,0,,Other,,,Lower third
+110,11983516,Active (MPC),1,Completer,1,25,9,T3,F,,30.13684419,1,1,0,0,OSM,0.0,1.0,Lower third
+111,11988438,Active (MPC),1,Completer,1,32,16,T7,C,39.0,59.74614977,0,0,1,0,ECS,1.0,0.0,Lower third
+112,11989537,Lecture,0,Switcher-DiffDT,0,16,16,C12,,54.5,56.48769575,,1,0,,Other,,,Lower third
+113,11885818,Lecture,0,Completer,1,3,3,C3,A,,74.23487548,1,0,0,0,BIO,1.0,0.0,Upper third
+114,11919073,Lecture,0,Completer,1,5,5,C4,DR,,67.52543841,1,1,0,0,BIO,0.0,1.0,Middle third
+115,11913129,Active (MPC),1,Completer,1,24,8,T4,A,90.0,79.19463087,0,1,0,1,BIO,1.0,0.0,Upper third
+116,11888671,Active (MPC),1,Completer,1,17,1,T1,C,64.61538462,58.27379664,1,1,0,0,OSM,1.0,0.0,Lower third
+117,11886360,Active (MPC),1,Completer,1,19,3,T3,C+,69.61538462,63.07282538,1,1,0,1,BIO,1.0,0.0,Middle third
+118,11982382,Active (MPC),1,Completer,1,26,10,T4,B,74.5,62.3510971,1,1,0,1,BIO,1.0,0.0,Middle third
+119,11886140,Lecture,0,Switcher-DiffDT,0,1,1,C1,,,60.29241783,,0,0,,Other,,,Lower third
+120,11989690,Active (MPC),1,Completer,1,30,14,T6,F,23.0,44.42059307,1,0,1,0,BIO,0.0,1.0,Lower third
+121,11887660,Lecture,0,Completer,1,2,2,C2,C+,65.38461538,68.53701183,1,0,0,1,BIO,1.0,0.0,Middle third
+122,11917510,Active (MPC),1,Completer,1,22,6,T4,B-,26.25,42.33013981,1,1,0,0,BIO,1.0,0.0,Lower third
+123,11915638,Lecture,0,Completer,1,7,7,C6,C,40.25,62.33672512,1,1,0,0,BIO,1.0,0.0,Middle third
+124,11984636,Lecture,0,Completer,1,13,13,C9,DR,,,1,0,1,0,BIO,0.0,1.0,
+125,11911443,Lecture,0,Completer,1,8,8,C7,F,,91.66486252,0,1,0,0,BIO,0.0,1.0,Upper third
+126,11989729,Active (MPC),1,Completer,1,31,15,T4,A,47.0,91.66486252,0,1,0,0,BIO,1.0,0.0,Upper third
+127,11912809,Active (MPC),1,Completer,1,24,8,T4,A-,45.0,47.2661374,0,1,0,0,ECS,1.0,0.0,Lower third
+128,11912049,Lecture,0,Completer,1,8,8,C7,D,16.25,59.17209133,1,1,0,0,OSM,0.0,1.0,Lower third
+129,11913575,Active (MPC),1,Departer,0,22,6,T4,,,53.67684203,,1,0,,Other,,,Lower third
+130,11982505,Lecture,0,Completer,1,16,16,C12,C,35.5,51.15825936,0,1,0,0,BIO,1.0,0.0,Lower third
+131,11913652,Active (MPC),1,Completer,1,20,4,T3,C,57.5,57.49171114,0,1,0,0,Other,1.0,0.0,Lower third
+132,11912899,Lecture,0,Completer,1,6,6,C5,C,24.0,47.25942119,1,0,1,1,BIO,1.0,0.0,Lower third
+133,11916321,Lecture,0,Switcher-SameDT,0,5,5,C4,,,72.16127381,,1,0,,Other,,,Upper third
+134,11912404,Lecture,0,Switcher-SameDT,0,8,8,C7,,34.75,67.95166703,,1,0,,Other,,,Middle third
+135,11911639,Active (MPC),1,Switcher-DiffDT,0,,,,,25.0,,,0,0,,Other,,,
+136,11988889,Lecture,0,Departer,0,15,15,C11,,,36.84950688,,0,0,,Other,,,Lower third
+137,11982323,Active (MPC),1,Departer,0,30,14,T6,DR,,45.60510933,1,1,0,0,OSM,0.0,1.0,Lower third
+138,11889288,Active (MPC),1,Completer,1,17,1,T1,DR,,54.63664574,0,1,0,0,OSM,0.0,1.0,Lower third
+139,11984445,Active (MPC),1,Completer,1,29,13,T2,C,66.0,54.63664574,0,1,0,0,BIO,1.0,0.0,Lower third
+140,11918456,Active (MPC),1,Completer,1,21,5,T2,C+,33.0,38.80694311,0,1,0,0,BIO,1.0,0.0,Lower third
+141,11886458,Active (MPC),1,Departer,0,19,3,T3,,,83.79158548,,1,0,,Other,,,Upper third
+142,11917208,Active (MPC),1,Completer,1,21,5,T2,B,48.75,83.79158548,1,1,0,1,BIO,1.0,0.0,Upper third
+143,11917041,Lecture,0,Departer,0,,,,,,,,0,0,,Other,,,
+144,11911270,Lecture,0,Completer,1,4,4,C1,C,27.0,72.1664569,1,1,0,1,BIO,1.0,0.0,Upper third
+145,11913802,Active (MPC),1,Completer,1,22,6,T4,A,89.75,50.30300417,0,1,0,1,Other,1.0,0.0,Lower third
+146,11915395,Lecture,0,Switcher-DiffDT,0,8,8,C7,,,37.0539938,,1,0,,Other,,,Lower third
+147,11983873,Lecture,0,Completer,1,11,11,C8,C+,53.0,47.47780905,1,1,0,0,BIO,1.0,0.0,Lower third
+148,11884770,Lecture,0,Completer,1,2,2,C2,B+,75.38461538,72.55538717,0,1,0,1,Other,1.0,0.0,Upper third
+149,11881669,Lecture,0,Completer,1,3,3,C3,A-,71.92307692,68.89749668,0,0,1,1,Other,1.0,0.0,Middle third
+150,11883679,Lecture,0,Completer,1,3,3,C3,A-,68.84615385,62.58257877,1,0,1,1,Other,1.0,0.0,Middle third
+151,11884486,Active (MPC),1,Completer,1,18,2,T2,B+,67.30769231,80.87872532,0,0,0,1,ECS,1.0,0.0,Upper third
+152,11881860,Lecture,0,Completer,1,3,3,C3,C,27.69230769,56.22231865,1,1,0,0,BIO,1.0,0.0,Lower third
+153,11911313,Lecture,0,Completer,1,7,7,C6,DR,,55.7435482,1,1,0,0,Other,0.0,1.0,Lower third
+154,11985765,Lecture,0,Switcher-DiffDT,0,,,,,59.5,,,0,0,,Other,,,
+155,11885311,Active (MPC),1,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+156,11918071,Lecture,0,Completer,1,4,4,C1,F,,59.3220339,0,1,0,0,BIO,0.0,1.0,Lower third
+157,11885740,Active (MPC),1,Completer,1,19,3,T3,A,88.84615385,77.4392004,1,1,0,1,BIO,1.0,0.0,Upper third
+158,11918678,Lecture,0,Completer,1,6,6,C5,D,23.5,59.49287168,1,1,0,0,BIO,0.0,1.0,Lower third
+159,11919854,Lecture,0,Completer,1,7,7,C6,DR,,52.39048856,0,1,0,0,Other,0.0,1.0,Lower third
+160,11983442,Lecture,0,Completer,1,16,16,C12,C,19.5,62.93545574,0,1,0,1,Other,1.0,0.0,Middle third
+161,11889973,Active (MPC),1,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+162,11911883,Active (MPC),1,Completer,1,24,8,T4,B+,37.5,67.11501132,0,1,0,1,BIO,1.0,0.0,Middle third
+163,11918762,Lecture,0,Completer,1,6,6,C5,D,29.75,73.13271271,1,1,0,1,BIO,0.0,1.0,Upper third
+164,11983620,Lecture,0,Completer,1,13,13,C9,A,,72.05176407,0,0,0,0,BIO,1.0,0.0,Upper third
+165,11981819,Lecture,0,Completer,1,13,13,C9,D,12.5,70.82701884,0,1,0,0,OSM,0.0,1.0,Middle third
+166,11911687,Lecture,0,Switcher-DiffDT,0,,,,,93.5,,,0,0,,Other,,,
+167,11915030,Lecture,0,Completer,1,5,5,C4,A,60.25,61.33181785,0,1,0,1,BIO,1.0,0.0,Lower third
+168,11917421,Lecture,0,Completer,1,5,5,C4,C,40.25,70.73152161,0,1,0,1,BIO,1.0,0.0,Middle third
+169,11889255,Lecture,0,Completer,1,2,2,C2,DR,,36.92222342,1,1,0,0,OSM,0.0,1.0,Lower third
+170,11887157,Lecture,0,Completer,1,3,3,C3,A-,,75.89665873,1,0,0,1,Other,1.0,0.0,Upper third
+171,11984115,Active (MPC),1,Completer,1,28,12,T5,D,,64.07231002,0,0,0,0,BIO,0.0,1.0,Middle third
+172,11886058,Active (MPC),1,Completer,1,19,3,T3,DR,33.84615385,58.45182573,1,1,0,0,BIO,0.0,1.0,Lower third
+173,11911733,Lecture,0,Completer,1,4,4,C1,C,40.5,58.45182573,1,1,0,0,BIO,1.0,0.0,Lower third
+174,11912225,Active (MPC),1,Completer,1,22,6,T4,DR,,55.14983249,0,1,0,1,OSM,0.0,1.0,Lower third
+175,11914480,Lecture,0,Switcher-DiffDT,0,4,4,C1,,16.75,63.58317341,,0,0,,Other,,,Middle third
+176,11986691,Lecture,0,Completer,1,13,13,C9,B,53.5,57.9779173,0,1,0,1,Other,1.0,0.0,Lower third
+177,11881847,Active (MPC),1,Departer,0,,,,,,,,0,0,,Other,,,
+178,11988081,Active (MPC),1,Completer,1,25,9,T3,DR,,61.57176878,1,1,0,0,BIO,0.0,1.0,Middle third
+179,11888598,Active (MPC),1,Completer,1,19,3,T3,D,51.15384615,50.12915926,1,1,0,1,OSM,0.0,1.0,Lower third
+180,11888415,Lecture,0,Completer,1,3,3,C3,A,,86.95199177,1,1,0,1,BIO,1.0,0.0,Upper third
+181,11913011,Lecture,0,Completer,1,8,8,C7,C,14.25,56.95360276,1,1,0,0,BIO,1.0,0.0,Lower third
+182,11984327,Active (MPC),1,Completer,1,25,9,T3,F,,53.46502688,1,1,0,0,BIO,0.0,1.0,Lower third
+183,11981527,Lecture,0,Completer,1,14,14,C10,F,,65.57841078,0,1,0,0,BIO,0.0,1.0,Middle third
+184,11887184,Lecture,0,Completer,1,1,1,C1,C,44.23076923,47.82397548,0,0,1,0,ECS,1.0,0.0,Lower third
+185,11986213,Active (MPC),1,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+186,11917935,Active (MPC),1,Completer,1,21,5,T2,C,45.5,54.65964855,1,1,0,1,OSM,1.0,0.0,Lower third
+187,11987349,Active (MPC),1,Switcher-DiffDT,0,28,12,T5,,49.0,53.50424557,,1,0,,Other,,,Lower third
+188,11917064,Lecture,0,Completer,1,8,8,C7,F,,62.66975756,0,1,0,1,BIO,0.0,1.0,Middle third
+189,11986139,Active (MPC),1,Completer,1,26,10,T4,C+,63.5,62.66975756,0,1,0,1,BIO,1.0,0.0,Middle third
+190,11883287,Active (MPC),1,Completer,1,19,3,T3,C,64.23076923,50.69233961,1,1,0,1,BIO,1.0,0.0,Lower third
+191,11917413,Active (MPC),1,Switcher-SameDT,0,23,7,T1,,,56.38010465,,1,1,,Other,,,Lower third
+192,11888400,Active (MPC),1,Switcher-DiffDT,0,17,1,T1,,,51.27318425,,0,0,,Other,,,Lower third
+193,11916523,Lecture,0,Switcher-DiffDT,0,,,,,50.75,,,0,0,,Other,,,
+194,11988973,Active (MPC),1,Departer,0,26,10,T4,,,61.25876538,,1,0,,Other,,,Lower third
+195,11889710,Active (MPC),1,Completer,1,17,1,T1,B-,65.76923077,64.89197163,0,1,0,1,BIO,1.0,0.0,Middle third
+196,11911012,Lecture,0,Completer,1,4,4,C1,B,42.25,57.08913258,1,1,0,1,BIO,1.0,0.0,Lower third
+197,11983256,Lecture,0,Completer,1,11,11,C8,F,,54.17126366,0,0,1,1,BIO,0.0,1.0,Lower third
+198,11889427,Active (MPC),1,Completer,1,18,2,T2,C,36.53846154,44.24329543,1,1,0,0,OSM,1.0,0.0,Lower third
+199,11981710,Lecture,0,Completer,1,15,15,C11,A,58.0,44.73422334,0,1,0,0,BIO,1.0,0.0,Lower third
+200,11981680,Active (MPC),1,Switcher-DiffDT,0,,,,,9.5,,,0,0,,Other,,,
+201,11919466,Lecture,0,Completer,1,4,4,C1,C,27.5,63.30195655,1,1,0,1,BIO,1.0,0.0,Middle third
+202,11881803,Lecture,0,Completer,1,1,1,C1,F,,51.60207679,1,1,0,0,Other,0.0,1.0,Lower third
+203,11989541,Active (MPC),1,Completer,1,32,16,T7,OF,,59.03019095,0,0,1,1,Other,0.0,1.0,Lower third
+204,11982268,Lecture,0,Completer,1,15,15,C11,D,18.0,38.24365273,1,1,0,0,BIO,0.0,1.0,Lower third
+205,11911177,Active (MPC),1,Completer,1,20,4,T3,A,80.75,66.8470809,1,1,0,1,Other,1.0,0.0,Middle third
+206,11883721,Active (MPC),1,Completer,1,19,3,T3,A-,85.38461538,62.65569137,0,1,0,0,BIO,1.0,0.0,Middle third
+207,11988803,Lecture,0,Completer,1,12,12,C9,DR,,70.87863565,0,0,0,1,BIO,0.0,1.0,Middle third
+208,11881548,Lecture,0,Departer,0,2,2,C2,F,53.46153846,61.59610941,1,1,0,1,OSM,0.0,1.0,Middle third
+209,11988084,Lecture,0,Completer,1,13,13,C9,C,24.0,20.83333333,0,1,0,0,BIO,1.0,0.0,Lower third
+210,11983464,Lecture,0,Completer,1,12,12,C9,DR,,43.90025039,1,1,0,0,BIO,0.0,1.0,Lower third
+211,11986472,Active (MPC),1,Completer,1,31,15,T4,A-,75.0,61.09327355,1,1,0,1,BIO,1.0,0.0,Lower third
+212,11987897,Active (MPC),1,Completer,1,28,12,T5,C,41.5,62.31509141,0,1,0,0,BIO,1.0,0.0,Middle third
+213,11881863,Active (MPC),1,Completer,1,19,3,T3,B-,71.92307692,61.30123917,0,1,0,1,OSM,1.0,0.0,Lower third
+214,11883977,Active (MPC),1,Departer,0,,,,,,,,0,0,,Other,,,
+215,11989391,Active (MPC),1,Completer,1,26,10,T4,F,31.5,62.56797641,1,1,0,1,Other,0.0,1.0,Middle third
+216,11986991,Active (MPC),1,Completer,1,27,11,T1,C+,69.5,64.72396766,0,1,0,0,BIO,1.0,0.0,Middle third
+217,11984915,Active (MPC),1,Completer,1,27,11,T1,B+,78.0,57.95290394,1,1,0,1,BIO,1.0,0.0,Lower third
+218,11981389,Active (MPC),1,Completer,1,27,11,T1,A-,89.5,62.05766915,0,1,0,1,OSM,1.0,0.0,Middle third
+219,11884459,Active (MPC),1,Completer,1,18,2,T2,C,31.92307692,54.59334632,1,1,0,0,BIO,1.0,0.0,Lower third
+220,11882805,Lecture,0,Completer,1,2,2,C2,C+,66.53846154,37.6391698,1,0,1,0,Other,1.0,0.0,Lower third
+221,11889949,Lecture,0,Switcher-DiffDT,0,,,,,71.53846154,,,0,0,,Other,,,
+222,11985666,Lecture,0,Switcher-SameDT,0,16,16,C12,,,65.38097818,,1,0,,Other,,,Middle third
+223,11887382,Active (MPC),1,Completer,1,19,3,T3,B,59.61538462,61.57060169,1,0,0,1,BIO,1.0,0.0,Lower third
+224,11986155,Lecture,0,Completer,1,11,11,C8,B+,,80.36909694,1,1,0,0,Other,1.0,0.0,Upper third
+225,11987937,Lecture,0,Switcher-DiffDT,0,12,12,C9,,,50.46139665,,1,0,,Other,,,Lower third
+226,11984295,Lecture,0,Completer,1,15,15,C11,B-,50.5,57.28909678,0,1,0,1,BIO,1.0,0.0,Lower third
+227,11989197,Lecture,0,Completer,1,16,16,C12,B+,38.0,47.80908321,1,1,0,0,BIO,1.0,0.0,Lower third
+228,11914532,Active (MPC),1,Completer,1,20,4,T3,D,43.0,70.09453706,1,0,1,0,BIO,0.0,1.0,Middle third
+229,11911028,Active (MPC),1,Completer,1,24,8,T4,C,18.25,58.57484377,1,1,0,1,BIO,1.0,0.0,Lower third
+230,11916125,Lecture,0,Completer,1,6,6,C5,D,23.25,63.19910515,1,1,0,1,BIO,0.0,1.0,Middle third
+231,11982239,Active (MPC),1,Departer,0,,,,,,,,0,0,,Other,,,
+232,11918221,Lecture,0,Departer,0,6,6,C5,,,,,1,0,,Other,,,
+233,11886750,Lecture,0,Completer,1,3,3,C3,DR,,65.55617149,1,1,0,1,BIO,0.0,1.0,Middle third
+234,11883096,Lecture,0,Departer,0,,,,,,,,0,0,,Other,,,
+235,11987901,Active (MPC),1,Completer,1,25,9,T3,C,82.0,70.22714152,0,1,0,1,ECS,1.0,0.0,Middle third
+236,11912773,Lecture,0,Completer,1,5,5,C4,B-,60.25,65.01903657,0,1,0,0,ECS,1.0,0.0,Middle third
+237,11887870,Active (MPC),1,Completer,1,17,1,T1,C,63.84615385,81.02763946,1,1,0,1,BIO,1.0,0.0,Upper third
+238,11989128,Active (MPC),1,Completer,1,25,9,T3,C+,83.0,73.3925092,0,1,0,1,Other,1.0,0.0,Upper third
+239,11882890,Active (MPC),1,Completer,1,18,2,T2,C,53.84615385,51.03918597,0,0,0,1,Other,1.0,0.0,Lower third
+240,11884846,Active (MPC),1,Completer,1,18,2,T2,B+,73.07692308,72.32767453,1,1,1,1,ECS,1.0,0.0,Upper third
+241,11887380,Lecture,0,Completer,1,3,3,C3,DR,,65.46535345,1,1,1,0,BIO,0.0,1.0,Middle third
+242,11982727,Active (MPC),1,Completer,1,27,11,T1,C,65.5,65.46535345,1,1,1,0,BIO,1.0,0.0,Middle third
+243,11911939,Active (MPC),1,Completer,1,22,6,T4,A,81.75,53.92806885,1,1,0,1,BIO,1.0,0.0,Lower third
+244,11987806,Active (MPC),1,Departer,0,25,9,T3,,,73.7785345,,1,0,,Other,,,Upper third
+245,11986115,Active (MPC),1,Completer,1,27,11,T1,A,97.5,77.23533232,1,0,0,0,BIO,1.0,0.0,Upper third
+246,11915096,Lecture,0,Completer,1,6,6,C5,C,25.0,51.57185899,1,0,0,1,BIO,1.0,0.0,Lower third
+247,11912146,Active (MPC),1,Switcher-DiffDT,0,23,7,T1,,,60.72399008,,1,0,,Other,,,Lower third
+248,11981751,Active (MPC),1,Switcher-DiffDT,0,29,13,T2,,,45.33621739,,1,0,,Other,,,Lower third
+249,11983899,Active (MPC),1,Completer,1,31,15,T4,B,56.5,42.12871288,1,1,0,0,BIO,1.0,0.0,Lower third
+250,11913681,Active (MPC),1,Switcher-DiffDT,0,23,7,T1,,,,,1,0,,Other,,,
+251,11984138,Lecture,0,Departer,0,15,15,C11,,,34.61021952,,0,0,,Other,,,Lower third
+252,11886514,Lecture,0,Completer,1,1,1,C1,F,32.69230769,60.2472837,1,1,0,1,Other,0.0,1.0,Lower third
+253,11887559,Lecture,0,Completer,1,3,3,C3,C+,35.76923077,55.43723389,1,1,0,1,BIO,1.0,0.0,Lower third
+254,11888099,Active (MPC),1,Switcher-DiffDT,0,,,,,47.30769231,,,0,0,,Other,,,
+255,11917343,Active (MPC),1,Completer,1,23,7,T1,B+,63.25,45.66095111,1,1,0,0,OSM,1.0,0.0,Lower third
+256,11881208,Lecture,0,Completer,1,3,3,C3,B+,66.92307692,57.56313275,0,0,0,1,OSM,1.0,0.0,Lower third
+257,11984928,Active (MPC),1,Completer,1,28,12,T5,C,50.5,59.99900772,1,0,0,0,Other,1.0,0.0,Lower third
+258,11918559,Lecture,0,Completer,1,6,6,C5,A-,57.75,58.14615357,1,1,0,1,OSM,1.0,0.0,Lower third
+259,11882077,Lecture,0,Completer,1,3,3,C3,D,24.23076923,49.07357292,1,1,0,1,BIO,0.0,1.0,Lower third
+260,11913999,Active (MPC),1,Completer,1,22,6,T4,B+,44.0,55.01822184,1,1,0,1,BIO,1.0,0.0,Lower third
+261,11884037,Lecture,0,Completer,1,2,2,C2,DR,,57.33925092,1,1,0,1,OSM,0.0,1.0,Lower third
+262,11984176,Lecture,0,Completer,1,12,12,C9,F,,57.33925092,1,1,0,1,OSM,0.0,1.0,Lower third
+263,11914098,Lecture,0,Completer,1,6,6,C5,A,66.0,70.15990906,0,0,1,0,BIO,1.0,0.0,Middle third
+264,11915753,Lecture,0,Completer,1,8,8,C7,C+,9.0,56.49256795,1,1,0,1,BIO,1.0,0.0,Lower third
+265,11882871,Active (MPC),1,Departer,0,,,,,,,,0,0,,Other,,,
+266,11882820,Active (MPC),1,Completer,1,18,2,T2,C,45.0,43.88395757,0,0,0,0,ECS,1.0,0.0,Lower third
+267,11916656,Active (MPC),1,Completer,1,21,5,T2,C,35.0,73.53867001,1,1,0,1,Other,1.0,0.0,Upper third
+268,11887612,Lecture,0,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+269,11916504,Active (MPC),1,Completer,1,22,6,T4,A-,62.25,66.75579206,1,1,0,1,Other,1.0,0.0,Middle third
+270,11917615,Active (MPC),1,Completer,1,20,4,T3,OF,42.75,59.77543446,1,1,0,1,Other,0.0,1.0,Lower third
+271,11985821,Active (MPC),1,Departer,0,26,10,T4,,,66.87898089,,0,0,,Other,,,Middle third
+272,11915111,Lecture,0,Completer,1,6,6,C5,C,46.25,49.04131241,0,1,1,1,ECS,1.0,0.0,Lower third
+273,11882209,Lecture,0,Departer,0,1,1,C1,,,70.44585987,,1,0,,Other,,,Middle third
+274,11881556,Active (MPC),1,Completer,1,19,3,T3,A,90.76923077,77.20728117,0,1,0,1,BIO,1.0,0.0,Upper third
+275,11912902,Active (MPC),1,Completer,1,23,7,T1,A-,83.25,72.23064155,0,1,0,1,BIO,1.0,0.0,Upper third
+276,11984334,Active (MPC),1,Completer,1,26,10,T4,C+,33.5,64.44964849,0,1,0,1,BIO,1.0,0.0,Middle third
+277,11885735,Active (MPC),1,Completer,1,17,1,T1,C+,72.69230769,62.30560367,0,1,0,1,Other,1.0,0.0,Middle third
+278,11911143,Lecture,0,Switcher-SameDT,0,7,7,C6,,48.5,63.46141633,,1,0,,Other,,,Middle third
+279,11916417,Active (MPC),1,Completer,1,22,6,T4,A,66.75,58.75063681,1,0,0,0,BIO,1.0,0.0,Lower third
+280,11914393,Active (MPC),1,Completer,1,21,5,T2,B-,31.75,64.35646244,0,1,0,1,BIO,1.0,0.0,Middle third
+281,11916465,Lecture,0,Completer,1,7,7,C6,B-,58.5,61.36242712,1,1,0,1,BIO,1.0,0.0,Lower third
+282,11886318,Lecture,0,Completer,1,3,3,C3,C,47.30769231,61.27634048,1,1,0,1,BIO,1.0,0.0,Lower third
+283,11881740,Lecture,0,Switcher-SameDT,0,1,1,C1,,79.61538462,80.98434004,,1,0,,Other,,,Upper third
+284,11887263,Lecture,0,Completer,1,2,2,C2,B,52.69230769,67.11478076,1,1,0,1,Other,1.0,0.0,Middle third
+285,11913480,Lecture,0,Completer,1,5,5,C4,A-,60.5,66.67388324,0,1,0,0,OSM,1.0,0.0,Middle third
+286,11913352,Active (MPC),1,Completer,1,20,4,T3,F,,63.74141809,1,1,0,1,OSM,0.0,1.0,Middle third
+287,11916076,Active (MPC),1,Completer,1,20,4,T3,B,79.0,58.46052537,0,1,0,1,OSM,1.0,0.0,Lower third
+288,11981800,Lecture,0,Completer,1,10,10,C7,F,13.0,64.87869269,1,0,1,1,Other,0.0,1.0,Middle third
+289,11912861,Lecture,0,Switcher-DiffDT,0,,,,,73.0,,,0,0,,Other,,,
+290,11882936,Active (MPC),1,Completer,1,18,2,T2,B+,63.07692308,79.30287941,1,1,0,1,BIO,1.0,0.0,Upper third
+291,11981853,Active (MPC),1,Completer,1,25,9,T3,F,7.0,49.92552838,1,1,0,0,BIO,0.0,1.0,Lower third
+292,11986254,Lecture,0,Departer,0,9,9,C7,,,66.34011691,,1,0,,Other,,,Middle third
+293,11914083,Lecture,0,Completer,1,4,4,C1,C,10.75,68.50517942,1,0,1,1,BIO,1.0,0.0,Middle third
+294,11911711,Lecture,0,Completer,1,5,5,C4,C,42.25,59.14791378,0,1,0,1,BIO,1.0,0.0,Lower third
+295,11881071,Lecture,0,Completer,1,3,3,C3,C,12.69230769,48.97901854,1,0,1,1,BIO,1.0,0.0,Lower third
+296,11915385,Lecture,0,Completer,1,6,6,C5,DR,,55.55268116,0,0,1,1,BIO,0.0,1.0,Lower third
+297,11914048,Active (MPC),1,Completer,1,22,6,T4,C,26.25,43.17611108,1,1,0,0,BIO,1.0,0.0,Lower third
+298,11982922,Lecture,0,Completer,1,12,12,C9,C,41.0,64.51612903,1,1,0,0,BIO,1.0,0.0,Middle third
+299,11981992,Lecture,0,Completer,1,13,13,C9,B-,39.5,54.46423803,0,1,0,1,BIO,1.0,0.0,Lower third
+300,11911346,Lecture,0,Departer,0,,,,,,,,0,0,,Other,,,
+301,11985891,Active (MPC),1,Completer,1,29,13,T2,C+,54.5,67.5511245,1,1,0,1,BIO,1.0,0.0,Middle third
+302,11883592,Lecture,0,Completer,1,1,1,C1,C,,67.03770864,1,1,0,1,BIO,1.0,0.0,Middle third
+303,11985880,Lecture,0,Completer,1,11,11,C8,C,43.0,32.78223719,1,1,0,0,BIO,1.0,0.0,Lower third
+304,11882184,Lecture,0,Completer,1,1,1,C1,OF,38.07692308,72.85230992,0,1,0,1,BIO,0.0,1.0,Upper third
+305,11914722,Lecture,0,Completer,1,4,4,C1,D,19.75,72.85230992,0,1,0,1,BIO,0.0,1.0,Upper third
+306,11981735,Lecture,0,Completer,1,13,13,C9,C,27.0,40.19691163,0,1,0,0,Other,1.0,0.0,Lower third
+307,11914737,Active (MPC),1,Completer,1,21,5,T2,C,51.0,55.94816546,0,1,0,1,BIO,1.0,0.0,Lower third
+308,11887962,Lecture,0,Switcher-DiffDT,0,3,3,C3,,,60.03055728,,0,0,,Other,,,Lower third
+309,11981529,Active (MPC),1,Completer,1,27,11,T1,B+,77.0,63.63152052,0,0,0,0,OSM,1.0,0.0,Middle third
+310,11881812,Active (MPC),1,Completer,1,18,2,T2,C,57.30769231,74.46056145,0,1,0,1,BIO,1.0,0.0,Upper third
+311,11882711,Active (MPC),1,Completer,1,19,3,T3,OF,,37.57667605,0,1,0,0,Other,0.0,1.0,Lower third
+312,11883345,Active (MPC),1,Completer,1,18,2,T2,F,29.23076923,56.2205196,1,1,0,1,BIO,0.0,1.0,Lower third
+313,11883435,Active (MPC),1,Switcher-DiffDT,0,18,2,T2,,46.53846154,69.85902715,,1,0,,Other,,,Middle third
+314,11884876,Lecture,0,Completer,1,2,2,C2,A-,75.38461538,82.22304347,1,1,0,1,BIO,1.0,0.0,Upper third
+315,11919063,Lecture,0,Completer,1,6,6,C5,A-,65.25,65.79832531,0,1,0,1,BIO,1.0,0.0,Middle third
+316,11887193,Lecture,0,Completer,1,1,1,C1,A,88.07692308,76.72715255,1,1,0,1,Other,1.0,0.0,Upper third
+317,11882364,Active (MPC),1,Completer,1,17,1,T1,A,92.69230769,81.93821881,1,1,0,1,BIO,1.0,0.0,Upper third
+318,11987248,Active (MPC),1,Completer,1,28,12,T5,B-,66.0,63.82602047,1,1,0,1,ECS,1.0,0.0,Middle third
+319,11883724,Active (MPC),1,Completer,1,17,1,T1,A-,82.30769231,75.54990028,0,1,0,1,ECS,1.0,0.0,Upper third
+320,11913769,Active (MPC),1,Completer,1,23,7,T1,F,24.0,53.32280203,0,0,1,1,BIO,0.0,1.0,Lower third
+321,11989615,Active (MPC),1,Completer,1,31,15,T4,DR,,36.54809054,1,1,0,0,BIO,0.0,1.0,Lower third
+322,11886484,Lecture,0,Completer,1,3,3,C3,C+,,68.44646835,1,1,1,1,Other,1.0,0.0,Middle third
+323,11981644,Lecture,0,Completer,1,10,10,C7,F,5.5,45.41148388,1,1,1,0,BIO,0.0,1.0,Lower third
+324,11981911,Lecture,0,Completer,1,10,10,C7,F,,,1,0,1,0,BIO,0.0,1.0,
+325,11986016,Active (MPC),1,Completer,1,31,15,T4,C,41.0,49.27987928,1,1,0,1,BIO,1.0,0.0,Lower third
+326,11913494,Lecture,0,Completer,1,8,8,C7,D,4.25,43.62808742,0,1,0,0,BIO,0.0,1.0,Lower third
+327,11987997,Active (MPC),1,Completer,1,31,15,T4,C,27.5,43.62808742,0,1,0,0,BIO,1.0,0.0,Lower third
+328,11986649,Lecture,0,Completer,1,11,11,C8,F,,49.57261105,0,1,0,0,BIO,0.0,1.0,Lower third
+329,11989387,Lecture,0,Completer,1,13,13,C9,C,17.0,56.46633984,0,1,0,1,Other,1.0,0.0,Lower third
+330,11985462,Active (MPC),1,Completer,1,28,12,T5,B+,76.0,66.25039473,1,1,0,1,OSM,1.0,0.0,Middle third
+331,11885300,Active (MPC),1,Completer,1,19,3,T3,C,64.23076923,59.93483071,0,1,0,1,Other,1.0,0.0,Lower third
+332,11988832,Active (MPC),1,Switcher-DiffDT,0,,,,,41.5,,,0,0,,Other,,,
+333,11988904,Active (MPC),1,Departer,0,27,11,T1,,12.5,80.71011041,,1,0,,Other,,,Upper third
+334,11911069,Active (MPC),1,Completer,1,22,6,T4,B,25.25,64.11528836,1,1,0,1,Other,1.0,0.0,Middle third
+335,11981407,Active (MPC),1,Completer,1,25,9,T3,F,,46.00003231,1,1,0,0,BIO,0.0,1.0,Lower third
+336,11884732,Active (MPC),1,Completer,1,18,2,T2,B,68.46153846,79.00700007,1,1,0,1,Other,1.0,0.0,Upper third
+337,11983461,Lecture,0,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+338,11882195,Active (MPC),1,Completer,1,17,1,T1,C,59.61538462,67.11895597,0,1,0,0,Other,1.0,0.0,Middle third
+339,11883463,Lecture,0,Completer,1,3,3,C3,D,,49.49967158,0,1,0,0,BIO,0.0,1.0,Lower third
+340,11913749,Active (MPC),1,Completer,1,20,4,T3,B,74.25,73.17062498,1,1,0,1,BIO,1.0,0.0,Upper third
+341,11988651,Active (MPC),1,Completer,1,28,12,T5,C,49.5,59.40211947,1,1,0,1,OSM,1.0,0.0,Lower third
+342,11882313,Active (MPC),1,Completer,1,18,2,T2,A,77.69230769,80.11941354,1,1,0,1,OSM,1.0,0.0,Upper third
+343,11988237,Active (MPC),1,Departer,0,,,,DR,,,1,0,0,0,BIO,0.0,1.0,
+344,11989552,Lecture,0,Completer,1,16,16,C12,B,28.0,64.25633254,1,0,1,0,BIO,1.0,0.0,Middle third
+345,11914968,Active (MPC),1,Completer,1,22,6,T4,A-,56.25,43.76443314,0,0,1,0,BIO,1.0,0.0,Lower third
+346,11984622,Active (MPC),1,Completer,1,27,11,T1,A-,79.0,85.55208823,1,1,0,1,OSM,1.0,0.0,Upper third
+347,11984262,Active (MPC),1,Departer,0,,,,F,,,1,0,0,0,BIO,0.0,1.0,
+348,11984834,Active (MPC),1,Completer,1,26,10,T4,B,54.5,58.95447303,0,0,1,1,OSM,1.0,0.0,Lower third
+349,11919261,Active (MPC),1,Completer,1,24,8,T4,C+,35.5,49.4592997,1,0,1,0,BIO,1.0,0.0,Lower third
+350,11912593,Active (MPC),1,Switcher-DiffDT,0,23,7,T1,,,43.77300281,,1,0,,Other,,,Lower third
+351,11983941,Active (MPC),1,Completer,1,30,14,T6,F,,67.11725121,0,1,0,1,BIO,0.0,1.0,Middle third
+352,11986253,Lecture,0,Completer,1,11,11,C8,A-,78.0,78.6474483,1,1,0,1,OSM,1.0,0.0,Upper third
+353,11984180,Active (MPC),1,Completer,1,31,15,T4,B+,65.5,72.63684477,0,1,0,1,BIO,1.0,0.0,Upper third
+354,11887276,Active (MPC),1,Completer,1,19,3,T3,D,40.0,36.04682695,1,1,0,0,Other,0.0,1.0,Lower third
+355,11987543,Lecture,0,Completer,1,9,9,C7,DR,,56.74343292,1,1,0,1,Other,0.0,1.0,Lower third
+356,11985056,Lecture,0,Completer,1,9,9,C7,A,64.0,52.0167917,1,1,0,0,BIO,1.0,0.0,Lower third
+357,11882434,Active (MPC),1,Completer,1,19,3,T3,A,83.46153846,86.44416394,0,1,0,1,BIO,1.0,0.0,Upper third
+358,11985620,Lecture,0,Departer,0,,,,,,,,0,0,,Other,,,
+359,11918462,Active (MPC),1,Completer,1,20,4,T3,A,95.25,72.46743523,0,1,0,1,BIO,1.0,0.0,Upper third
+360,11983541,Lecture,0,Completer,1,12,12,C9,DR,,46.73360035,0,1,0,1,BIO,0.0,1.0,Lower third
+361,11886528,Active (MPC),1,Completer,1,18,2,T2,F,41.15384615,66.61299343,0,1,0,1,BIO,0.0,1.0,Middle third
+362,11884244,Active (MPC),1,Switcher-DiffDT,0,19,3,T3,,,61.44187053,,1,0,,Other,,,Lower third
+363,11916792,Lecture,0,Completer,1,4,4,C1,F,18.75,60.03824782,0,0,0,1,Other,0.0,1.0,Lower third
+364,11981302,Active (MPC),1,Completer,1,26,10,T4,F,,46.16577624,1,1,1,0,BIO,0.0,1.0,Lower third
+365,11989264,Active (MPC),1,Departer,0,30,14,T6,DR,,65.46871617,0,1,1,1,Other,0.0,1.0,Middle third
+366,11911841,Active (MPC),1,Completer,1,20,4,T3,B,63.5,69.98074049,0,1,0,1,BIO,1.0,0.0,Middle third
+367,11911517,Lecture,0,Completer,1,4,4,C1,C,20.75,66.58879207,0,1,0,1,Other,1.0,0.0,Middle third
+368,11919191,Active (MPC),1,Completer,1,24,8,T4,B,64.75,64.77592553,1,1,0,0,BIO,1.0,0.0,Middle third
+369,11982882,Active (MPC),1,Completer,1,32,16,T7,A-,68.5,64.77592553,1,1,0,0,BIO,1.0,0.0,Middle third
+370,11984225,Active (MPC),1,Completer,1,29,13,T2,A,85.0,45.76271186,1,1,0,0,BIO,1.0,0.0,Lower third
+371,11918009,Lecture,0,Completer,1,6,6,C5,B-,35.75,54.16666667,1,1,0,0,BIO,1.0,0.0,Lower third
+372,11881851,Lecture,0,Departer,0,3,3,C3,,,74.14012739,,1,0,,Other,,,Upper third
+373,11912791,Lecture,0,Departer,0,,,,,,,,0,0,,Other,,,
+374,11987592,Active (MPC),1,Completer,1,26,10,T4,B,71.5,67.55399403,0,1,0,0,BIO,1.0,0.0,Middle third
+375,11984463,Active (MPC),1,Completer,1,26,10,T4,D,36.5,53.10308762,1,1,0,1,Other,0.0,1.0,Lower third
+376,11984345,Active (MPC),1,Switcher-DiffDT,0,30,14,T6,,74.0,61.91996825,,1,0,,Other,,,Middle third
+377,11881915,Active (MPC),1,Completer,1,19,3,T3,F,15.76923077,54.68265137,1,1,0,1,Other,0.0,1.0,Lower third
+378,11886026,Active (MPC),1,Switcher-DiffDT,0,18,2,T2,,,45.78191528,,1,0,,Other,,,Lower third
+379,11919253,Active (MPC),1,Completer,1,21,5,T2,C,46.5,52.37876164,0,1,0,1,ECS,1.0,0.0,Lower third
+380,11917117,Active (MPC),1,Switcher-SameDT,0,23,7,T1,,46.5,46.01374756,,1,0,,Other,,,Lower third
+381,11981622,Active (MPC),1,Completer,1,26,10,T4,C+,50.5,74.45334488,1,1,0,0,BIO,1.0,0.0,Upper third
+382,11918394,Lecture,0,Completer,1,7,7,C6,B-,69.5,68.0521868,1,1,0,1,BIO,1.0,0.0,Middle third
+383,11914073,Active (MPC),1,Completer,1,23,7,T1,C,34.5,42.03380963,0,1,0,1,OSM,1.0,0.0,Lower third
+384,11915752,Active (MPC),1,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+385,11983061,Active (MPC),1,Completer,1,28,12,T5,C,60.0,61.27081026,0,0,0,0,ECS,1.0,0.0,Lower third
+386,11889842,Lecture,0,Departer,0,1,1,C1,F,,63.65876391,1,1,0,1,OSM,0.0,1.0,Middle third
+387,11983655,Active (MPC),1,Completer,1,26,10,T4,A,78.5,81.56743884,1,0,0,1,BIO,1.0,0.0,Upper third
+388,11987327,Active (MPC),1,Completer,1,25,9,T3,A-,84.0,77.09213399,1,1,0,1,ECS,1.0,0.0,Upper third
+389,11912954,Lecture,0,Completer,1,6,6,C5,A-,65.5,59.96878834,0,1,0,1,BIO,1.0,0.0,Lower third
+390,11881516,Lecture,0,Switcher-DiffDT,0,2,2,C2,,82.30769231,69.58193043,,1,0,,Other,,,Middle third
+391,11989705,Active (MPC),1,Completer,1,28,12,T5,C,,68.99560034,0,1,0,1,Other,1.0,0.0,Middle third
+392,11983990,Active (MPC),1,Completer,1,26,10,T4,A,91.0,84.42010499,1,1,0,1,BIO,1.0,0.0,Upper third
+393,11989160,Active (MPC),1,Completer,1,30,14,T6,A-,75.0,70.87799256,1,1,0,1,BIO,1.0,0.0,Middle third
+394,11885517,Lecture,0,Completer,1,2,2,C2,DR,,66.1833312,1,1,0,1,BIO,0.0,1.0,Middle third
+395,11983125,Active (MPC),1,Switcher-DiffDT,0,,,,,58.0,,,0,0,,Other,,,
+396,11917651,Lecture,0,Completer,1,4,4,C1,C+,49.25,78.7183373,1,1,0,1,BIO,1.0,0.0,Upper third
+397,11981467,Lecture,0,Switcher-DiffDT,0,,,,,95.5,,,0,0,,Other,,,
+398,11982351,Lecture,0,Completer,1,10,10,C7,F,8.5,62.87099946,1,1,1,1,Other,0.0,1.0,Middle third
+399,11984281,Lecture,0,Completer,1,13,13,C9,D,24.5,52.10201502,1,0,1,1,BIO,0.0,1.0,Lower third
+400,11885158,Lecture,0,Completer,1,1,1,C1,OF,,60.64777596,0,1,0,1,ECS,0.0,1.0,Lower third
+401,11889166,Active (MPC),1,Switcher-SameDT,0,19,3,T3,,29.23076923,76.01882559,,1,1,,Other,,,Upper third
+402,11888686,Lecture,0,Switcher-DiffDT,0,,,,,78.46153846,,,0,0,,Other,,,
+403,11982853,Lecture,0,Completer,1,13,13,C9,B,45.5,76.33690393,1,1,0,1,ECS,1.0,0.0,Upper third
+404,11989005,Lecture,0,Completer,1,10,10,C7,DR,19.0,77.03306614,1,1,0,1,Other,0.0,1.0,Upper third
+405,11989216,Lecture,0,Completer,1,12,12,C9,OF,12.0,68.29379619,0,1,0,1,BIO,0.0,1.0,Middle third
+406,11912036,Active (MPC),1,Completer,1,21,5,T2,C,33.25,73.75281825,1,1,0,1,OSM,1.0,0.0,Upper third
+407,11917967,Active (MPC),1,Completer,1,21,5,T2,B-,54.0,60.47893696,1,1,0,1,OSM,1.0,0.0,Lower third
+408,11985436,Lecture,0,Completer,1,13,13,C9,D,9.0,64.5245407,1,1,0,1,Other,0.0,1.0,Middle third
+409,11911308,Active (MPC),1,Completer,1,22,6,T4,A,89.0,71.47880374,0,1,0,1,BIO,1.0,0.0,Middle third
+410,11989592,Lecture,0,Completer,1,14,14,C10,C,55.0,67.51313883,1,1,0,0,BIO,1.0,0.0,Middle third
+411,11883947,Lecture,0,Switcher-DiffDT,0,,,,,85.38461538,,,0,0,,Other,,,
+412,11882898,Lecture,0,Switcher-DiffDT,0,,,,,69.61538462,,,0,0,,Other,,,
+413,11981093,Active (MPC),1,Completer,1,30,14,T6,A,91.0,70.30470929,0,1,0,1,ECS,1.0,0.0,Middle third
+414,11987126,Lecture,0,Completer,1,11,11,C8,DR,,76.22862091,1,1,0,1,BIO,0.0,1.0,Upper third
+415,11889529,Active (MPC),1,Switcher-DiffDT,0,,,,,20.76923077,,,0,0,,Other,,,
+416,11982783,Active (MPC),1,Completer,1,28,12,T5,B-,53.0,74.04179359,1,1,0,0,BIO,1.0,0.0,Upper third
+417,11888411,Lecture,0,Completer,1,2,2,C2,B+,90.0,69.0986505,0,1,0,1,Other,1.0,0.0,Middle third
+418,11987744,Lecture,0,Completer,1,13,13,C9,C,34.0,57.56884814,0,1,0,1,BIO,1.0,0.0,Lower third
+419,11981979,Lecture,0,Completer,1,15,15,C11,DR,,48.02116692,1,1,0,0,Other,0.0,1.0,Lower third
+420,11887765,Lecture,0,Completer,1,2,2,C2,C+,54.23076923,79.06813866,1,1,0,1,Other,1.0,0.0,Upper third
+421,11985406,Lecture,0,Completer,1,12,12,C9,B,56.5,68.17714287,1,0,1,1,BIO,1.0,0.0,Middle third
+422,11885716,Lecture,0,Completer,1,2,2,C2,B+,63.46153846,71.1142042,0,1,0,1,Other,1.0,0.0,Middle third
+423,11984978,Active (MPC),1,Switcher-SameDT,0,30,14,T6,,41.0,74.49714762,,1,0,,Other,,,Upper third
+424,11882959,Lecture,0,Completer,1,2,2,C2,C+,53.07692308,76.12706954,0,1,0,1,Other,1.0,0.0,Upper third
+425,11883488,Lecture,0,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+426,11887092,Lecture,0,Completer,1,3,3,C3,D,27.30769231,55.10482067,0,1,0,1,BIO,0.0,1.0,Lower third
+427,11916015,Lecture,0,Completer,1,6,6,C5,F,22.0,55.10482067,0,1,0,1,BIO,0.0,1.0,Lower third
+428,11884455,Lecture,0,Completer,1,1,1,C1,C,73.46153846,74.81898592,1,1,0,1,BIO,1.0,0.0,Upper third
+429,11982423,Lecture,0,Switcher-DiffDT,0,12,12,C9,,86.0,43.10826715,,1,0,,Other,,,Lower third
+430,11915286,Lecture,0,Completer,1,7,7,C6,D,24.25,60.64218446,1,1,0,1,Other,0.0,1.0,Lower third
+431,11913362,Active (MPC),1,Completer,1,20,4,T3,A,91.5,65.98605398,0,1,0,1,BIO,1.0,0.0,Middle third
+432,11988274,Lecture,0,Completer,1,10,10,C7,DR,,59.23250407,1,1,0,1,Other,0.0,1.0,Lower third
+433,11916296,Active (MPC),1,Completer,1,22,6,T4,B-,40.25,71.04832389,0,0,1,1,Other,1.0,0.0,Middle third
+434,11983522,Lecture,0,Completer,1,11,11,C8,C,58.0,80.51526304,1,1,0,1,Other,1.0,0.0,Upper third
+435,11981912,Active (MPC),1,Completer,1,29,13,T2,C,60.5,47.99469582,0,1,0,1,BIO,1.0,0.0,Lower third
+436,11912180,Active (MPC),1,Completer,1,22,6,T4,DR,,53.67684203,0,1,0,1,BIO,0.0,1.0,Lower third
+437,11889769,Active (MPC),1,Completer,1,17,1,T1,F,,55.95006134,0,1,0,1,Other,0.0,1.0,Lower third
+438,11915040,Active (MPC),1,Departer,0,20,4,T3,,,,,1,0,,Other,,,
+439,11911020,Lecture,0,Completer,1,4,4,C1,B,41.75,67.27917298,1,0,0,1,BIO,1.0,0.0,Middle third
+440,11886949,Active (MPC),1,Switcher-SameDT,0,17,1,T1,,60.38461538,75.96882442,,1,0,,Other,,,Upper third
+441,11911888,Active (MPC),1,Completer,1,22,6,T4,A,86.0,70.73681172,1,1,0,1,BIO,1.0,0.0,Middle third
+442,11919034,Active (MPC),1,Switcher-SameDT,0,20,4,T3,,24.5,45.69125713,,0,1,,Other,,,Lower third
+443,11987872,Active (MPC),1,Completer,1,30,14,T6,C,51.0,60.72743018,1,0,1,0,BIO,1.0,0.0,Lower third
+444,11917545,Lecture,0,Completer,1,7,7,C6,B-,60.75,60.1483005,0,0,1,1,OSM,1.0,0.0,Lower third
+445,11912043,Active (MPC),1,Completer,1,20,4,T3,B,64.0,61.43314936,0,1,0,0,BIO,1.0,0.0,Lower third
+446,11915323,Lecture,0,Completer,1,8,8,C7,A,40.0,69.01296903,0,1,0,1,OSM,1.0,0.0,Middle third
+447,11987652,Lecture,0,Switcher-DiffDT,0,12,12,C9,,73.0,70.91136249,,1,0,,Other,,,Middle third
+448,11912327,Active (MPC),1,Completer,1,21,5,T2,B-,44.25,63.38312766,0,1,0,1,Other,1.0,0.0,Middle third
+449,11889853,Lecture,0,Departer,0,3,3,C3,,,77.66471819,,1,0,,Other,,,Upper third
+450,11917913,Lecture,0,Completer,1,6,6,C5,A,63.25,77.66471819,1,1,0,0,OSM,1.0,0.0,Upper third
+451,11918822,Lecture,0,Completer,1,4,4,C1,C+,36.0,53.00930937,0,1,0,1,Other,1.0,0.0,Lower third
+452,11881039,Lecture,0,Completer,1,3,3,C3,D,13.46153846,48.04656491,1,1,0,1,BIO,0.0,1.0,Lower third
+453,11882463,Active (MPC),1,Completer,1,17,1,T1,A,86.53846154,78.34712066,1,1,0,1,Other,1.0,0.0,Upper third
+454,11887399,Lecture,0,Completer,1,3,3,C3,A-,49.23076923,60.86950639,1,1,0,1,BIO,1.0,0.0,Lower third
+455,11918620,Active (MPC),1,Switcher-DiffDT,0,,,,,37.25,,,0,0,,Other,,,
+456,11915553,Lecture,0,Switcher-DiffDT,0,,,,,62.75,,,0,0,,Other,,,
+457,11881904,Active (MPC),1,Completer,1,17,1,T1,A-,80.0,78.68225446,1,1,0,0,OSM,1.0,0.0,Upper third
+458,11885283,Lecture,0,Completer,1,1,1,C1,DR,,63.27352602,0,1,0,1,ECS,0.0,1.0,Middle third
+459,11985960,Lecture,0,Completer,1,11,11,C8,DR,35.5,55.7039641,0,0,1,0,Other,0.0,1.0,Lower third
+460,11915902,Lecture,0,Completer,1,4,4,C1,C,21.25,71.58836689,0,1,0,1,BIO,1.0,0.0,Middle third
+461,11988148,Lecture,0,Completer,1,15,15,C11,F,17.5,65.51201559,0,1,0,1,BIO,0.0,1.0,Middle third
+462,11889833,Active (MPC),1,Completer,1,19,3,T3,C,60.76923077,77.47708739,0,0,1,1,Other,1.0,0.0,Upper third
+463,11918014,Active (MPC),1,Completer,1,22,6,T4,C+,19.0,64.74299993,1,0,0,1,BIO,1.0,0.0,Middle third
+464,11888552,Lecture,0,Departer,0,,,,,,,,0,0,,Other,,,
+465,11989375,Active (MPC),1,Switcher-SameDT,0,28,12,T5,,23.0,56.40831349,,1,0,,Other,,,Lower third
+466,11913779,Lecture,0,Completer,1,5,5,C4,B-,53.75,79.33174569,0,1,0,1,BIO,1.0,0.0,Upper third
+467,11916912,Active (MPC),1,Switcher-DiffDT,0,,,,,45.75,,,0,0,,Other,,,
+468,11916120,Active (MPC),1,Completer,1,21,5,T2,B,51.75,65.54974668,1,1,0,1,BIO,1.0,0.0,Middle third
+469,11882388,Lecture,0,Completer,1,3,3,C3,A-,67.30769231,74.27293065,0,1,0,1,Other,1.0,0.0,Upper third
+470,11912549,Active (MPC),1,Completer,1,23,7,T1,B,68.25,68.79015746,1,0,1,1,Other,1.0,0.0,Middle third
+471,11885607,Lecture,0,Departer,0,1,1,C1,,,,,0,1,,Other,,,
+472,11912022,Lecture,0,Completer,1,5,5,C4,C+,59.5,62.83015804,1,0,0,0,BIO,1.0,0.0,Middle third
+473,11988117,Lecture,0,Completer,1,16,16,C12,B+,53.5,72.05022732,1,1,0,1,BIO,1.0,0.0,Upper third
+474,11982843,Active (MPC),1,Completer,1,28,12,T5,D,40.0,69.50638666,1,1,0,1,BIO,0.0,1.0,Middle third
+475,11915560,Active (MPC),1,Completer,1,20,4,T3,D,51.5,52.87670491,1,1,0,1,BIO,0.0,1.0,Lower third
+476,11919517,Lecture,0,Switcher-DiffDT,0,6,6,C5,,,44.3307478,,0,1,,Other,,,Lower third
+477,11882291,Active (MPC),1,Departer,0,19,3,T3,,,66.76769864,,0,1,,Other,,,Middle third
+478,11986631,Active (MPC),1,Completer,1,25,9,T3,A,89.0,76.92882348,1,1,0,0,BIO,1.0,0.0,Upper third
+479,11914126,Active (MPC),1,Completer,1,24,8,T4,A-,56.25,74.95850473,1,0,0,1,ECS,1.0,0.0,Upper third
+480,11886778,Lecture,0,Departer,0,,,,,,,,0,0,,Other,,,
+481,11917137,Lecture,0,Switcher-SameDT,0,8,8,C7,,27.5,65.77181208,,1,0,,Other,,,Middle third
+482,11982663,Lecture,0,Completer,1,11,11,C8,D,57.0,74.02035073,1,0,0,0,Other,0.0,1.0,Upper third
+483,11882311,Active (MPC),1,Completer,1,17,1,T1,A-,69.23076923,74.41845522,1,1,0,1,OSM,1.0,0.0,Upper third
+484,11888256,Active (MPC),1,Departer,0,18,2,T2,DR,,69.46669553,1,1,0,0,OSM,0.0,1.0,Middle third
+485,11914000,Active (MPC),1,Completer,1,22,6,T4,A,85.25,69.46669553,1,1,0,0,OSM,1.0,0.0,Middle third
+486,11986052,Lecture,0,Completer,1,13,13,C9,C,54.0,58.82908176,0,1,1,0,Other,1.0,0.0,Lower third
+487,11881437,Active (MPC),1,Completer,1,17,1,T1,B-,63.07692308,81.47506675,0,1,0,1,Other,1.0,0.0,Upper third
+488,11885144,Active (MPC),1,Switcher-SameDT,0,19,3,T3,,,81.39568449,,1,0,,Other,,,Upper third
+489,11984288,Active (MPC),1,Completer,1,29,13,T2,A,80.5,60.68418018,1,0,0,1,BIO,1.0,0.0,Lower third
+490,11885414,Lecture,0,Completer,1,1,1,C1,C,63.46153846,66.11011481,1,1,0,1,BIO,1.0,0.0,Middle third
+491,11912299,Active (MPC),1,Completer,1,22,6,T4,A,72.5,68.79549943,1,0,0,1,BIO,1.0,0.0,Middle third
+492,11886874,Active (MPC),1,Completer,1,19,3,T3,A,87.30769231,65.46720889,0,1,0,1,ECS,1.0,0.0,Middle third
+493,11881795,Lecture,0,Completer,1,2,2,C2,A,74.61538462,78.35029227,0,1,0,0,ECS,1.0,0.0,Upper third
+494,11988160,Active (MPC),1,Completer,1,26,10,T4,D,42.5,66.24810565,1,1,0,0,BIO,0.0,1.0,Middle third
+495,11986280,Active (MPC),1,Completer,1,25,9,T3,A-,81.5,70.0293719,1,1,0,1,BIO,1.0,0.0,Middle third
+496,11916895,Active (MPC),1,Completer,1,20,4,T3,F,,71.1409396,1,0,0,1,BIO,0.0,1.0,Middle third
+497,11983870,Active (MPC),1,Completer,1,30,14,T6,B,75.0,68.42933439,1,1,0,0,BIO,1.0,0.0,Middle third
+498,11915813,Lecture,0,Completer,1,7,7,C6,C,62.25,56.69336797,0,1,0,0,ECS,1.0,0.0,Lower third
+499,11917166,Active (MPC),1,Switcher-DiffDT,0,,,,,84.0,,,0,0,,Other,,,
+500,11984509,Lecture,0,Completer,1,10,10,C7,A,60.5,74.43768676,1,1,0,1,BIO,1.0,0.0,Upper third
+501,11915253,Lecture,0,Completer,1,5,5,C4,C,43.0,61.16042433,0,1,0,0,BIO,1.0,0.0,Lower third
+502,11989893,Lecture,0,Completer,1,10,10,C7,F,,54.75932742,1,0,1,1,BIO,0.0,1.0,Lower third
+503,11981808,Lecture,0,Completer,1,12,12,C9,D,21.0,53.06176816,1,1,0,1,BIO,0.0,1.0,Lower third
+504,11985168,Active (MPC),1,Completer,1,29,13,T2,C,37.5,54.28141893,0,1,0,1,OSM,1.0,0.0,Lower third
+505,11886245,Active (MPC),1,Completer,1,17,1,T1,B,73.84615385,80.98602698,1,0,1,1,Other,1.0,0.0,Upper third
+506,11917931,Active (MPC),1,Departer,0,,,,,,,,0,0,,Other,,,
+507,11917370,Lecture,0,Completer,1,4,4,C1,OF,17.25,42.70269826,0,0,0,1,OSM,0.0,1.0,Lower third
+508,11987237,Lecture,0,Completer,1,14,14,C10,C,35.0,42.70269826,0,0,0,1,OSM,1.0,0.0,Lower third
+509,11888821,Lecture,0,Completer,1,3,3,C3,C+,,80.88106956,1,1,0,1,BIO,1.0,0.0,Upper third
+510,11984522,Lecture,0,Completer,1,11,11,C8,C+,48.5,53.63703369,1,1,0,1,Other,1.0,0.0,Lower third
+511,11886633,Lecture,0,Completer,1,3,3,C3,B-,32.69230769,65.07253648,1,1,0,1,BIO,1.0,0.0,Middle third
+512,11889953,Active (MPC),1,Completer,1,17,1,T1,B,72.30769231,86.67065646,1,1,0,1,BIO,1.0,0.0,Upper third
+513,11885331,Active (MPC),1,Completer,1,19,3,T3,B,76.53846154,67.70192489,1,0,1,1,BIO,1.0,0.0,Middle third
+514,11889087,Active (MPC),1,Switcher-DiffDT,0,19,3,T3,,,53.69262827,,0,1,,Other,,,Lower third
+515,11881169,Lecture,0,Completer,1,2,2,C2,F,,55.60366602,0,1,0,0,ECS,0.0,1.0,Lower third
+516,11918772,Active (MPC),1,Completer,1,24,8,T4,OF,24.25,61.46266758,1,1,0,1,Other,0.0,1.0,Lower third
+517,11915858,Lecture,0,Departer,0,5,5,C4,,,67.6433121,,1,0,,Other,,,Middle third
+518,11982825,Lecture,0,Completer,1,12,12,C9,C,20.0,59.0555993,1,1,0,1,BIO,1.0,0.0,Lower third
+519,11913574,Lecture,0,Completer,1,4,4,C1,OF,23.0,53.94860255,0,1,0,1,Other,0.0,1.0,Lower third
+520,11911631,Lecture,0,Completer,1,8,8,C7,C,20.75,60.81174147,0,1,0,1,Other,1.0,0.0,Lower third
+521,11918853,Active (MPC),1,Completer,1,21,5,T2,DR,,70.68200257,1,1,0,0,Other,0.0,1.0,Middle third
+522,11989096,Active (MPC),1,Completer,1,32,16,T7,A-,80.0,66.15783878,1,1,0,0,BIO,1.0,0.0,Middle third
+523,11989139,Lecture,0,Completer,1,13,13,C9,B,61.5,60.55808543,1,0,0,0,BIO,1.0,0.0,Lower third
+524,11982658,Lecture,0,Departer,0,11,11,C8,,,77.96610169,,1,0,,Other,,,Upper third
+525,11915203,Active (MPC),1,Completer,1,23,7,T1,B+,79.75,55.42622192,1,1,0,1,BIO,1.0,0.0,Lower third
+526,11885584,Active (MPC),1,Completer,1,17,1,T1,A-,86.15384615,90.53781367,0,1,0,1,Other,1.0,0.0,Upper third
+527,11889909,Lecture,0,Completer,1,2,2,C2,A,87.69230769,84.66162334,0,0,0,1,ECS,1.0,0.0,Upper third
+528,11886884,Lecture,0,Completer,1,2,2,C2,C,35.0,72.81183738,1,1,0,1,OSM,1.0,0.0,Upper third
+529,11989997,Active (MPC),1,Completer,1,29,13,T2,D,48.0,58.13396833,0,1,0,1,Other,0.0,1.0,Lower third
+530,11882751,Lecture,0,Switcher-DiffDT,0,,,,,90.38461538,,,0,0,,Other,,,
+531,11917928,Lecture,0,Departer,0,6,6,C5,,,72.4395551,,1,0,,Other,,,Upper third
+532,11913771,Lecture,0,Departer,0,6,6,C5,,,65.2155636,,1,0,,Other,,,Middle third
+533,11982537,Active (MPC),1,Completer,1,32,16,T7,DR,,60.83842285,1,1,0,1,BIO,0.0,1.0,Lower third
+534,11987969,Lecture,0,Switcher-DiffDT,0,10,10,C7,,,,,1,1,,Other,,,
+535,11911581,Active (MPC),1,Completer,1,21,5,T2,B-,57.25,68.02110027,1,1,0,1,Other,1.0,0.0,Middle third
+536,11889616,Active (MPC),1,Completer,1,18,2,T2,A,82.30769231,72.88142135,0,1,0,1,BIO,1.0,0.0,Upper third
+537,11882504,Lecture,0,Completer,1,1,1,C1,C,41.15384615,50.0,0,0,0,0,BIO,1.0,0.0,Lower third
+538,11985225,Active (MPC),1,Completer,1,29,13,T2,B+,69.0,63.54791978,0,1,0,0,ECS,1.0,0.0,Middle third
+539,11886415,Active (MPC),1,Completer,1,18,2,T2,C+,40.76923077,71.57136965,1,1,0,1,BIO,1.0,0.0,Middle third
+540,11889750,Active (MPC),1,Completer,1,17,1,T1,B,68.84615385,63.03101539,0,1,0,1,BIO,1.0,0.0,Middle third
+541,11986119,Lecture,0,Completer,1,11,11,C8,A,,83.30224233,0,1,0,1,ECS,1.0,0.0,Upper third
+542,11987164,Active (MPC),1,Completer,1,28,12,T5,B+,70.0,73.29425814,1,1,0,1,BIO,1.0,0.0,Upper third
+543,11984118,Lecture,0,Completer,1,10,10,C7,F,21.5,62.87390217,0,1,0,1,ECS,0.0,1.0,Middle third
+544,11989350,Lecture,0,Switcher-SameDT,0,15,15,C11,,56.5,65.32938238,,0,0,,Other,,,Middle third
+545,11886475,Lecture,0,Completer,1,3,3,C3,OF,,63.81517416,0,0,1,1,ECS,0.0,1.0,Middle third
+546,11988490,Active (MPC),1,Completer,1,25,9,T3,B,78.0,73.75901669,1,1,0,1,Other,1.0,0.0,Upper third
+547,11989088,Active (MPC),1,Completer,1,30,14,T6,B,80.5,70.04412679,0,1,0,0,Other,1.0,0.0,Middle third
+548,11982977,Lecture,0,Completer,1,12,12,C9,B,55.0,70.03047507,1,0,0,0,BIO,1.0,0.0,Middle third
+549,11886337,Lecture,0,Completer,1,2,2,C2,C,38.84615385,53.21759608,0,1,0,0,Other,1.0,0.0,Lower third
+550,11888842,Lecture,0,Completer,1,2,2,C2,DR,,72.31321458,1,1,0,1,BIO,0.0,1.0,Upper third
+551,11915423,Active (MPC),1,Completer,1,23,7,T1,B,73.5,59.76989103,1,1,0,1,BIO,1.0,0.0,Lower third
+552,11917181,Lecture,0,Completer,1,7,7,C6,B,57.75,61.33009645,0,0,0,0,Other,1.0,0.0,Lower third
+553,11911085,Lecture,0,Completer,1,6,6,C5,B,52.0,58.37247556,1,0,0,1,Other,1.0,0.0,Lower third
+554,11984517,Lecture,0,Completer,1,10,10,C7,DR,,71.94197878,1,1,0,0,Other,0.0,1.0,Upper third
+555,11913782,Active (MPC),1,Completer,1,23,7,T1,B+,73.5,73.33519953,1,1,0,1,Other,1.0,0.0,Upper third
+556,11918858,Lecture,0,Completer,1,5,5,C4,C+,56.25,69.70294203,0,1,0,1,BIO,1.0,0.0,Middle third
+557,11919327,Lecture,0,Completer,1,5,5,C4,A,69.25,64.88188652,1,1,0,1,BIO,1.0,0.0,Middle third
+558,11913955,Lecture,0,Completer,1,6,6,C5,B+,66.5,80.0303004,0,0,0,1,Other,1.0,0.0,Upper third
+559,11983387,Lecture,0,Completer,1,11,11,C8,C,,44.55134275,1,1,0,1,Other,1.0,0.0,Lower third
+560,11987939,Active (MPC),1,Completer,1,31,15,T4,C,62.0,52.6737389,0,0,0,1,BIO,1.0,0.0,Lower third
+561,11984937,Lecture,0,Switcher-DiffDT,0,,,,,14.0,,,0,0,,Other,,,
+562,11986202,Lecture,0,Completer,1,14,14,C10,F,14.0,64.62437757,0,0,0,1,BIO,0.0,1.0,Middle third
+563,11884973,Active (MPC),1,Completer,1,17,1,T1,A,90.0,77.73762853,1,1,0,1,OSM,1.0,0.0,Upper third
+564,11888703,Lecture,0,Completer,1,3,3,C3,B+,51.53846154,77.97545815,1,1,0,1,BIO,1.0,0.0,Upper third
+565,11913087,Lecture,0,Completer,1,4,4,C1,B-,58.25,74.54507805,0,1,0,1,Other,1.0,0.0,Upper third
+566,11889938,Active (MPC),1,Completer,1,17,1,T1,B-,69.61538462,64.99321665,1,1,0,1,BIO,1.0,0.0,Middle third
+567,11911001,Lecture,0,Completer,1,5,5,C4,C,36.25,69.80374762,0,1,0,1,ECS,1.0,0.0,Middle third
+568,11987501,Active (MPC),1,Completer,1,27,11,T1,A-,89.5,64.63640212,0,1,0,1,BIO,1.0,0.0,Middle third
+569,11919663,Active (MPC),1,Completer,1,21,5,T2,B,54.75,67.38182868,1,1,0,1,ECS,1.0,0.0,Middle third
+570,11882298,Lecture,0,Departer,0,3,3,C3,,,79.36305732,,1,0,,Other,,,Upper third
+571,11888067,Active (MPC),1,Completer,1,19,3,T3,B,79.61538462,66.95912426,1,0,1,1,Other,1.0,0.0,Middle third
+572,11987841,Active (MPC),1,Completer,1,25,9,T3,F,34.5,62.4081163,1,1,0,1,Other,0.0,1.0,Middle third
+573,11988935,Active (MPC),1,Completer,1,30,14,T6,OF,,74.8017397,0,1,0,1,Other,0.0,1.0,Upper third
+574,11916780,Lecture,0,Completer,1,7,7,C6,OF,39.75,66.1747958,0,0,0,1,Other,0.0,1.0,Middle third
+575,11989257,Lecture,0,Completer,1,12,12,C9,C,14.5,65.43484196,1,1,0,1,BIO,1.0,0.0,Middle third
+576,11917742,Lecture,0,Switcher-DiffDT,0,7,7,C6,,,69.59167548,,1,1,,Other,,,Middle third
+577,11981203,Lecture,0,Completer,1,13,13,C9,A,47.5,70.2712143,1,1,0,1,ECS,1.0,0.0,Middle third
+578,11985952,Lecture,0,Completer,1,13,13,C9,C,44.0,72.58231371,1,1,0,1,ECS,1.0,0.0,Upper third
+579,11987018,Lecture,0,Departer,0,13,13,C9,,,63.82165605,,1,0,,Other,,,Middle third
+580,11981861,Active (MPC),1,Completer,1,29,13,T2,B+,51.0,70.35937902,0,1,0,1,BIO,1.0,0.0,Middle third
+581,11918052,Lecture,0,Completer,1,5,5,C4,OF,,70.68828144,0,1,1,1,OSM,0.0,1.0,Middle third
+582,11881837,Active (MPC),1,Completer,1,18,2,T2,A,87.30769231,73.46855437,0,0,1,1,ECS,1.0,0.0,Upper third
+583,11987199,Lecture,0,Departer,0,9,9,C7,,,70.09815645,,0,0,,Other,,,Middle third
+584,11985692,Lecture,0,Departer,0,13,13,C9,,,69.8089172,,1,0,,Other,,,Middle third
+585,11981309,Lecture,0,Completer,1,11,11,C8,F,,61.37634263,1,1,0,1,BIO,0.0,1.0,Lower third
+586,11984382,Lecture,0,Completer,1,11,11,C8,DR,,47.10814844,0,0,1,0,BIO,0.0,1.0,Lower third
+587,11981314,Active (MPC),1,Completer,1,27,11,T1,B-,71.0,73.30970941,1,1,0,1,BIO,1.0,0.0,Upper third
+588,11886669,Active (MPC),1,Completer,1,19,3,T3,A,82.30769231,72.82925367,1,1,0,1,BIO,1.0,0.0,Upper third
+589,11989758,Active (MPC),1,Completer,1,25,9,T3,A-,84.0,74.97492357,1,1,0,1,BIO,1.0,0.0,Upper third
+590,11988741,Lecture,0,Departer,0,14,14,C10,,,69.55414013,,0,0,,Other,,,Middle third
+591,11985013,Active (MPC),1,Completer,1,26,10,T4,A-,67.5,65.96295196,1,1,0,1,BIO,1.0,0.0,Middle third
+592,11982309,Lecture,0,Completer,1,10,10,C7,A,80.0,71.7714272,1,0,0,1,Other,1.0,0.0,Upper third
+593,11989741,Lecture,0,Completer,1,13,13,C9,D,11.0,48.64447434,1,1,0,1,Other,0.0,1.0,Lower third
+594,11889963,Active (MPC),1,Completer,1,17,1,T1,B-,76.53846154,81.03152813,0,1,0,1,ECS,1.0,0.0,Upper third
+595,11988074,Lecture,0,Departer,0,,,,DR,,,0,0,0,0,BIO,0.0,1.0,
+596,11883686,Lecture,0,Completer,1,1,1,C1,DR,,73.42257977,1,1,0,1,BIO,0.0,1.0,Upper third
+597,11916785,Active (MPC),1,Completer,1,21,5,T2,A,66.25,66.16276551,1,1,0,1,BIO,1.0,0.0,Middle third
+598,11881478,Active (MPC),1,Completer,1,19,3,T3,A,86.53846154,82.12186901,0,1,1,1,ECS,1.0,0.0,Upper third
+599,11919501,Active (MPC),1,Completer,1,22,6,T4,A,79.75,69.30380332,0,1,0,1,BIO,1.0,0.0,Middle third
+600,11919671,Active (MPC),1,Completer,1,22,6,T4,A,69.5,57.20537705,1,0,1,1,OSM,1.0,0.0,Lower third
+601,11889029,Lecture,0,Completer,1,2,2,C2,A-,59.61538462,76.48852772,1,1,0,1,Other,1.0,0.0,Upper third
+602,11988809,Lecture,0,Completer,1,11,11,C8,B-,46.0,55.94171517,1,1,0,1,BIO,1.0,0.0,Lower third
+603,11886218,Lecture,0,Completer,1,3,3,C3,B-,41.53846154,78.35621262,1,1,0,1,BIO,1.0,0.0,Upper third
+604,11889838,Active (MPC),1,Completer,1,18,2,T2,B,59.61538462,71.26482097,1,1,0,1,BIO,1.0,0.0,Middle third
+605,11889142,Lecture,0,Completer,1,3,3,C3,B,74.61538462,75.56214546,1,0,0,1,BIO,1.0,0.0,Upper third
+606,11889124,Active (MPC),1,Completer,1,17,1,T1,OF,48.46153846,70.33200815,0,0,1,1,ECS,0.0,1.0,Middle third
+607,11986075,Active (MPC),1,Completer,1,27,11,T1,B,78.0,78.79577791,1,0,0,1,BIO,1.0,0.0,Upper third
+608,11883210,Active (MPC),1,Completer,1,18,2,T2,A-,80.76923077,67.95978394,0,1,0,1,ECS,1.0,0.0,Middle third
+609,11887130,Lecture,0,Completer,1,2,2,C2,B,81.53846154,66.87212745,0,1,0,1,ECS,1.0,0.0,Middle third
+610,11986775,Active (MPC),1,Completer,1,31,15,T4,B-,,58.41530345,0,0,0,1,BIO,1.0,0.0,Lower third
+611,11888685,Lecture,0,Completer,1,1,1,C1,OF,29.23076923,70.90879973,1,1,0,1,Other,0.0,1.0,Middle third
+612,11983344,Active (MPC),1,Completer,1,32,16,T7,D,,68.12835519,0,1,0,1,Other,0.0,1.0,Middle third
+613,11912398,Active (MPC),1,Completer,1,24,8,T4,B,42.75,72.67299426,1,0,0,1,OSM,1.0,0.0,Upper third
+614,11886579,Lecture,0,Completer,1,3,3,C3,B,57.69230769,74.05935046,0,1,0,1,BIO,1.0,0.0,Upper third
+615,11918429,Active (MPC),1,Completer,1,23,7,T1,B-,46.0,59.19556397,0,1,0,1,Other,1.0,0.0,Lower third
+616,11914974,Lecture,0,Completer,1,6,6,C5,A,82.0,73.92100109,0,1,0,1,BIO,1.0,0.0,Upper third
+617,11887893,Lecture,0,Completer,1,3,3,C3,OF,,77.39170665,1,0,0,0,Other,0.0,1.0,Upper third
+618,11882051,Active (MPC),1,Completer,1,19,3,T3,A,92.69230769,69.374844,1,1,0,1,Other,1.0,0.0,Middle third
+619,11913244,Active (MPC),1,Completer,1,23,7,T1,A-,81.25,80.34501636,1,0,0,1,Other,1.0,0.0,Upper third
+620,11914413,Lecture,0,Completer,1,5,5,C4,A-,68.5,61.17323987,0,1,0,1,BIO,1.0,0.0,Lower third
+621,11881953,Active (MPC),1,Completer,1,19,3,T3,A,87.69230769,84.51462596,1,1,0,1,Other,1.0,0.0,Upper third
+622,11886018,Lecture,0,Completer,1,1,1,C1,B-,57.30769231,77.25018834,1,1,0,1,BIO,1.0,0.0,Upper third
+623,11919114,Active (MPC),1,Completer,1,21,5,T2,A,77.0,54.1924098,0,1,0,0,OSM,1.0,0.0,Lower third
+624,11918922,Active (MPC),1,Switcher-DiffDT,0,,,,,47.5,,,0,0,,Other,,,
+625,11884367,Lecture,0,Completer,1,2,2,C2,B+,66.92307692,70.34282305,0,1,0,1,Other,1.0,0.0,Middle third
+626,11888539,Active (MPC),1,Completer,1,19,3,T3,DR,,77.06993039,0,1,0,1,Other,0.0,1.0,Upper third
+627,11887155,Lecture,0,Completer,1,1,1,C1,B-,61.15384615,80.31630637,0,1,0,1,Other,1.0,0.0,Upper third
+628,11882880,Lecture,0,Completer,1,1,1,C1,B,59.61538462,79.42410858,1,1,0,1,BIO,1.0,0.0,Upper third
+629,11981290,Lecture,0,Completer,1,10,10,C7,C+,48.5,70.71219954,1,1,1,1,BIO,1.0,0.0,Middle third
+630,11984251,Active (MPC),1,Completer,1,27,11,T1,A,94.5,86.82091279,1,0,0,1,ECS,1.0,0.0,Upper third
+631,11987817,Active (MPC),1,Completer,1,31,15,T4,B-,42.5,61.96678421,1,1,0,0,Other,1.0,0.0,Middle third
+632,11986501,Active (MPC),1,Completer,1,26,10,T4,B,75.5,52.10734394,0,0,1,1,ECS,1.0,0.0,Lower third
+633,11889099,Active (MPC),1,Departer,0,,,,,,,,0,0,,Other,,,
+634,11983755,Lecture,0,Completer,1,16,16,C12,DR,,68.74866988,0,1,0,1,BIO,0.0,1.0,Middle third
+635,11983879,Active (MPC),1,Completer,1,27,11,T1,C,62.5,76.4509579,1,1,0,1,BIO,1.0,0.0,Upper third
+636,11887613,Lecture,0,Completer,1,2,2,C2,OF,38.46153846,71.1350882,0,1,0,1,BIO,0.0,1.0,Middle third
+637,11884810,Active (MPC),1,Completer,1,17,1,T1,A,84.61538462,83.10205838,0,1,0,1,BIO,1.0,0.0,Upper third
+638,11984399,Lecture,0,Completer,1,11,11,C8,D,40.5,50.28872712,0,1,0,1,BIO,0.0,1.0,Lower third
+639,11881538,Active (MPC),1,Completer,1,17,1,T1,C,41.15384615,74.14721985,1,1,0,1,ECS,1.0,0.0,Upper third
+640,11918547,Active (MPC),1,Completer,1,21,5,T2,B,58.75,72.95045182,1,0,0,1,BIO,1.0,0.0,Upper third
+641,11887151,Lecture,0,Completer,1,1,1,C1,A-,75.0,80.74302624,1,1,0,1,Other,1.0,0.0,Upper third
+642,11881852,Lecture,0,Completer,1,1,1,C1,C+,35.0,72.50623636,0,1,0,1,ECS,1.0,0.0,Upper third
+643,11887537,Lecture,0,Departer,0,2,2,C2,,,70.12587359,,0,0,,Other,,,Middle third
+644,11912467,Lecture,0,Switcher-DiffDT,0,,,,,56.75,,,0,0,,Other,,,
+645,11913964,Lecture,0,Switcher-DiffDT,0,7,7,C6,,51.75,,,1,0,,Other,,,
+646,11914907,Active (MPC),1,Completer,1,23,7,T1,B+,57.5,84.56419506,1,1,0,1,BIO,1.0,0.0,Upper third
+647,11986924,Lecture,0,Completer,1,12,12,C9,D,7.5,55.09541155,0,0,1,1,OSM,0.0,1.0,Lower third
+648,11916229,Lecture,0,Completer,1,6,6,C5,B+,36.75,69.12605048,1,0,0,1,Other,1.0,0.0,Middle third
+649,11984904,Active (MPC),1,Departer,0,25,9,T3,DR,,58.81527835,0,1,0,1,BIO,0.0,1.0,Lower third
+650,11911462,Active (MPC),1,Completer,1,21,5,T2,C+,34.25,64.82920403,0,0,0,1,Other,1.0,0.0,Middle third
+651,11987515,Active (MPC),1,Completer,1,28,12,T5,A-,77.5,61.67303977,0,1,1,1,ECS,1.0,0.0,Middle third
+652,11885226,Lecture,0,Completer,1,1,1,C1,B-,56.92307692,73.13582303,1,1,0,1,BIO,1.0,0.0,Upper third
+653,11883042,Active (MPC),1,Completer,1,18,2,T2,A,75.38461538,69.18119059,1,1,0,1,BIO,1.0,0.0,Middle third
+654,11918965,Lecture,0,Departer,0,5,5,C4,,,66.87898089,,1,0,,Other,,,Middle third
+655,11912143,Active (MPC),1,Completer,1,23,7,T1,A,91.75,73.45050835,1,1,0,1,Other,1.0,0.0,Upper third
+656,11913416,Lecture,0,Completer,1,5,5,C4,A,75.75,80.80415756,0,0,0,1,BIO,1.0,0.0,Upper third
+657,11885710,Lecture,0,Completer,1,1,1,C1,A,69.61538462,85.47270597,0,1,0,1,ECS,1.0,0.0,Upper third
+658,11982651,Active (MPC),1,Completer,1,32,16,T7,C,42.0,68.05054035,1,0,1,1,BIO,1.0,0.0,Middle third
+659,11988584,Active (MPC),1,Completer,1,32,16,T7,DR,,57.77280662,1,0,0,1,BIO,0.0,1.0,Lower third
+660,11886367,Lecture,0,Completer,1,1,1,C1,DR,,74.30818152,1,1,0,1,BIO,0.0,1.0,Upper third
+661,11988789,Active (MPC),1,Completer,1,28,12,T5,A-,64.0,74.30818152,1,1,0,1,BIO,1.0,0.0,Upper third
+662,11913961,Active (MPC),1,Switcher-DiffDT,0,20,4,T3,,61.75,78.57333482,,0,0,,Other,,,Upper third
+663,11881101,Active (MPC),1,Completer,1,17,1,T1,C,72.30769231,70.22705074,0,1,0,1,ECS,1.0,0.0,Middle third
+664,11881881,Lecture,0,Completer,1,1,1,C1,C,21.53846154,71.07358648,0,0,1,1,ECS,1.0,0.0,Middle third
+665,11885973,Lecture,0,Completer,1,1,1,C1,A,83.07692308,83.90560727,1,1,0,1,OSM,1.0,0.0,Upper third
+666,11911895,Active (MPC),1,Completer,1,20,4,T3,B,68.5,71.68228801,0,1,0,1,BIO,1.0,0.0,Upper third
+667,11982428,Active (MPC),1,Completer,1,31,15,T4,A,98.0,64.38612277,0,0,0,0,Other,1.0,0.0,Middle third
+668,11884120,Lecture,0,Switcher-DiffDT,0,,,,,82.30769231,,,0,0,,Other,,,
+669,11917726,Active (MPC),1,Completer,1,23,7,T1,C,55.25,64.29646034,0,0,1,1,BIO,1.0,0.0,Middle third
+670,11917611,Lecture,0,Completer,1,7,7,C6,B+,79.0,60.68269779,0,1,0,1,Other,1.0,0.0,Lower third
+671,11981730,Active (MPC),1,Departer,0,27,11,T1,DR,,48.96021686,1,1,0,1,BIO,0.0,1.0,Lower third
+672,11914308,Active (MPC),1,Completer,1,20,4,T3,C,46.5,71.69797601,1,1,0,1,BIO,1.0,0.0,Upper third
+673,11982655,Active (MPC),1,Completer,1,27,11,T1,A-,94.0,62.77985005,1,0,0,1,BIO,1.0,0.0,Middle third
+674,11988165,Active (MPC),1,Completer,1,25,9,T3,B,83.0,52.81123523,0,1,0,1,OSM,1.0,0.0,Lower third
+675,11883611,Active (MPC),1,Completer,1,19,3,T3,OF,60.0,69.20460575,0,1,0,1,BIO,0.0,1.0,Middle third
+676,11985784,Lecture,0,Completer,1,10,10,C7,F,20.5,54.57331498,0,1,0,1,BIO,0.0,1.0,Lower third
+677,11885028,Active (MPC),1,Completer,1,17,1,T1,A,83.84615385,78.00354301,1,1,1,1,OSM,1.0,0.0,Upper third
+678,11883856,Active (MPC),1,Completer,1,18,2,T2,B-,74.61538462,70.15457248,0,1,0,1,Other,1.0,0.0,Middle third
+679,11986149,Active (MPC),1,Completer,1,31,15,T4,A,81.5,60.98841258,0,1,0,1,Other,1.0,0.0,Lower third
+680,11988509,Lecture,0,Switcher-DiffDT,0,12,12,C9,,51.5,54.0875602,,1,0,,Other,,,Lower third
+681,11988785,Active (MPC),1,Completer,1,32,16,T7,A,92.0,58.17496411,1,0,0,0,BIO,1.0,0.0,Lower third
+682,11889573,Active (MPC),1,Completer,1,17,1,T1,DR,,80.59272395,1,1,0,1,BIO,0.0,1.0,Upper third
+683,11888736,Active (MPC),1,Completer,1,17,1,T1,B+,78.07692308,72.90178249,0,1,0,0,BIO,1.0,0.0,Upper third
+684,11885073,Lecture,0,Completer,1,3,3,C3,B+,60.76923077,70.20466328,1,1,0,1,OSM,1.0,0.0,Middle third
+685,11916989,Lecture,0,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+686,11915474,Active (MPC),1,Completer,1,21,5,T2,C,38.0,63.58665522,1,1,0,1,OSM,1.0,0.0,Middle third
+687,11981130,Lecture,0,Completer,1,10,10,C7,OF,15.5,67.80968811,1,1,0,1,BIO,0.0,1.0,Middle third
+688,11983010,Active (MPC),1,Completer,1,28,12,T5,A,81.5,73.34165001,0,1,0,1,OSM,1.0,0.0,Upper third
+689,11912592,Active (MPC),1,Completer,1,22,6,T4,B,56.25,69.42898551,1,1,1,1,BIO,1.0,0.0,Middle third
+690,11915626,Lecture,0,Completer,1,7,7,C6,A,87.5,66.89577397,0,1,0,1,ECS,1.0,0.0,Middle third
+691,11984347,Active (MPC),1,Completer,1,25,9,T3,A-,87.0,66.77736516,1,0,0,1,BIO,1.0,0.0,Middle third
+692,11919739,Lecture,0,Departer,0,5,5,C4,,,68.75737572,,0,0,,Other,,,Middle third
+693,11985117,Active (MPC),1,Completer,1,28,12,T5,C,54.0,68.75737572,1,0,0,1,BIO,1.0,0.0,Middle third
+694,11981173,Active (MPC),1,Completer,1,26,10,T4,B+,71.5,52.9352162,1,1,0,1,BIO,1.0,0.0,Lower third
+695,11981855,Active (MPC),1,Completer,1,27,11,T1,F,,67.67708289,1,1,0,1,BIO,0.0,1.0,Middle third
+696,11983770,Lecture,0,Departer,0,,,,,,,,0,0,,Other,,,
+697,11984720,Lecture,0,Completer,1,13,13,C9,B,51.0,69.78260736,0,0,0,1,BIO,1.0,0.0,Middle third
+698,11988327,Lecture,0,Completer,1,12,12,C9,C,32.0,56.83914803,0,1,0,1,Other,1.0,0.0,Lower third
+699,11985150,Active (MPC),1,Switcher-DiffDT,0,30,14,T6,,14.0,69.76530407,,1,0,,Other,,,Middle third
+700,11987230,Active (MPC),1,Completer,1,29,13,T2,B,63.5,57.43267561,0,1,0,1,OSM,1.0,0.0,Lower third
+701,11981482,Lecture,0,Completer,1,12,12,C9,D,13.0,47.76970357,0,1,0,1,BIO,0.0,1.0,Lower third
+702,11882090,Active (MPC),1,Completer,1,19,3,T3,C,80.76923077,53.72014144,0,1,0,0,Other,1.0,0.0,Lower third
+703,11889757,Active (MPC),1,Switcher-DiffDT,0,17,1,T1,,,83.47309576,,1,0,,Other,,,Upper third
+704,11884378,Lecture,0,Departer,0,2,2,C2,,,68.67796588,,1,0,,Other,,,Middle third
+705,11915255,Lecture,0,Completer,1,5,5,C4,C+,47.25,72.85106426,1,1,0,1,Other,1.0,0.0,Upper third
+706,11984808,Lecture,0,Switcher-SameDT,0,10,10,C7,,94.5,87.64639408,,1,0,,Other,,,Upper third
+707,11985827,Lecture,0,Switcher-SameDT,0,10,10,C7,,87.0,84.23679264,,1,0,,Other,,,Upper third
+708,11919724,Active (MPC),1,Completer,1,21,5,T2,B,73.75,60.64923383,1,1,1,1,Other,1.0,0.0,Lower third
+709,11989363,Active (MPC),1,Departer,0,,,,,,,,0,0,,Other,,,
+710,11888333,Active (MPC),1,Completer,1,18,2,T2,OF,27.30769231,40.97739505,1,0,0,1,BIO,0.0,1.0,Lower third
+711,11915846,Lecture,0,Switcher-DiffDT,0,4,4,C1,,51.75,62.86016541,,1,0,,Other,,,Middle third
+712,11911217,Lecture,0,Completer,1,4,4,C1,C+,25.0,65.47743811,1,1,0,1,BIO,1.0,0.0,Middle third
+713,11917782,Lecture,0,Completer,1,5,5,C4,C,35.5,59.14972152,1,1,0,1,Other,1.0,0.0,Lower third
+714,11987043,Active (MPC),1,Completer,1,30,14,T6,OF,57.5,73.5018138,1,1,0,1,OSM,0.0,1.0,Upper third
+715,11887180,Active (MPC),1,Completer,1,19,3,T3,OF,36.92307692,67.50889048,0,1,0,1,ECS,0.0,1.0,Middle third
+716,11989570,Lecture,0,Completer,1,9,9,C7,F,17.0,67.50889048,0,1,0,1,ECS,0.0,1.0,Middle third
+717,11915540,Lecture,0,Completer,1,4,4,C1,C+,19.5,71.58862889,0,1,0,1,Other,1.0,0.0,Middle third
+718,11983883,Active (MPC),1,Completer,1,26,10,T4,C,42.5,49.81565343,0,1,0,0,ECS,1.0,0.0,Lower third
+719,11989800,Lecture,0,Departer,0,9,9,C7,,,69.68152866,,1,0,,Other,,,Middle third
+720,11883121,Active (MPC),1,Completer,1,18,2,T2,A,83.07692308,72.50011836,0,1,0,1,ECS,1.0,0.0,Upper third
+721,11982591,Active (MPC),1,Switcher-DiffDT,0,26,10,T4,,,59.02943043,,0,0,,Other,,,Lower third
+722,11918192,Active (MPC),1,Switcher-SameDT,0,20,4,T3,,30.0,73.96915905,,1,0,,Other,,,Upper third
+723,11987860,Lecture,0,Completer,1,16,16,C12,OF,,68.10349939,0,1,0,0,Other,0.0,1.0,Middle third
+724,11982293,Lecture,0,Completer,1,12,12,C9,C,53.0,59.51357106,0,1,0,1,OSM,1.0,0.0,Lower third
+725,11886623,Lecture,0,Completer,1,2,2,C2,A,76.92307692,78.39794461,0,1,0,1,OSM,1.0,0.0,Upper third
+726,11883090,Active (MPC),1,Completer,1,19,3,T3,B+,79.61538462,66.21440649,0,1,0,1,OSM,1.0,0.0,Middle third
+727,11985869,Lecture,0,Completer,1,9,9,C7,F,25.5,43.30922333,0,1,0,1,OSM,0.0,1.0,Lower third
+728,11889903,Active (MPC),1,Completer,1,17,1,T1,OF,60.38461538,72.87835392,0,0,1,1,Other,0.0,1.0,Upper third
+729,11883420,Lecture,0,Completer,1,3,3,C3,A,86.92307692,73.78942051,0,1,0,0,Other,1.0,0.0,Upper third
+730,11882159,Active (MPC),1,Completer,1,18,2,T2,C,63.84615385,46.87193439,0,1,0,1,ECS,1.0,0.0,Lower third
+731,11915143,Lecture,0,Completer,1,6,6,C5,DR,,70.2838364,0,1,0,1,OSM,0.0,1.0,Middle third
+732,11985014,Lecture,0,Completer,1,12,12,C9,B-,37.0,61.55694494,1,1,0,1,Other,1.0,0.0,Lower third
+733,11984370,Lecture,0,Completer,1,10,10,C7,F,24.0,66.22247074,1,0,1,1,OSM,0.0,1.0,Middle third
+734,11915244,Lecture,0,Completer,1,6,6,C5,F,,,1,1,0,0,BIO,0.0,1.0,
+735,11982409,Active (MPC),1,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+736,11983151,Active (MPC),1,Completer,1,25,9,T3,B,69.0,74.10560622,1,1,0,1,Other,1.0,0.0,Upper third
+737,11988135,Lecture,0,Completer,1,15,15,C11,B-,32.5,43.68130833,0,1,0,0,BIO,1.0,0.0,Lower third
+738,11981924,Lecture,0,Completer,1,9,9,C7,F,16.0,72.53462919,0,0,1,1,Other,0.0,1.0,Upper third
+739,11912539,Active (MPC),1,Switcher-DiffDT,0,21,5,T2,,42.25,70.44778123,,1,0,,Other,,,Middle third
+740,11887986,Lecture,0,Switcher-DiffDT,0,,,,,70.38461538,,,0,0,,Other,,,
+741,11988522,Lecture,0,Switcher-SameDT,0,16,16,C12,,84.0,64.79774109,,1,0,,Other,,,Middle third
+742,11982654,Lecture,0,Completer,1,12,12,C9,DR,,64.24324619,0,1,0,1,Other,0.0,1.0,Middle third
+743,11989337,Active (MPC),1,Switcher-DiffDT,0,26,10,T4,,,54.92262758,,0,0,,Other,,,Lower third
+744,11981241,Lecture,0,Completer,1,10,10,C7,F,35.5,55.28126196,0,0,0,1,Other,0.0,1.0,Lower third
+745,11982415,Lecture,0,Completer,1,9,9,C7,C+,49.0,67.1752969,1,1,0,1,Other,1.0,0.0,Middle third
+746,11986605,Lecture,0,Completer,1,12,12,C9,DR,,74.98535542,1,1,0,1,BIO,0.0,1.0,Upper third
+747,11982747,Active (MPC),1,Completer,1,26,10,T4,B,79.0,61.15518428,0,1,0,1,ECS,1.0,0.0,Lower third
+748,11983928,Lecture,0,Switcher-SameDT,0,12,12,C9,,83.0,52.46279905,,1,0,,Other,,,Lower third
+749,11983399,Active (MPC),1,Departer,0,32,16,T7,,,68.15286624,,0,0,,Other,,,Middle third
+750,11915786,Lecture,0,Completer,1,6,6,C5,A,74.25,65.89848202,0,1,0,1,ECS,1.0,0.0,Middle third
+751,11985222,Active (MPC),1,Completer,1,27,11,T1,D,38.5,61.21401081,0,1,0,1,Other,0.0,1.0,Lower third
+752,11911970,Lecture,0,Completer,1,6,6,C5,B+,37.75,71.08298641,1,1,0,0,BIO,1.0,0.0,Middle third
+753,11884147,Lecture,0,Completer,1,2,2,C2,A-,71.92307692,72.01629566,0,1,0,1,Other,1.0,0.0,Upper third
+754,11889625,Lecture,0,Completer,1,3,3,C3,A-,45.76923077,72.64053349,0,0,0,1,BIO,1.0,0.0,Upper third
+755,11988317,Active (MPC),1,Completer,1,25,9,T3,C+,64.5,61.07328771,0,1,0,1,ECS,1.0,0.0,Lower third
+756,11912442,Active (MPC),1,Completer,1,23,7,T1,B+,72.25,69.58477148,1,1,0,1,BIO,1.0,0.0,Middle third
+757,11917207,Active (MPC),1,Completer,1,22,6,T4,A,96.75,75.06279105,1,0,0,0,BIO,1.0,0.0,Upper third
+758,11989772,Active (MPC),1,Completer,1,29,13,T2,B,63.0,76.25027062,1,0,1,0,BIO,1.0,0.0,Upper third
+759,11986447,Active (MPC),1,Switcher-DiffDT,0,29,13,T2,,70.0,75.33341239,,1,0,,Other,,,Upper third
+760,11916628,Lecture,0,Departer,0,4,4,C1,,,70.31847134,,1,0,,Other,,,Middle third
+761,11984519,Active (MPC),1,Completer,1,27,11,T1,D,57.0,57.60665928,0,0,1,0,Other,0.0,1.0,Lower third
+762,11987360,Active (MPC),1,Switcher-SameDT,0,28,12,T5,,63.0,64.93423729,,0,0,,Other,,,Middle third
+763,11913105,Active (MPC),1,Completer,1,23,7,T1,C,44.0,52.54609211,1,1,0,0,ECS,1.0,0.0,Lower third
+764,11911949,Lecture,0,Completer,1,5,5,C4,B+,49.25,65.21387935,0,0,0,1,BIO,1.0,0.0,Middle third
+765,11981823,Active (MPC),1,Completer,1,27,11,T1,D,42.0,36.84768458,0,0,0,0,ECS,0.0,1.0,Lower third
+766,11888309,Active (MPC),1,Completer,1,18,2,T2,C+,25.38461538,,1,1,0,0,BIO,1.0,0.0,
+767,11985458,Lecture,0,Completer,1,12,12,C9,D,18.0,69.89469555,1,0,0,1,Other,0.0,1.0,Middle third
+768,11915475,Lecture,0,Completer,1,5,5,C4,A,85.25,66.28918609,0,1,0,1,BIO,1.0,0.0,Middle third
+769,11985211,Lecture,0,Completer,1,10,10,C7,A,81.0,65.9731061,1,1,0,0,Other,1.0,0.0,Middle third
+770,11982707,Active (MPC),1,Completer,1,32,16,T7,A,63.5,,1,0,0,0,BIO,1.0,0.0,
+771,11989044,Active (MPC),1,Completer,1,27,11,T1,B,66.0,76.00611156,1,1,0,1,BIO,1.0,0.0,Upper third
+772,11915957,Active (MPC),1,Departer,0,20,4,T3,,,,,0,0,,Other,,,
+773,11917298,Lecture,0,Switcher-SameDT,0,8,8,C7,,13.5,49.47679873,,0,1,,Other,,,Lower third
+774,11912263,Active (MPC),1,Completer,1,21,5,T2,C,59.25,69.34960325,0,1,0,1,BIO,1.0,0.0,Middle third
+775,11913025,Lecture,0,Completer,1,4,4,C1,D,9.0,77.79913024,0,1,1,1,BIO,0.0,1.0,Upper third
+776,11882011,Active (MPC),1,Completer,1,18,2,T2,C,49.23076923,75.60162132,1,1,0,1,BIO,1.0,0.0,Upper third
+777,11887013,Lecture,0,Switcher-DiffDT,0,1,1,C1,,68.07692308,73.711675,,1,0,,Other,,,Upper third
+778,11983230,Active (MPC),1,Completer,1,26,10,T4,C+,59.0,71.79194769,1,1,0,1,BIO,1.0,0.0,Upper third
+779,11981097,Lecture,0,Switcher-DiffDT,0,16,16,C12,,,47.73566006,,0,1,,Other,,,Lower third
+780,11886341,Active (MPC),1,Completer,1,17,1,T1,DR,,72.02382479,0,0,0,1,ECS,0.0,1.0,Upper third
+781,11916401,Active (MPC),1,Completer,1,20,4,T3,D,47.5,46.06628028,0,0,0,0,BIO,0.0,1.0,Lower third
+782,11985654,Lecture,0,Switcher-DiffDT,0,,,,,67.5,,,0,0,,Other,,,
+783,11984405,Lecture,0,Completer,1,12,12,C9,B,36.0,74.75718543,1,0,1,1,ECS,1.0,0.0,Upper third
+784,11888680,Lecture,0,Completer,1,3,3,C3,C,23.84615385,51.76445118,0,1,0,0,BIO,1.0,0.0,Lower third
+785,11988189,Lecture,0,Completer,1,14,14,C10,A,70.5,72.88259653,0,0,1,1,Other,1.0,0.0,Upper third
+786,11984297,Lecture,0,Departer,0,12,12,C9,,,68.17515487,,1,0,,Other,,,Middle third
+787,11987102,Active (MPC),1,Completer,1,25,9,T3,B,77.0,67.80055517,0,1,0,1,ECS,1.0,0.0,Middle third
+788,11988172,Active (MPC),1,Switcher-DiffDT,0,,,,,83.0,,,0,0,,Other,,,
+789,11981879,Active (MPC),1,Completer,1,25,9,T3,C,53.0,,0,1,0,0,BIO,1.0,0.0,
+790,11913418,Lecture,0,Completer,1,5,5,C4,C,41.75,63.26044598,1,1,1,0,BIO,1.0,0.0,Middle third
+791,11989441,Active (MPC),1,Completer,1,28,12,T5,DR,,44.75161748,1,1,0,0,BIO,0.0,1.0,Lower third
+792,11917965,Lecture,0,Completer,1,4,4,C1,C,16.75,68.68008949,0,1,0,0,ECS,1.0,0.0,Middle third
+793,11918247,Active (MPC),1,Completer,1,22,6,T4,B+,55.25,42.08927583,1,0,1,0,Other,1.0,0.0,Lower third
+794,11981084,Active (MPC),1,Completer,1,28,12,T5,B-,65.0,54.27581728,1,0,0,0,BIO,1.0,0.0,Lower third
+795,11982048,Active (MPC),1,Switcher-DiffDT,0,27,11,T1,,,77.19745223,,1,0,,Other,,,Upper third
+796,11912249,Active (MPC),1,Departer,0,22,6,T4,,,,,0,0,,Other,,,
+797,11985876,Lecture,0,Completer,1,9,9,C7,A-,60.0,74.13321611,0,0,0,1,ECS,1.0,0.0,Upper third
+798,11986189,Lecture,0,Completer,1,11,11,C8,B-,35.0,68.21495402,0,0,0,0,Other,1.0,0.0,Middle third
+799,11989755,Lecture,0,Completer,1,14,14,C10,C,42.0,71.90255425,1,0,0,1,BIO,1.0,0.0,Upper third
+800,11984778,Lecture,0,Switcher-DiffDT,0,12,12,C9,,55.0,82.72311265,,1,0,,Other,,,Upper third
+801,11985865,Lecture,0,Completer,1,16,16,C12,B+,64.0,70.25921733,0,0,1,0,Other,1.0,0.0,Middle third
+802,11986349,Lecture,0,Completer,1,13,13,C9,A-,60.0,79.56319301,0,1,0,1,ECS,1.0,0.0,Upper third
+803,11981459,Active (MPC),1,Completer,1,29,13,T2,C,41.5,65.49620004,1,1,0,1,BIO,1.0,0.0,Middle third
+804,11987171,Lecture,0,Switcher-DiffDT,0,14,14,C10,,,69.00030598,,1,0,,Other,,,Middle third
+805,11985405,Lecture,0,Completer,1,12,12,C9,C+,41.0,75.25936212,0,0,1,1,ECS,1.0,0.0,Upper third
+806,11985064,Lecture,0,Completer,1,10,10,C7,A-,49.5,73.79836308,0,1,0,1,OSM,1.0,0.0,Upper third
+807,11982763,Lecture,0,Completer,1,11,11,C8,B-,27.5,81.93877959,0,1,0,1,BIO,1.0,0.0,Upper third
+808,11983400,Lecture,0,Completer,1,9,9,C7,C+,48.5,71.90258145,0,1,0,1,Other,1.0,0.0,Upper third
+809,11985512,Active (MPC),1,Completer,1,25,9,T3,OF,38.0,79.8225965,1,1,0,1,BIO,0.0,1.0,Upper third
+810,11985744,Lecture,0,Completer,1,12,12,C9,C+,,73.58911475,0,1,0,1,Other,1.0,0.0,Upper third
+811,11988078,Active (MPC),1,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+812,11985715,Lecture,0,Completer,1,11,11,C8,A-,76.5,75.32124305,1,1,0,1,BIO,1.0,0.0,Upper third
+813,11983470,Active (MPC),1,Completer,1,32,16,T7,DR,,70.85692853,1,0,0,1,BIO,0.0,1.0,Middle third
+814,11989507,Active (MPC),1,Completer,1,32,16,T7,C,42.5,69.96858034,1,1,0,1,BIO,1.0,0.0,Middle third
+815,11982644,Lecture,0,Completer,1,10,10,C7,C+,37.0,71.21733794,1,1,0,1,BIO,1.0,0.0,Middle third
+816,11989104,Lecture,0,Completer,1,9,9,C7,B-,36.0,77.28078292,1,0,0,1,ECS,1.0,0.0,Upper third
+817,11985180,Lecture,0,Completer,1,13,13,C9,C,46.0,67.87721245,0,1,0,1,ECS,1.0,0.0,Middle third
+818,11989859,Lecture,0,Completer,1,14,14,C10,C,36.0,71.93899486,1,1,0,1,BIO,1.0,0.0,Upper third
+819,11988988,Lecture,0,Departer,0,9,9,C7,,,57.64698436,,1,0,,Other,,,Lower third
+820,11989640,Active (MPC),1,Switcher-DiffDT,0,27,11,T1,,,71.97452229,,1,0,,Other,,,Upper third
+821,11989626,Lecture,0,Completer,1,13,13,C9,A,94.5,70.31244451,0,1,0,1,ECS,1.0,0.0,Middle third
+822,11982645,Lecture,0,Completer,1,14,14,C10,B,48.0,83.32930447,0,1,0,1,BIO,1.0,0.0,Upper third
+823,11988031,Active (MPC),1,Completer,1,29,13,T2,A-,62.5,80.34713307,0,0,0,1,ECS,1.0,0.0,Upper third
+824,11984671,Active (MPC),1,Completer,1,28,12,T5,C,47.5,73.51474731,1,1,0,1,ECS,1.0,0.0,Upper third
+825,11985508,Lecture,0,Completer,1,10,10,C7,OF,33.0,73.62324215,1,1,0,1,BIO,0.0,1.0,Upper third
+826,11981659,Lecture,0,Completer,1,11,11,C8,A-,68.0,72.48756521,0,1,0,1,OSM,1.0,0.0,Upper third
+827,11987638,Lecture,0,Completer,1,10,10,C7,C,38.0,73.23871354,0,1,0,1,ECS,1.0,0.0,Upper third
+828,11981399,Lecture,0,Completer,1,12,12,C9,A,52.5,83.76057492,1,1,0,1,BIO,1.0,0.0,Upper third
+829,11987177,Active (MPC),1,Completer,1,29,13,T2,C+,49.5,70.13275959,0,1,0,1,BIO,1.0,0.0,Middle third
+830,11986846,Lecture,0,Completer,1,9,9,C7,A,70.5,84.47964169,1,1,0,1,BIO,1.0,0.0,Upper third
+831,11987077,Active (MPC),1,Completer,1,32,16,T7,A-,69.5,70.11456419,1,1,0,1,Other,1.0,0.0,Middle third
+832,11983319,Active (MPC),1,Completer,1,26,10,T4,A,89.0,72.62169687,0,1,0,1,Other,1.0,0.0,Upper third
+833,11983095,Lecture,0,Completer,1,9,9,C7,A,76.5,85.62858616,1,1,0,1,Other,1.0,0.0,Upper third
+834,11914975,Lecture,0,Completer,1,8,8,C7,C,19.5,76.9358447,1,0,0,0,BIO,1.0,0.0,Upper third
+835,11986324,Active (MPC),1,Completer,1,25,9,T3,A,88.5,82.99169313,1,1,0,1,OSM,1.0,0.0,Upper third
+836,11988612,Lecture,0,Completer,1,13,13,C9,C,41.5,69.53284895,1,1,0,1,BIO,1.0,0.0,Middle third
+837,11988225,Active (MPC),1,Completer,1,28,12,T5,B-,61.5,67.58216968,0,0,0,1,ECS,1.0,0.0,Middle third
+838,11982859,Lecture,0,Completer,1,10,10,C7,A-,64.0,66.42369007,0,1,1,1,ECS,1.0,0.0,Middle third
+839,11981006,Lecture,0,Departer,0,,,,,,,,0,0,,Other,,,
+840,11985429,Lecture,0,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+841,11983821,Active (MPC),1,Completer,1,27,11,T1,A,94.5,70.56922184,1,1,0,0,BIO,1.0,0.0,Middle third
+842,11984312,Active (MPC),1,Completer,1,25,9,T3,OF,60.0,72.57856293,0,1,0,1,ECS,0.0,1.0,Upper third
+843,11988761,Active (MPC),1,Completer,1,26,10,T4,B-,66.5,66.76498208,0,1,0,1,BIO,1.0,0.0,Middle third
+844,11985155,Active (MPC),1,Completer,1,26,10,T4,C,55.5,70.95828225,1,1,0,1,Other,1.0,0.0,Middle third
+845,11983691,Active (MPC),1,Completer,1,29,13,T2,A,75.0,72.40630296,0,1,0,1,BIO,1.0,0.0,Upper third
+846,11988527,Lecture,0,Switcher-SameDT,0,14,14,C10,,75.5,70.85692853,,1,0,,Other,,,Middle third
+847,11984451,Active (MPC),1,Departer,0,29,13,T2,,,65.0955414,,1,0,,Other,,,Middle third
+848,11985943,Lecture,0,Completer,1,11,11,C8,A,69.0,84.07316498,0,1,0,1,BIO,1.0,0.0,Upper third
+849,11989019,Lecture,0,Completer,1,13,13,C9,C,41.5,68.66866019,1,1,0,1,BIO,1.0,0.0,Middle third
+850,11989868,Lecture,0,Completer,1,10,10,C7,A-,50.5,79.24652122,1,1,0,1,OSM,1.0,0.0,Upper third
+851,11989198,Active (MPC),1,Completer,1,27,11,T1,B+,88.5,68.5256143,1,1,0,1,BIO,1.0,0.0,Middle third
+852,11985138,Lecture,0,Completer,1,14,14,C10,C+,54.0,67.78690344,1,1,0,0,BIO,1.0,0.0,Middle third
+853,11985961,Lecture,0,Completer,1,10,10,C7,A,70.5,81.54337671,0,1,0,1,ECS,1.0,0.0,Upper third
+854,11985680,Active (MPC),1,Completer,1,29,13,T2,A,65.0,70.61996075,1,1,0,1,BIO,1.0,0.0,Middle third
+855,11985682,Active (MPC),1,Completer,1,26,10,T4,A,74.5,80.73697949,1,1,0,1,Other,1.0,0.0,Upper third
+856,11984825,Active (MPC),1,Departer,0,28,12,T5,,,75.79617834,,0,1,,Other,,,Upper third
+857,11989975,Lecture,0,Completer,1,11,11,C8,A-,56.5,77.90126079,0,0,0,0,Other,1.0,0.0,Upper third
+858,11989037,Lecture,0,Completer,1,12,12,C9,A,66.5,80.21738651,0,1,0,1,Other,1.0,0.0,Upper third
+859,11986383,Active (MPC),1,Completer,1,30,14,T6,B-,73.0,60.00940452,1,1,0,1,BIO,1.0,0.0,Lower third
+860,11985427,Active (MPC),1,Completer,1,27,11,T1,C+,57.5,69.22564833,0,1,0,1,BIO,1.0,0.0,Middle third
+861,11988888,Active (MPC),1,Completer,1,29,13,T2,B,59.0,63.8280621,0,0,0,1,Other,1.0,0.0,Middle third
+862,11981758,Lecture,0,Completer,1,11,11,C8,A,73.0,76.68809114,0,1,0,1,Other,1.0,0.0,Upper third
+863,11986809,Lecture,0,Completer,1,10,10,C7,A,62.5,73.78465849,1,1,0,1,Other,1.0,0.0,Upper third
+864,11984452,Active (MPC),1,Completer,1,29,13,T2,D,,65.91323385,0,1,0,0,ECS,0.0,1.0,Middle third
+865,11989680,Lecture,0,Switcher-DiffDT,0,,,,,,,,0,0,,Other,,,
+866,11989811,Lecture,0,Completer,1,11,11,C8,C+,33.0,71.03382449,1,1,0,1,BIO,1.0,0.0,Middle third
+867,11988630,Lecture,0,Completer,1,11,11,C8,C,37.5,56.01358324,0,1,0,1,Other,1.0,0.0,Lower third
+868,11915628,Active (MPC),1,Completer,1,22,6,T4,A-,75.25,,0,0,1,0,BIO,1.0,0.0,
+869,11983205,Lecture,0,Completer,1,16,16,C12,B+,69.5,76.06160905,1,1,0,1,BIO,1.0,0.0,Upper third
+870,11987787,Active (MPC),1,Completer,1,26,10,T4,A,83.0,66.04271535,1,1,0,1,Other,1.0,0.0,Middle third
+871,11983123,Active (MPC),1,Completer,1,29,13,T2,B,64.5,70.51336008,1,1,0,1,BIO,1.0,0.0,Middle third
+872,11984069,Lecture,0,Completer,1,10,10,C7,B+,63.5,76.06839929,1,1,0,1,BIO,1.0,0.0,Upper third
+873,11985621,Lecture,0,Completer,1,9,9,C7,A,58.0,81.4813847,1,1,0,1,BIO,1.0,0.0,Upper third
+874,11988828,Active (MPC),1,Completer,1,30,14,T6,A,96.5,79.42702049,1,1,0,1,Other,1.0,0.0,Upper third
+875,11984750,Lecture,0,Completer,1,9,9,C7,DR,,70.10986192,0,1,0,1,BIO,0.0,1.0,Middle third
+876,11989556,Lecture,0,Completer,1,13,13,C9,A,77.5,89.1620391,1,1,0,1,OSM,1.0,0.0,Upper third
+877,11988173,Lecture,0,Completer,1,12,12,C9,A-,54.5,73.72105386,1,1,0,1,BIO,1.0,0.0,Upper third
+878,11988873,Active (MPC),1,Completer,1,27,11,T1,C+,75.0,78.94391714,1,1,0,1,OSM,1.0,0.0,Upper third
+879,11983451,Active (MPC),1,Completer,1,26,10,T4,A-,70.5,70.6400124,1,1,0,1,ECS,1.0,0.0,Middle third
+880,11986378,Active (MPC),1,Completer,1,28,12,T5,C,56.5,78.07123857,0,1,0,1,BIO,1.0,0.0,Upper third
+881,11981139,Lecture,0,Completer,1,12,12,C9,B,50.5,68.00411069,0,1,0,1,BIO,1.0,0.0,Middle third
+882,11981352,Active (MPC),1,Switcher-DiffDT,0,,,,,46.5,,,0,0,,Other,,,
+883,11982750,Active (MPC),1,Completer,1,29,13,T2,B,74.0,76.34381253,0,1,0,1,OSM,1.0,0.0,Upper third
+884,11986068,Lecture,0,Completer,1,11,11,C8,A,70.5,68.58891097,1,0,0,1,BIO,1.0,0.0,Middle third
+885,11986244,Lecture,0,Completer,1,9,9,C7,A-,65.5,71.01388891,0,1,0,1,ECS,1.0,0.0,Middle third
+886,11989684,Lecture,0,Completer,1,11,11,C8,B,55.5,82.76508137,0,1,0,1,OSM,1.0,0.0,Upper third
+887,11983630,Lecture,0,Completer,1,15,15,C11,A,58.0,70.07575942,0,1,0,1,ECS,1.0,0.0,Middle third
+888,11982406,Active (MPC),1,Completer,1,30,14,T6,DR,,46.3565867,1,0,1,1,Other,0.0,1.0,Lower third
+889,11982927,Active (MPC),1,Completer,1,29,13,T2,C,60.5,74.12698588,1,1,0,1,BIO,1.0,0.0,Upper third
+890,11983922,Lecture,0,Completer,1,10,10,C7,C,31.0,74.41603706,1,0,1,1,Other,1.0,0.0,Upper third
+891,11986801,Active (MPC),1,Completer,1,25,9,T3,OF,40.5,79.90683731,0,1,0,1,BIO,0.0,1.0,Upper third
+892,11987088,Active (MPC),1,Completer,1,28,12,T5,A-,70.0,45.67037562,0,1,0,1,ECS,1.0,0.0,Lower third
+893,11916744,Lecture,0,Completer,1,6,6,C5,B+,36.5,69.17803276,1,1,0,0,BIO,1.0,0.0,Middle third
+894,11987021,Lecture,0,Switcher-DiffDT,0,,,,,76.0,,,0,0,,Other,,,
+895,11989590,Active (MPC),1,Completer,1,26,10,T4,A,87.5,61.87129701,1,1,0,1,BIO,1.0,0.0,Middle third
+896,11982852,Lecture,0,Completer,1,13,13,C9,B-,58.5,69.92136544,1,1,0,1,BIO,1.0,0.0,Middle third
+897,11984317,Active (MPC),1,Completer,1,30,14,T6,B+,81.0,77.7938741,0,1,0,1,ECS,1.0,0.0,Upper third
+898,11983515,Active (MPC),1,Completer,1,27,11,T1,A-,86.5,67.6934098,1,1,0,1,BIO,1.0,0.0,Middle third
+899,11981769,Active (MPC),1,Switcher-DiffDT,0,26,10,T4,,70.0,80.07125098,,1,0,,Other,,,Upper third
+900,11988334,Lecture,0,Completer,1,13,13,C9,C,32.0,80.16608911,1,0,0,1,BIO,1.0,0.0,Upper third
+901,11984546,Lecture,0,Completer,1,13,13,C9,B-,37.0,71.47724092,1,1,0,1,BIO,1.0,0.0,Middle third
+902,11987746,Active (MPC),1,Completer,1,31,15,T4,A,89.0,67.62419509,0,1,0,0,BIO,1.0,0.0,Middle third
+903,11988040,Lecture,0,Switcher-DiffDT,0,16,16,C12,,,68.02547771,,1,0,,Other,,,Middle third
+904,11988416,Lecture,0,Completer,1,10,10,C7,B+,67.0,61.92505815,1,1,0,1,BIO,1.0,0.0,Middle third
+905,11985494,Active (MPC),1,Completer,1,30,14,T6,A-,84.5,73.79621075,1,1,0,1,BIO,1.0,0.0,Upper third
+906,11985415,Lecture,0,Completer,1,14,14,C10,A,72.5,83.12419072,0,1,0,1,ECS,1.0,0.0,Upper third
+907,11987282,Lecture,0,Completer,1,14,14,C10,OF,,70.75197571,0,1,0,1,ECS,0.0,1.0,Middle third
+908,11983796,Lecture,0,Completer,1,9,9,C7,A,93.5,80.40180203,1,1,0,1,Other,1.0,0.0,Upper third
+909,11986525,Lecture,0,Completer,1,13,13,C9,C,44.5,73.25354428,0,1,0,1,ECS,1.0,0.0,Upper third
+910,11989353,Active (MPC),1,Completer,1,29,13,T2,A,77.5,72.64793967,0,1,0,1,ECS,1.0,0.0,Upper third
+911,11987430,Lecture,0,Switcher-DiffDT,0,9,9,C7,,71.0,76.28536521,,1,0,,Other,,,Upper third
+912,11983030,Lecture,0,Completer,1,14,14,C10,A,82.0,85.48087862,0,1,0,1,ECS,1.0,0.0,Upper third
+913,11986413,Active (MPC),1,Completer,1,28,12,T5,A,90.5,75.68823203,1,0,0,1,BIO,1.0,0.0,Upper third
+914,11982107,Lecture,0,Completer,1,15,15,C11,A,76.5,82.61463658,1,0,0,1,BIO,1.0,0.0,Upper third
+915,11987717,Lecture,0,Completer,1,10,10,C7,A,73.0,75.78200951,1,1,1,1,BIO,1.0,0.0,Upper third
+916,11989406,Active (MPC),1,Completer,1,25,9,T3,DR,,77.10861258,1,0,1,1,Other,0.0,1.0,Upper third
+917,11984992,Active (MPC),1,Completer,1,25,9,T3,DR,,72.85019781,0,1,0,1,Other,0.0,1.0,Upper third
+918,11983732,Active (MPC),1,Completer,1,29,13,T2,A,95.5,83.75108076,1,0,0,1,ECS,1.0,0.0,Upper third
+919,11985923,Lecture,0,Completer,1,9,9,C7,C+,57.0,78.69845956,1,0,0,1,ECS,1.0,0.0,Upper third
+920,11984747,Active (MPC),1,Completer,1,26,10,T4,A,98.5,76.21979556,0,1,0,1,ECS,1.0,0.0,Upper third
+921,11986708,Active (MPC),1,Completer,1,28,12,T5,A,80.5,75.30115119,1,0,0,1,BIO,1.0,0.0,Upper third
+922,11981483,Lecture,0,Completer,1,10,10,C7,A,77.0,72.73319861,0,1,0,1,ECS,1.0,0.0,Upper third
+923,11987408,Active (MPC),1,Completer,1,25,9,T3,C+,68.0,68.14355863,1,1,0,1,BIO,1.0,0.0,Middle third
+924,11985586,Lecture,0,Completer,1,10,10,C7,A,76.0,72.97458749,0,1,0,1,ECS,1.0,0.0,Upper third
+925,11989049,Lecture,0,Completer,1,9,9,C7,B,69.0,68.15554449,0,1,0,1,ECS,1.0,0.0,Middle third
+926,11983370,Active (MPC),1,Completer,1,30,14,T6,A,98.5,87.90126079,1,0,0,1,Other,1.0,0.0,Upper third
+927,11982089,Active (MPC),1,Completer,1,27,11,T1,OF,56.5,66.4052384,1,0,0,0,OSM,0.0,1.0,Middle third
+928,11987153,Active (MPC),1,Completer,1,29,13,T2,B,78.0,68.05752479,0,1,0,1,BIO,1.0,0.0,Middle third
+929,11982201,Active (MPC),1,Completer,1,25,9,T3,B,67.0,74.85459915,1,1,0,1,BIO,1.0,0.0,Upper third
+930,11914858,Lecture,0,Completer,1,8,8,C7,F,,,0,1,1,0,BIO,0.0,1.0,
+931,11988096,Active (MPC),1,Completer,1,25,9,T3,F,,,0,1,1,0,BIO,0.0,1.0,
+932,11984052,Active (MPC),1,Completer,1,30,14,T6,A,94.5,79.92747348,1,1,0,1,BIO,1.0,0.0,Upper third
+933,11982175,Active (MPC),1,Departer,0,26,10,T4,,,76.05095541,,1,0,,Other,,,Upper third
+934,11983145,Lecture,0,Completer,1,13,13,C9,C,37.5,68.43929739,1,1,0,1,BIO,1.0,0.0,Middle third
+935,11981200,Active (MPC),1,Completer,1,27,11,T1,C+,85.5,65.96401874,0,1,0,1,BIO,1.0,0.0,Middle third
+936,11982847,Active (MPC),1,Completer,1,29,13,T2,B,60.5,67.30590761,1,1,0,1,OSM,1.0,0.0,Middle third
+937,11982674,Active (MPC),1,Completer,1,26,10,T4,A-,65.5,73.89762308,1,1,0,1,BIO,1.0,0.0,Upper third
+938,11981464,Active (MPC),1,Departer,0,32,16,T7,,,71.59235669,,0,0,,Other,,,Upper third
+939,11983858,Lecture,0,Switcher-DiffDT,0,9,9,C7,,58.5,69.90842312,,1,0,,Other,,,Middle third
+940,11982624,Lecture,0,Switcher-SameDT,0,16,16,C12,,67.0,78.93134561,,1,0,,Other,,,Upper third
+941,11982774,Active (MPC),1,Completer,1,27,11,T1,C,59.5,77.56050542,0,1,0,1,BIO,1.0,0.0,Upper third
+942,11989438,Lecture,0,Completer,1,9,9,C7,A,66.5,79.00414102,0,0,0,1,ECS,1.0,0.0,Upper third
+943,11985050,Active (MPC),1,Completer,1,29,13,T2,A,90.5,82.17990493,1,1,0,1,ECS,1.0,0.0,Upper third
+944,11988032,Lecture,0,Completer,1,9,9,C7,OF,,71.65875372,0,1,0,1,BIO,0.0,1.0,Upper third
+945,11987114,Lecture,0,Completer,1,11,11,C8,OF,,75.70301565,1,1,0,1,ECS,0.0,1.0,Upper third
+946,11987620,Active (MPC),1,Completer,1,32,16,T7,A,82.0,83.86333519,1,0,0,1,BIO,1.0,0.0,Upper third
+947,11989539,Lecture,0,Completer,1,13,13,C9,A,,71.90725651,1,0,0,1,Other,1.0,0.0,Upper third
+948,11984224,Active (MPC),1,Completer,1,31,15,T4,DR,,58.32431262,1,0,0,0,BIO,0.0,1.0,Lower third
+949,11984200,Lecture,0,Completer,1,14,14,C10,A,80.0,77.61585696,0,1,0,1,BIO,1.0,0.0,Upper third
+950,11985303,Active (MPC),1,Completer,1,28,12,T5,B+,77.0,76.553008,0,1,0,1,OSM,1.0,0.0,Upper third
+951,11984584,Lecture,0,Completer,1,14,14,C10,OF,16.0,72.74610684,0,1,0,1,BIO,0.0,1.0,Upper third
+952,11986529,Active (MPC),1,Completer,1,30,14,T6,A-,87.5,76.61537157,1,1,0,1,Other,1.0,0.0,Upper third
+953,11987692,Active (MPC),1,Completer,1,25,9,T3,A,91.5,81.47346256,1,1,0,1,BIO,1.0,0.0,Upper third
+954,11981525,Active (MPC),1,Completer,1,25,9,T3,OF,49.0,70.32603801,1,0,0,1,Other,0.0,1.0,Middle third
+955,11982932,Lecture,0,Completer,1,13,13,C9,C,62.0,77.30619336,1,1,0,1,BIO,1.0,0.0,Upper third
+956,11985594,Active (MPC),1,Completer,1,28,12,T5,A,85.0,82.3713049,0,1,1,1,Other,1.0,0.0,Upper third
+957,11986798,Active (MPC),1,Completer,1,27,11,T1,C,68.5,74.39101578,0,1,0,1,Other,1.0,0.0,Upper third
+958,11981235,Active (MPC),1,Completer,1,27,11,T1,OF,9.0,68.04412243,1,1,1,1,Other,0.0,1.0,Middle third
+959,11987175,Active (MPC),1,Departer,0,29,13,T2,,,68.02547771,,0,0,,Other,,,Middle third
+960,11987082,Lecture,0,Completer,1,9,9,C7,C,43.5,64.46950019,1,1,0,1,Other,1.0,0.0,Middle third
+961,11981722,Active (MPC),1,Departer,0,,,,,,,,0,0,,Other,,,
+962,11983346,Lecture,0,Completer,1,12,12,C9,DR,,73.90404905,1,1,1,1,BIO,0.0,1.0,Upper third
+963,11989167,Lecture,0,Completer,1,9,9,C7,A,80.0,68.60708263,1,1,0,1,BIO,1.0,0.0,Middle third
+964,11989419,Lecture,0,Completer,1,15,15,C11,C+,,70.67267848,0,0,0,0,Other,1.0,0.0,Middle third
+965,11983991,Active (MPC),1,Completer,1,26,10,T4,B-,59.5,78.49599343,1,1,0,1,BIO,1.0,0.0,Upper third
+966,11985042,Lecture,0,Completer,1,15,15,C11,C,22.0,44.78350292,1,1,0,0,BIO,1.0,0.0,Lower third
+967,11986621,Active (MPC),1,Completer,1,26,10,T4,A,85.5,74.6593381,1,1,0,1,BIO,1.0,0.0,Upper third
+968,11913016,Lecture,0,Completer,1,8,8,C7,A-,30.75,,1,0,1,0,BIO,1.0,0.0,
+969,11986697,Lecture,0,Completer,1,9,9,C7,OF,33.5,78.04166672,1,0,1,0,Other,0.0,1.0,Upper third
+970,11981964,Active (MPC),1,Completer,1,30,14,T6,A,85.5,83.97165957,1,0,0,1,BIO,1.0,0.0,Upper third
+971,11982788,Lecture,0,Completer,1,14,14,C10,A,60.5,75.41398171,0,1,0,1,ECS,1.0,0.0,Upper third
+972,11982838,Active (MPC),1,Completer,1,29,13,T2,A,61.5,75.39828567,0,1,0,1,ECS,1.0,0.0,Upper third
+973,11986066,Lecture,0,Completer,1,12,12,C9,C,67.0,80.45828432,0,1,0,1,BIO,1.0,0.0,Upper third
+974,11985459,Lecture,0,Completer,1,10,10,C7,C+,42.0,69.38851297,1,1,1,1,BIO,1.0,0.0,Middle third
+975,11987956,Active (MPC),1,Departer,0,25,9,T3,,,76.54543175,,1,0,,Other,,,Upper third
+976,11985974,Active (MPC),1,Completer,1,32,16,T7,OF,,66.23321975,0,0,0,1,BIO,0.0,1.0,Middle third
+977,11984328,Active (MPC),1,Switcher-SameDT,0,26,10,T4,,,61.58375962,,1,0,,Other,,,Middle third
+978,11985439,Lecture,0,Completer,1,9,9,C7,A-,59.5,72.2541452,0,1,0,1,ECS,1.0,0.0,Upper third
+979,11986232,Active (MPC),1,Completer,1,28,12,T5,D,29.0,74.07960473,0,0,0,0,Other,0.0,1.0,Upper third
+980,11988531,Active (MPC),1,Completer,1,29,13,T2,B,62.5,74.37524735,0,1,0,1,OSM,1.0,0.0,Upper third
+981,11982777,Active (MPC),1,Completer,1,30,14,T6,B-,63.0,75.16993642,1,1,0,1,Other,1.0,0.0,Upper third
+982,11986420,Active (MPC),1,Completer,1,30,14,T6,C,78.5,72.11332174,1,1,1,1,BIO,1.0,0.0,Upper third
+983,11982606,Lecture,0,Completer,1,14,14,C10,B+,39.0,78.33564118,0,0,0,1,Other,1.0,0.0,Upper third
+984,11985550,Lecture,0,Completer,1,14,14,C10,A,73.5,80.48864218,1,1,0,1,OSM,1.0,0.0,Upper third
+985,11985829,Lecture,0,Completer,1,9,9,C7,A,77.5,79.45127107,0,0,0,1,ECS,1.0,0.0,Upper third
+986,11988292,Active (MPC),1,Completer,1,26,10,T4,B+,57.0,78.19297106,1,1,1,1,BIO,1.0,0.0,Upper third
+987,11989999,Lecture,0,Completer,1,9,9,C7,C+,53.0,65.48293979,0,1,0,1,BIO,1.0,0.0,Middle third
+988,11984828,Lecture,0,Completer,1,12,12,C9,A,90.0,85.99043276,0,1,0,1,ECS,1.0,0.0,Upper third
+989,11988719,Lecture,0,Completer,1,16,16,C12,A,70.5,74.65608987,1,1,0,1,OSM,1.0,0.0,Upper third
+990,11988571,Lecture,0,Completer,1,14,14,C10,B-,63.5,79.07850846,1,0,0,0,BIO,1.0,0.0,Upper third
+991,11989748,Active (MPC),1,Completer,1,28,12,T5,OF,16.0,69.63000527,0,1,0,1,OSM,0.0,1.0,Middle third
+992,11989752,Active (MPC),1,Completer,1,29,13,T2,A,86.5,76.5122183,0,0,1,1,Other,1.0,0.0,Upper third
+993,11981433,Lecture,0,Completer,1,14,14,C10,A,77.5,78.84789081,1,1,0,1,BIO,1.0,0.0,Upper third
+994,11989075,Active (MPC),1,Completer,1,28,12,T5,C+,63.5,74.42349035,0,0,0,1,ECS,1.0,0.0,Upper third
+995,11981870,Active (MPC),1,Completer,1,30,14,T6,B-,87.0,68.42218255,1,0,0,1,OSM,1.0,0.0,Middle third
+996,11989569,Lecture,0,Completer,1,13,13,C9,B,64.5,69.65654876,0,0,0,1,OSM,1.0,0.0,Middle third
+997,11983227,Active (MPC),1,Completer,1,26,10,T4,A,72.0,67.74540587,0,1,1,1,ECS,1.0,0.0,Middle third
+998,11981485,Active (MPC),1,Completer,1,25,9,T3,B+,67.5,74.03505046,0,1,0,1,ECS,1.0,0.0,Upper third
+999,11985433,Active (MPC),1,Completer,1,29,13,T2,C,57.0,67.77349304,0,1,0,1,ECS,1.0,0.0,Middle third
+1000,11988466,Lecture,0,Completer,1,14,14,C10,C,52.5,77.11951328,0,1,0,1,Other,1.0,0.0,Upper third
+1001,11986690,Lecture,0,Completer,1,9,9,C7,A,71.0,72.93786534,0,1,0,0,BIO,1.0,0.0,Upper third
+1002,11988745,Lecture,0,Completer,1,11,11,C8,OF,,71.25180816,0,0,1,1,ECS,0.0,1.0,Middle third
+1003,11984685,Lecture,0,Completer,1,14,14,C10,OF,,79.48129645,0,1,0,1,BIO,0.0,1.0,Upper third
+1004,11989957,Lecture,0,Completer,1,15,15,C11,A-,66.0,75.89645648,0,1,0,1,ECS,1.0,0.0,Upper third
+1005,11987090,Active (MPC),1,Departer,0,28,12,T5,,,66.62420382,,1,0,,Other,,,Middle third
+1006,11983924,Active (MPC),1,Departer,0,30,14,T6,,,71.21019108,,0,0,,Other,,,Middle third
+1007,11985288,Lecture,0,Completer,1,11,11,C8,OF,40.5,84.41070047,1,1,0,1,Other,0.0,1.0,Upper third
+1008,11981298,Lecture,0,Completer,1,16,16,C12,C,40.0,41.67568738,0,1,0,0,Other,1.0,0.0,Lower third
+1009,11989086,Active (MPC),1,Completer,1,30,14,T6,A,93.5,44.03550552,0,1,0,0,OSM,1.0,0.0,Lower third
+1010,11989176,Lecture,0,Completer,1,11,11,C8,B,61.0,,1,1,0,0,BIO,1.0,0.0,
+1011,11989767,Active (MPC),1,Completer,1,29,13,T2,B-,53.0,74.32344663,1,1,0,0,OSM,1.0,0.0,Upper third
+1012,11984174,Active (MPC),1,Completer,1,29,13,T2,A,84.5,85.10482182,0,1,0,0,Other,1.0,0.0,Upper third
+1013,11986411,Lecture,0,Departer,0,12,12,C9,,,,,0,0,,Other,,,
+1014,11985774,Active (MPC),1,Completer,1,29,13,T2,B+,33.5,76.55408321,0,0,0,1,Other,1.0,0.0,Upper third
+1015,11982564,Active (MPC),1,Completer,1,25,9,T3,A,98.5,81.1078514,0,1,0,0,Other,1.0,0.0,Upper third
+1016,11985541,Active (MPC),1,Completer,1,29,13,T2,A,89.5,83.07829196,0,1,0,0,Other,1.0,0.0,Upper third
+1017,11983743,Lecture,0,Completer,1,10,10,C7,C+,51.5,47.64453287,1,0,0,0,ECS,1.0,0.0,Lower third
+1018,11989504,Active (MPC),1,Completer,1,25,9,T3,C+,57.0,,1,1,0,0,BIO,1.0,0.0,
+1019,11988505,Active (MPC),1,Completer,1,30,14,T6,D,33.5,66.31012141,1,1,0,0,BIO,0.0,1.0,Middle third

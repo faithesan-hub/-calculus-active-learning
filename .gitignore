@@ -1,0 +1,10 @@
+.env
+*.pem
+__pycache__/
+node_modules/
+package-lock.json
+.DS_Store
+~$*
+paper/*.aux
+paper/*.log
+paper/*.out

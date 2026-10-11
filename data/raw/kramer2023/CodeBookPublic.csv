@@ -1,0 +1,29 @@
+﻿Field,Description
+studyID,[P] Anonymized Study Tracking ID
+Treatment,"[P] Trial Assignment Group TR=Treatment, CN=Control"
+TrialStatus,[P] Status in Trial after assignment
+LearningMeasure,[P] End of Term Learning Outcome Measure Scaled to 0 to 100
+Grade,"[I] Course Grade assigned from grade report on the letter grade scale A, B, C, D, and F with + or -. DR=student dropped course, OF=other failing grade outcomes including imcompletes and no credit awarded, NA=no grade was awarded"
+MBS,[I] Average of SAT/ACT/HSGPA/MPS scaled to 0 to 100
+Gender,[I] Student Gender
+RaEth,[I] Race or Ethnicity of Student as Descriptive Text
+RE,[I] Race or Ethnicity of Student recoded as numeric in single column form
+TIDw,[I] Teacher ID with Repetitions
+Section,[I] Course Section of Student
+SecPair,[I] Time of Day/Day of Week Registered by Student
+REBlack,"[I] 1 if student identified to Institution as Black or African American, 0 if not"
+REHispanic,"[I] 1 if student identified to Institution as Hispanic or Latino/Latina, 0 if not"
+REAAPI,"[I] 1 if student identified to Institution as Asian American or Pacific Islander, 0 if not"
+REWhite,"[I] 1 if student identified to Institution as White, 0 if not"
+Cohort,"[I] Either FTiC (First Time in College), Transfer or No Cohort"
+MajorGrp,"[I] Grouped Major Categories ECS=Engingeering and Computer Science, OMS=Other Math and Science, BIO=Biology Related, Other=Any other major code"
+"Grade includes the letter grade outcome for the student if they persisted in the assigned section of the course on the usual A,B,C,D, or F scale with + or - possible for A, B, and C. DR indicates that the student dropped the course after the initial drop/add period and so recieved an outcome. Other modes of failure are represented by OF and include incompletes and other academic outcomes that might be unrelated to course performance (e.g. no credit assigned for administrative reasons). NA indicates no grade outcome exists and that the student was lost from trial allocation.",
+Section is a numeric representation from 1 to 32 of the section assigned to the student by the trial. It is not the section number used for enrollment records but corresponds to one.,
+"SecPair is the original section group (time of day/days of week) selected by the student during registration prior to random allocation numbered 1 to 16. It is not a section number used for registration, but it corresponds to one prior to the random allocation.",
+"RaEth and RE represent a single column, single membership record of race and ethnicity maintained in institutional records for single column analysis. REBlack, REHispanic, REAAPI and REWhite are columns that encode the possibly multi-membership race or ethnicity information maintained in institutional records.",
+MajorGrp fields contain the following majors from student declared institutional data in each coded group.,
+Code,Majors
+ECS,"Environmental Engineering - BS, Computer Science - BS, Computer Science - BA, Computer Engineering - BS, Mechanical Engineering - BS, Engineering - BS, Civil Engineering - BS, Biomedical Engineering - BS"
+OMS,"Chemistry - BA, Chemistry - BS, Geosciences - BS, Mathematical Sciences - BS, Physics - BS"
+BIO,"Marine Biology - BS, Biological Sciences - BA, Biological Sciences - BS"
+Other,"Accounting - BAcc, Art - BFA, Biochemistry - BS, Construction Mgt - BS, Dietetics and Nutrition - BS, Dual Enrollment - Full Time, Economics - BA, English - BA, Environmental Studies - BS, Exp-Admin & Management, Exp-Biological/Enviro Science, Exp-Global & Social Sciences, Exp-Health Sciences, Exp-Humanities & Arts, Exp-Physical Sci/Engineer, Finance - BBA, Global First Year Three, Hospitality Management - BS, Interdisciplinary Studies - BA, International Business - BBA, International Relations - BA, Internet of Things - BS, Liberal Studies - BA, Management - BBA, National Student Exchange A, Non-Degree Seeking Student, Philosophy - BA, Political Science - BA, Psychology - BA, Pub Relatns Adv & App Com- BS, Recreation Sport Mgt - BS, Sociology/Anthropology - BA, Transient Student"
